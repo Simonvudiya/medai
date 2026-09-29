@@ -700,164 +700,146 @@ def answer_question(
 # --------------------------------------------------------------------------- #
 
 
-def _value_counts(items: Iterable[Any], top_n: int = 15) -> "pandas.DataFrame":
-    import pandas as pd  # lazy
+def _top(items: Iterable[Any], top_n: int = 15) -> List[Tuple[str, int]]:
+    """Return the ``top_n`` most frequent items as (label, count), dropping empties."""
+    from collections import Counter
 
-    counts = pd.Series(list(items)).value_counts().rename_axis("term").reset_index(name="count")
-    counts = counts[counts["term"].notna() & (counts["term"].astype(str) != "")]
-    return counts.head(top_n)
-
-
-def _bar(counts_df, x="term", y="count", title="", orientation="v"):
-    import plotly.express as px  # lazy
-
-    fig = px.bar(
-        counts_df,
-        x=None if orientation == "h" else x,
-        y=None if orientation == "v" else y,
-        color=y,
-        orientation=orientation,
-        title=title,
-        text_auto=".2s",
-    )
-    if orientation == "h":
-        fig.update_layout(yaxis=dict(autorange="reversed"))
-    fig.update_layout(showlegend=False, xaxis_title=None, yaxis_title=None)
-    return fig
+    counts: Counter = Counter()
+    for x in items:
+        if x is None or x == "" or x == []:
+            continue
+        counts[str(x)] += 1
+    return counts.most_common(top_n)
 
 
-def chart_records_per_family(records: Sequence[Dict[str, Any]], top_n: int = 20):
-    import pandas as pd
+def _render_bar(
+    st,
+    counts: Sequence[Tuple[str, int]],
+    horizontal: bool = True,
+    key: Optional[str] = None,
+) -> bool:
+    """Draw a bar chart: plotly when available, else Streamlit built-ins.
 
-    fams = _value_counts([r.get("family", "") for r in records], top_n)
-    if fams.empty:
+    Returns True if a chart was drawn, False when there were no counts.
+    """
+    if not counts:
+        return False
+    labels = [str(l) for l, _ in counts]
+    values = [v for _, v in counts]
+    try:
+        import plotly.graph_objects as go  # lazy
+
+        fig = go.Figure()
+        if horizontal:
+            fig.add_bar(x=values, y=labels, orientation="h")
+            fig.update_yaxes(autorange="reversed")
+        else:
+            fig.add_bar(x=labels, y=values)
+            fig.update_xaxes(tickangle=-45)
+        fig.update_layout(
+            showlegend=False,
+            xaxis_title=None,
+            yaxis_title=None,
+            margin=dict(l=40, r=40, t=24, b=40),
+        )
+        st.plotly_chart(fig, width="stretch", key=key)
+    except ImportError:  # plotly not installed -> use Streamlit built-in
+        st.bar_chart({l: v for l, v in counts})
+    return True
+
+
+# UI label -> (kind, top_n, horizontal)
+CHART_SPECS: Dict[str, Tuple[str, Optional[int], bool]] = {
+    "Records per family": ("family", 20, True),
+    "Top traditional uses": ("use", 15, True),
+    "Records per source page": ("page", 30, True),
+    "Local-name languages": ("language", 15, True),
+    "Compounds per family": ("compound_family", 20, True),
+    "Compounds per species": ("compound_species", 20, True),
+    "Compound molecular-weight distribution": ("mw", None, False),
+    "Compound novelty breakdown": ("novelty", 20, False),
+    "Plants per disease": ("disease", 20, True),
+    "Vernacular names per language/tribe": ("vernacular", 15, True),
+    "Records per data source": ("source", None, True),
+}
+
+
+def _mw_bins(
+    compounds: Sequence[Dict[str, Any]], bins: int = 30
+) -> List[Tuple[str, int]]:
+    """Bin molecular weights into histogram buckets as (range_label, count)."""
+    weights: List[float] = []
+    for c in compounds:
+        try:
+            weights.append(float(c.get("molecularWeight")))
+        except (TypeError, ValueError):
+            continue
+    if not weights:
+        return []
+    lo, hi = min(weights), max(weights)
+    if hi == lo:
+        return [(f"{lo:.1f}", len(weights))]
+    step = (hi - lo) / bins
+    edges = [lo + i * step for i in range(bins + 1)]
+    bucket: Dict[int, int] = {}
+    for w in weights:
+        idx = min(int((w - lo) / step), bins - 1)
+        bucket[idx] = bucket.get(idx, 0) + 1
+    return [(f"{edges[i]:.1f}-{edges[i + 1]:.1f}", n) for i, n in sorted(bucket.items())]
+
+
+def compute_chart_counts(
+    option: str,
+    records: Sequence[Dict[str, Any]],
+    compounds: Sequence[Dict[str, Any]],
+    disease_plants: Sequence[Dict[str, Any]],
+    vernacular: Sequence[Dict[str, Any]],
+    source_counts: Mapping[str, int],
+) -> Optional[Tuple[str, Sequence[Tuple[str, int]], bool]]:
+    """Return (title, counts, horizontal) for the chosen chart, or None."""
+    if option not in CHART_SPECS:
         return None
-    fams = fams.sort_values("count", ascending=True)
-    return _bar(fams, x="count", y="term", title="Records per family", orientation="h")
+    kind, top_n, horizontal = CHART_SPECS[option]
 
-
-def chart_top_uses(records: Sequence[Dict[str, Any]], top_n: int = 15):
-    uses = _value_counts(
-        (u for r in records for u in (r.get("traditionalUses") or [])), top_n
-    )
-    if uses.empty:
+    if kind == "family":
+        counts = _top((r.get("family", "") for r in records), top_n)
+    elif kind == "use":
+        counts = _top((u for r in records for u in (r.get("traditionalUses") or [])), top_n)
+    elif kind == "page":
+        counts = _top((r.get("source", {}).get("page") for r in records), top_n)
+    elif kind == "language":
+        counts = _top(
+            (n.get("language") for r in records for n in (r.get("localNames") or [])),
+            top_n,
+        )
+    elif kind == "compound_family":
+        counts = _top((c.get("family", "") for c in compounds if c.get("family")), top_n)
+    elif kind == "compound_species":
+        counts = _top((c.get("species", "") for c in compounds if c.get("species")), top_n)
+    elif kind == "mw":
+        counts = _mw_bins(compounds)
+    elif kind == "novelty":
+        counts = _top((c.get("novelty") for c in compounds if c.get("novelty") is not None), top_n)
+    elif kind == "disease":
+        agg: Dict[str, int] = {}
+        for e in disease_plants:
+            if isinstance(e, dict) and e.get("disease"):
+                name = e["disease"]
+                agg[name] = agg.get(name, 0) + len(e.get("plants", []))
+        counts = sorted(agg.items(), key=lambda kv: (-kv[1], kv[0]))[: (top_n or 50)]
+    elif kind == "vernacular":
+        counts = _top(
+            (v.get("language_tribe", "") for v in vernacular if isinstance(v, dict)),
+            top_n,
+        )
+    elif kind == "source":
+        limit = top_n if top_n else 100
+        counts = sorted(source_counts.items(), key=lambda kv: (-kv[1], kv[0]))[:limit]
+    else:
+        counts = []
+    if not counts:
         return None
-    uses = uses.sort_values("count", ascending=True)
-    return _bar(uses, x="count", y="term", title="Top traditional uses", orientation="h")
-
-
-def chart_records_per_page(records: Sequence[Dict[str, Any]]):
-    pages = _value_counts(
-        (r.get("source", {}).get("page") for r in records), 30
-    )
-    if pages.empty:
-        return None
-    pages["term"] = pages["term"].astype(str)
-    pages = pages.sort_values("count", ascending=True)
-    return _bar(pages, x="count", y="term", title="Records per source page", orientation="h")
-
-
-def chart_languages(records: Sequence[Dict[str, Any]], top_n: int = 15):
-    langs = _value_counts(
-        (n.get("language") for r in records for n in (r.get("localNames") or [])),
-        top_n,
-    )
-    if langs.empty:
-        return None
-    langs = langs.sort_values("count", ascending=True)
-    return _bar(langs, x="count", y="term", title="Local-name languages", orientation="h")
-
-
-def chart_compounds_per_family(compounds: Sequence[Dict[str, Any]], top_n: int = 20):
-    families = _value_counts(
-        (c.get("family", "") for c in compounds if c.get("family")), top_n
-    )
-    if families.empty:
-        return None
-    families = families.sort_values("count", ascending=True)
-    return _bar(families, x="count", y="term", title="Compounds per family", orientation="h")
-
-
-def chart_compounds_per_species(compounds: Sequence[Dict[str, Any]], top_n: int = 20):
-    species = _value_counts(
-        (c.get("species", "") for c in compounds if c.get("species")), top_n
-    )
-    if species.empty:
-        return None
-    species = species.sort_values("count", ascending=True)
-    return _bar(species, x="count", y="term", title="Compounds per species", orientation="h")
-
-
-def chart_mw_histogram(compounds: Sequence[Dict[str, Any]]):
-    import pandas as pd
-    import plotly.express as px
-
-    weights = pd.to_numeric(
-        pd.Series([c.get("molecularWeight") for c in compounds]), errors="coerce"
-    ).dropna()
-    if weights.empty:
-        return None
-    fig = px.histogram(
-        weights,
-        x=weights,
-        nbins=40,
-        title="Distribution of compound molecular weights",
-        labels={"x": "Molecular weight", "y": "Count"},
-    )
-    fig.update_layout(showlegend=False)
-    return fig
-
-
-def chart_novelty(compounds: Sequence[Dict[str, Any]]):
-    nov = _value_counts((c.get("novelty") for c in compounds), 20)
-    if nov.empty:
-        return None
-    nov = nov.sort_values("count", ascending=True)
-    return _bar(nov, x="term", y="count", title="Compound novelty breakdown", orientation="v")
-
-
-def chart_diseases(disease_plants: Sequence[Dict[str, Any]], top_n: int = 20):
-    plants_per_disease = (
-        len(e.get("plants", [])) if isinstance(e, dict) else 0 for e in disease_plants
-    )
-    counts = _value_counts(
-        (
-            e.get("disease", "")
-            for e in disease_plants
-            if isinstance(e, dict) and e.get("disease")
-        ),
-        top_n,
-    )
-    if counts.empty:
-        return None
-    counts = counts.sort_values("count", ascending=True)
-    return _bar(counts, x="count", y="term", title="Plants indexed per disease", orientation="h")
-
-
-def chart_vernacular(vernacular: Sequence[Dict[str, Any]], top_n: int = 15):
-    langs = _value_counts(
-        (v.get("language_tribe", "") for v in vernacular if isinstance(v, dict)),
-        top_n,
-    )
-    if langs.empty:
-        return None
-    langs = langs.sort_values("count", ascending=True)
-    return _bar(langs, x="count", y="term", title="Vernacular names per language/tribe", orientation="h")
-
-
-def _chart_records_per_source(source_counts: Mapping[str, int]):
-    import pandas as pd
-
-    if not source_counts:
-        return None
-    df = (
-        pd.Series(source_counts, name="count")
-        .rename_axis("term")
-        .reset_index()
-        .astype({"term": str, "count": int})
-    )
-    df = df.sort_values("count", ascending=True)
-    return _bar(df, x="count", y="term", title="Raw records per source file", orientation="h")
+    return option, counts, horizontal
 
 
 def _empty_chart(st, title: str) -> None:
@@ -1129,99 +1111,48 @@ def run_streamlit_app() -> None:
 
     # ================= CHARTS ================= #
     with tab_charts:
-        recs = records
         cmps = dataset.get("compounds", [])
         dp = dataset.get("disease_plants", [])
         vd = dataset.get("vernacular", [])
+        src_counts = dataset.get("record_source_counts", {})
 
         st.markdown(
             "Visualise the merged dataset built from every local JSON file and "
             "notepad. Choose a dimension below, or scroll through the gallery."
         )
 
-        option = st.selectbox(
-            "What to chart",
-            [
-                "Records per family",
-                "Top traditional uses",
-                "Records per source page",
-                "Local-name languages",
-                "Compounds per family",
-                "Compounds per species",
-                "Compound molecular-weight distribution",
-                "Compound novelty breakdown",
-                "Plants per disease",
-                "Vernacular names per language/tribe",
-                "Records per data source",
-            ],
-            index=0,
-        )
+        option = st.selectbox("What to chart", list(CHART_SPECS.keys()), index=0)
 
         st.markdown("### Selected chart")
-        if option == "Records per family":
-            fig = chart_records_per_family(recs)
-        elif option == "Top traditional uses":
-            fig = chart_top_uses(recs)
-        elif option == "Records per source page":
-            fig = chart_records_per_page(recs)
-        elif option == "Local-name languages":
-            fig = chart_languages(recs)
-        elif option == "Compounds per family":
-            fig = chart_compounds_per_family(cmps)
-        elif option == "Compounds per species":
-            fig = chart_compounds_per_species(cmps)
-        elif option == "Compound molecular-weight distribution":
-            fig = chart_mw_histogram(cmps)
-        elif option == "Compound novelty breakdown":
-            fig = chart_novelty(cmps)
-        elif option == "Plants per disease":
-            fig = chart_diseases(dp)
-        elif option == "Vernacular names per language/tribe":
-            fig = chart_vernacular(vd)
-        elif option == "Records per data source":
-            fig = _chart_records_per_source(dataset.get("record_source_counts", {}))
-        else:
-            fig = None
-
-        if fig is not None:
-            st.plotly_chart(fig, width="stretch")
-        else:
+        result = compute_chart_counts(option, records, cmps, dp, vd, src_counts)
+        if result is None:
+            _empty_chart(st, option)
+        elif not _render_bar(st, result[1], horizontal=result[2], key=option):
             _empty_chart(st, option)
 
         st.markdown("---")
         st.markdown("### Chart gallery")
 
-        cols = st.columns(2)
-        with cols[0]:
-            st.markdown("**Plant records**")
-            for fig, hdr in (
-                (chart_records_per_family(recs), "Records per family"),
-                (chart_top_uses(recs), "Top traditional uses"),
-                (chart_records_per_page(recs), "Records per source page"),
-                (chart_languages(recs), "Local-name languages"),
-            ):
-                if fig is not None:
-                    st.subheader(hdr, divider="gray")
-                    st.plotly_chart(fig, width="stretch", key=hdr)
-                else:
-                    _empty_chart(st, hdr)
+        gallery = [
+            (["Records per family", "Top traditional uses",
+              "Records per source page", "Local-name languages"], "**Plant records**"),
+            (["Compounds per family", "Compounds per species",
+              "Compound molecular-weight distribution", "Compound novelty breakdown",
+              "Plants per disease", "Vernacular names per language/tribe",
+              "Records per data source"], "**Compounds, diseases & vernacular**"),
+        ]
 
-        with cols[1]:
-            st.markdown("**Compounds, diseases & vernacular**")
-            for fig, hdr in (
-                (chart_compounds_per_family(cmps), "Compounds per family"),
-                (chart_compounds_per_species(cmps), "Compounds per species"),
-                (chart_mw_histogram(cmps), "Molecular-weight distribution"),
-                (chart_novelty(cmps), "Compound novelty"),
-                (chart_diseases(dp), "Plants per disease"),
-                (chart_vernacular(vd), "Vernacular names per language"),
-                (_chart_records_per_source(dataset.get("record_source_counts", {})), "Records per data source"),
-            ):
-                if fig is not None:
-                    st.subheader(hdr, divider="gray")
-                    st.plotly_chart(fig, width="stretch", key=hdr)
-                else:
-                    _empty_chart(st, hdr)
+        cols = st.columns(2)
+        for col, (opts, heading) in zip(cols, gallery):
+            with col:
+                st.markdown(heading)
+                for opt in opts:
+                    res = compute_chart_counts(opt, records, cmps, dp, vd, src_counts)
+                    if res is None:
+                        continue
+                    st.subheader(opt, divider="gray")
+                    if not _render_bar(st, res[1], horizontal=res[2], key="g:" + opt):
+                        _empty_chart(st, opt)
 
     # ================= DATASET ================= #
     with tab_data:
