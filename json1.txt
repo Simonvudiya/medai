@@ -1,0 +1,4041 @@
+[
+  {
+    "scientificName": "Kalanchoe densiflora",
+    "family": "Crassulaceae",
+    "localNames": [
+      {
+        "name": "Sopolwa",
+        "language": "Shambaa"
+      },
+      {
+        "name": "Linyolonyolo",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Abortion",
+      "Septic wounds",
+      "Rheumatism",
+      "Stiff joints",
+      "Swellings"
+    ],
+    "preparationMethods": [
+      "Root and leaf decoction (small quantities)",
+      "Dried leaf juice applied to septic wounds",
+      "Hot leaf decoction used as massage"
+    ],
+    "source": {
+      "page": 109,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Kalanchoe lanceolata",
+    "family": "Crassulaceae",
+    "localNames": [
+      {
+        "name": "Kuserwet",
+        "language": "Kipsigis"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Rheumatism",
+      "Stiff joints"
+    ],
+    "preparationMethods": [
+      "Heated leaves rubbed over the body"
+    ],
+    "source": {
+      "page": 109,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Kalanchoe schweinfurthii",
+    "family": "Crassulaceae",
+    "localNames": [
+      {
+        "name": "Enyondo",
+        "language": "Rukiga"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Earache"
+    ],
+    "preparationMethods": [
+      "Succulent leaves roasted, warm juice squeezed as an eardrop"
+    ],
+    "source": {
+      "page": 109,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Kalanchoe spp.",
+    "family": "Crassulaceae",
+    "localNames": [
+      {
+        "name": "Kavila-mbodza",
+        "language": "Giriama"
+      },
+      {
+        "name": "Kuserwet",
+        "language": "Kipsigis"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Abortion",
+      "Chest ailments",
+      "Rheumatism",
+      "Gonorrhoea",
+      "Intestinal worms (vermifuge)"
+    ],
+    "preparationMethods": [
+      "Root used for abortion",
+      "Leaves used as chest medicine and for rheumatism",
+      "Decoction of boiled roots taken in small quantities"
+    ],
+    "source": {
+      "page": 109,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Brassica carinata",
+    "family": "Cruciferae (Brassicaceae)",
+    "localNames": [
+      {
+        "name": "Kasunga",
+        "language": "Shambaa"
+      },
+      {
+        "name": "Kandhira",
+        "language": "Luo"
+      }
+    ],
+    "plantPartsUsed": [
+      "Root",
+      "Leaf"
+    ],
+    "traditionalUses": [
+      "Improve lactation",
+      "Diarrhoea"
+    ],
+    "preparationMethods": [
+      "Root pounded and soaked in water, or boiled decoction, drunk by mothers",
+      "Leaf decoction drunk"
+    ],
+    "source": {
+      "page": 109,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Cucumis ficifolius",
+    "family": "Cucurbitaceae",
+    "localNames": [
+      {
+        "name": "Kisabigerri",
+        "language": "Kabras"
+      }
+    ],
+    "plantPartsUsed": [
+      "Seeds",
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Emetic"
+    ],
+    "preparationMethods": [
+      "Seeds and roots used in small quantities (noted as poisonous)"
+    ],
+    "source": {
+      "page": 111,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance.",
+    "notes": "Seeds and roots are described as poisonous; used only in small quantities."
+  },
+  {
+    "scientificName": "Cucumis figarei",
+    "family": "Cucurbitaceae",
+    "localNames": [
+      {
+        "name": "Hatia kilatia",
+        "language": "Marakwet"
+      },
+      {
+        "name": "Sigirgerwa",
+        "language": "Marakwet"
+      }
+    ],
+    "plantPartsUsed": [
+      "Whole plant (ash)",
+      "Leaves",
+      "Fruits"
+    ],
+    "traditionalUses": [
+      "Indigestion",
+      "Constipation"
+    ],
+    "preparationMethods": [
+      "Plant burnt and ash used",
+      "Leaves and fruits eaten"
+    ],
+    "source": {
+      "page": 111,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Kedrostis foetidissima",
+    "family": "Cucurbitaceae",
+    "localNames": [
+      {
+        "name": "Ang'we",
+        "language": "Luo"
+      }
+    ],
+    "plantPartsUsed": [
+      "Branches",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Measles/smallpox (\"yamo\")",
+      "Bloat in cattle"
+    ],
+    "preparationMethods": [
+      "Branches and leaves boiled and decoction used for bathing infected babies and given to drink",
+      "Fresh leaves crushed and fed to cattle"
+    ],
+    "source": {
+      "page": 111,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Kedrostis gijef",
+    "family": "Cucurbitaceae",
+    "localNames": [
+      {
+        "name": "Yerebosi",
+        "language": "Turkana"
+      }
+    ],
+    "plantPartsUsed": [
+      "Not specified"
+    ],
+    "traditionalUses": [
+      "Coughs",
+      "Stomach ache"
+    ],
+    "preparationMethods": [
+      "Used as medicine (preparation not specified)"
+    ],
+    "source": {
+      "page": 111,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Lagenaria breviflora",
+    "family": "Cucurbitaceae",
+    "localNames": [
+      {
+        "name": "Lukungu lugashi",
+        "language": "Shambaa"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Purgative"
+    ],
+    "preparationMethods": [
+      "Roots boiled and decoction drunk warm"
+    ],
+    "source": {
+      "page": 111,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Ipomoea jaegeri",
+    "family": "Convolvulaceae",
+    "localNames": [
+      {
+        "name": "Olorobiji",
+        "language": "Maasai"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Emetic",
+      "Tapeworm"
+    ],
+    "preparationMethods": [
+      "Pounded roots boiled in water, cooled, liquid drunk"
+    ],
+    "source": {
+      "page": 107,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Ipomoea longituba",
+    "family": "Convolvulaceae",
+    "localNames": [
+      {
+        "name": "Mungaso",
+        "language": "Hehe"
+      }
+    ],
+    "plantPartsUsed": [
+      "Not specified"
+    ],
+    "traditionalUses": [
+      "Increase lactation"
+    ],
+    "preparationMethods": [
+      "Used as medicine (preparation not specified)"
+    ],
+    "source": {
+      "page": 107,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Ipomoea obscura",
+    "family": "Convolvulaceae",
+    "localNames": [
+      {
+        "name": "Muwira",
+        "language": "Ngoni"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Dysentery"
+    ],
+    "preparationMethods": [
+      "Roots boiled and decoction drunk twice a day"
+    ],
+    "source": {
+      "page": 107,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Ipomoea pes-caprae",
+    "family": "Convolvulaceae",
+    "localNames": [
+      {
+        "name": "Majani ya mwaka",
+        "language": "Swahili"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Rheumatism",
+      "Colic",
+      "Dropsy"
+    ],
+    "preparationMethods": [
+      "Root decoction drunk or used externally"
+    ],
+    "source": {
+      "page": 107,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Ipomoea spathulata",
+    "family": "Convolvulaceae",
+    "localNames": [
+      {
+        "name": "Kepkere ngerwa",
+        "language": "Marakwet"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Sterility in women"
+    ],
+    "preparationMethods": [
+      "Root decoction drunk"
+    ],
+    "source": {
+      "page": 107,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Ipomoea tenuirostris",
+    "family": "Convolvulaceae",
+    "localNames": [
+      {
+        "name": "Tbombolo",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Rheumatism"
+    ],
+    "preparationMethods": [
+      "Crushed leaves rubbed in"
+    ],
+    "source": {
+      "page": 107,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Ipomoea wightii",
+    "family": "Convolvulaceae",
+    "localNames": [
+      {
+        "name": "Bakwa",
+        "language": "Shambaa"
+      },
+      {
+        "name": "Kalala",
+        "language": "Samburu"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Coughs"
+    ],
+    "preparationMethods": [
+      "Roots chewed or boiled and decoction drunk 2-3 times a day"
+    ],
+    "source": {
+      "page": 107,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Jacquemontia tammifolia",
+    "family": "Convolvulaceae",
+    "localNames": [
+      {
+        "name": "Kikopwe",
+        "language": "Swahili"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Snake bite antidote (large green snake)"
+    ],
+    "preparationMethods": [
+      "Roots or leaves chewed, or pounded and soaked in water; infusion drunk and used for washing the wound"
+    ],
+    "source": {
+      "page": 108,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Merremia kentrocaulos",
+    "family": "Convolvulaceae",
+    "localNames": [
+      {
+        "name": "Mtuntwani",
+        "language": "Bondei"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Fever"
+    ],
+    "preparationMethods": [
+      "Roots boiled in water and decoction drunk"
+    ],
+    "source": {
+      "page": 108,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Seddera hirsuta",
+    "family": "Convolvulaceae",
+    "localNames": [
+      {
+        "name": "Lomana",
+        "language": "Turkana"
+      }
+    ],
+    "plantPartsUsed": [
+      "Not specified"
+    ],
+    "traditionalUses": [
+      "Stomach ache"
+    ],
+    "preparationMethods": [
+      "Used as medicine (preparation not specified)"
+    ],
+    "source": {
+      "page": 108,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Cotyledon barbeyi",
+    "family": "Crassulaceae",
+    "localNames": [],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Fatigue pains",
+      "Rheumatism"
+    ],
+    "preparationMethods": [
+      "Heated leaves placed on affected parts of the body"
+    ],
+    "source": {
+      "page": 108,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Crassula granvikii",
+    "family": "Crassulaceae",
+    "localNames": [
+      {
+        "name": "Shikachi",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Shoot"
+    ],
+    "traditionalUses": [
+      "Rheumatism",
+      "HIV/AIDS management"
+    ],
+    "preparationMethods": [
+      "Shoot pounded, soaked in water, infusion drunk"
+    ],
+    "source": {
+      "page": 108,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Kalanchoe crenata",
+    "family": "Crassulaceae",
+    "localNames": [
+      {
+        "name": "Koserwa",
+        "language": "Marakwet"
+      },
+      {
+        "name": "Ngomanditu",
+        "language": "Lutoro"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Liver diseases",
+      "Enlarged glands"
+    ],
+    "preparationMethods": [
+      "Leaves macerated",
+      "Crushed leaves mixed with ghee and rubbed on enlarged glands"
+    ],
+    "source": {
+      "page": 108,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Dichondra repens",
+    "family": "Convolvulaceae",
+    "localNames": [],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Snake bite antidote"
+    ],
+    "preparationMethods": [
+      "Fresh pounded leaves rubbed onto snake bites"
+    ],
+    "source": {
+      "page": 106,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Evolvulus alsinoides",
+    "family": "Convolvulaceae",
+    "localNames": [
+      {
+        "name": "Chiyaya",
+        "language": "Digo"
+      },
+      {
+        "name": "Muyaya",
+        "language": "Digo"
+      },
+      {
+        "name": "Uthuko",
+        "language": "Kamba"
+      }
+    ],
+    "plantPartsUsed": [
+      "Whole plant (ash)",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Vermifuge",
+      "Thrush in babies",
+      "Ritual/magical use (court cases, recalling lost people)"
+    ],
+    "preparationMethods": [
+      "Plant used as ash for ritual purposes",
+      "Juice from pounded leaves applied to babies' tongues"
+    ],
+    "source": {
+      "page": 106,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance.",
+    "notes": "Also attributed magical/ritual properties by the Kamba and Luo communities described."
+  },
+  {
+    "scientificName": "Hewittia sublobata",
+    "family": "Convolvulaceae",
+    "localNames": [
+      {
+        "name": "Kwibikhokho",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Root"
+    ],
+    "traditionalUses": [
+      "Constipation",
+      "Stomach ache (gastrointestinal problems)"
+    ],
+    "preparationMethods": [
+      "Root decoction or concoction drunk"
+    ],
+    "source": {
+      "page": 106,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Hildebrandtia obcordata",
+    "family": "Convolvulaceae",
+    "localNames": [
+      {
+        "name": "Egong",
+        "language": "Turkana"
+      }
+    ],
+    "plantPartsUsed": [
+      "Root"
+    ],
+    "traditionalUses": [
+      "Laxative"
+    ],
+    "preparationMethods": [
+      "Root infusion mixed with fresh milk and drunk"
+    ],
+    "source": {
+      "page": 106,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Ipomoea hildebrandtii",
+    "family": "Convolvulaceae",
+    "localNames": [
+      {
+        "name": "Obinju marateng'",
+        "language": "Luo"
+      },
+      {
+        "name": "Lokitengi",
+        "language": "Samburu"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves",
+      "Root"
+    ],
+    "traditionalUses": [
+      "Thrush/measles blisters",
+      "Blood circulation",
+      "Eye ailments",
+      "Miscarriage prevention"
+    ],
+    "preparationMethods": [
+      "Dried leaves roasted and ash applied on the tongue",
+      "Root decoction drunk",
+      "Leaf juice used as eye lotion",
+      "Root decoction drunk by pregnant mothers"
+    ],
+    "source": {
+      "page": 106,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia sp.",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Kweokenia",
+        "language": "Shambaa"
+      },
+      {
+        "name": "Toronocha",
+        "language": "Shambaa"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Coughs",
+      "Pneumonia"
+    ],
+    "preparationMethods": [
+      "Roots chewed or pounded and soaked in water, infusion drunk"
+    ],
+    "source": {
+      "page": 104,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance.",
+    "notes": "Identified only to genus in the source (Vernonia sp. A)."
+  },
+  {
+    "scientificName": "Vernonia sp.",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Mtukutu",
+        "language": "Swahili"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "General body pains"
+    ],
+    "preparationMethods": [
+      "Cold water leaf infusion used as a bath"
+    ],
+    "source": {
+      "page": 104,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance.",
+    "notes": "Identified only to genus in the source."
+  },
+  {
+    "scientificName": "Vernonia sp.",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Omululusa mukhasi",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Root"
+    ],
+    "traditionalUses": [
+      "Diarrhoea in children"
+    ],
+    "preparationMethods": [
+      "Root drunk"
+    ],
+    "source": {
+      "page": 104,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance.",
+    "notes": "Identified only to genus in the source."
+  },
+  {
+    "scientificName": "Vernonia sp.",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [],
+    "plantPartsUsed": [
+      "Root"
+    ],
+    "traditionalUses": [
+      "Gonorrhoea"
+    ],
+    "preparationMethods": [
+      "Fresh or dry roots boiled and decoction drunk three times a day"
+    ],
+    "source": {
+      "page": 104,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance.",
+    "notes": "Identified only to genus in the source; no local name given."
+  },
+  {
+    "scientificName": "Agelaea pentagyna",
+    "family": "Connaraceae",
+    "localNames": [
+      {
+        "name": "Lusiwil wanguku",
+        "language": "Shambaa"
+      },
+      {
+        "name": "Musala kwu bushieni",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Fever",
+      "Impotence"
+    ],
+    "preparationMethods": [
+      "Roots used raw for fever (also believed toxic)",
+      "Roots roasted and ash licked for impotence"
+    ],
+    "source": {
+      "page": 104,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance.",
+    "notes": "Roots also believed to be toxic."
+  },
+  {
+    "scientificName": "Rourea orientalis",
+    "family": "Connaraceae",
+    "localNames": [
+      {
+        "name": "Mkutamanena",
+        "language": "Digo"
+      },
+      {
+        "name": "Unahabalala",
+        "language": "Nyika"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Diarrhoea",
+      "Gonorrhoea",
+      "Urethral blockage/vaginal spasm (\"tego\")",
+      "Tick fever prophylaxis",
+      "Headache"
+    ],
+    "preparationMethods": [
+      "Root decoction drunk",
+      "Leaf infusion used as a body wash",
+      "Root infusion used as a prophylactic"
+    ],
+    "source": {
+      "page": 104,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia poskeana",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Nyakabubu",
+        "language": "Zanaki"
+      }
+    ],
+    "plantPartsUsed": [
+      "Whole herb"
+    ],
+    "traditionalUses": [
+      "Miscarriage prevention",
+      "Fever",
+      "Cough"
+    ],
+    "preparationMethods": [
+      "Whole herb boiled and decoction drunk in small quantity by expectant mothers"
+    ],
+    "source": {
+      "page": 103,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia smithiana",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Akahombokato",
+        "language": "Kihangaza"
+      },
+      {
+        "name": "Zumba-mdogo",
+        "language": "Nyika"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Eye infections"
+    ],
+    "preparationMethods": [
+      "Leaves pounded, soaked in water, infusion used as eye drop"
+    ],
+    "source": {
+      "page": 103,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia thomsoniana",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Lutanzi",
+        "language": "Luganda"
+      },
+      {
+        "name": "Omukuraizho",
+        "language": "Lunyankole"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Liver diseases"
+    ],
+    "preparationMethods": [
+      "Macerated leaves"
+    ],
+    "source": {
+      "page": 103,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia usafuensis",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Pegeso",
+        "language": "Kisafwa"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Syphilis"
+    ],
+    "preparationMethods": [
+      "Roots boiled, warm decoction drunk twice daily for two weeks"
+    ],
+    "source": {
+      "page": 103,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia wakefieldii",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Kiluma-ng'ondi",
+        "language": "Taita"
+      }
+    ],
+    "plantPartsUsed": [
+      "Bark"
+    ],
+    "traditionalUses": [
+      "Sores"
+    ],
+    "preparationMethods": [
+      "Bark chewed until moistened, placed on sore, bandaged"
+    ],
+    "source": {
+      "page": 103,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia zanzibarensis",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Chiwasa",
+        "language": "Digo"
+      },
+      {
+        "name": "Chiwatsa",
+        "language": "Digo"
+      },
+      {
+        "name": "Mgekwa",
+        "language": "Shambaa"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Spleen/kidney pain",
+      "Strangulated hernia",
+      "Emetic",
+      "Chest diseases",
+      "Coughs"
+    ],
+    "preparationMethods": [
+      "Root decoction",
+      "Powdered leaves mixed with hot water drunk twice a day"
+    ],
+    "source": {
+      "page": 103,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia karaguensis",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Muya",
+        "language": "Luo"
+      },
+      {
+        "name": "Navimuli",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves",
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Wound healing (cattle)",
+      "Intestinal worms (tapeworm)",
+      "Anthrax",
+      "Snake poison antidote"
+    ],
+    "preparationMethods": [
+      "Leaves boiled and applied to wounds",
+      "Root infusion drunk"
+    ],
+    "source": {
+      "page": 102,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia lasiopus",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Muatha",
+        "language": "Meru"
+      },
+      {
+        "name": "Muhasha",
+        "language": "Swahili"
+      },
+      {
+        "name": "Muvatha",
+        "language": "Kamba"
+      },
+      {
+        "name": "Lisulushita",
+        "language": "Luhya"
+      },
+      {
+        "name": "Olusia",
+        "language": "Luo"
+      },
+      {
+        "name": "Ol-euguru",
+        "language": "Maasai"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves",
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Stomach ache",
+      "Sex stimulant",
+      "Abdominal pains/indigestion",
+      "Sores on cattle (maggot prevention)",
+      "Sore throat",
+      "Malaria",
+      "Venereal diseases"
+    ],
+    "preparationMethods": [
+      "Leaves chewed or boiled, decoction drunk",
+      "Root decoction drunk",
+      "Leaves pounded into a paste applied to cattle sores"
+    ],
+    "source": {
+      "page": 102,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia myriantha",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Mboho",
+        "language": "Shambaa"
+      },
+      {
+        "name": "Taa lyec",
+        "language": "Acholi"
+      },
+      {
+        "name": "Tduhuru",
+        "language": "Chagga"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Dysmenorrhoea",
+      "Indigestion",
+      "Influenza",
+      "Improving lactation",
+      "Chest complaints",
+      "Aphrodisiac",
+      "Purgative for cattle"
+    ],
+    "preparationMethods": [
+      "Roots mixed with Lonchocarpus laxiflorus roots, pounded and cooked, decoction drunk",
+      "Pounded roots added to warm grain beer and drunk",
+      "Leaves chewed",
+      "Leaf juice used as a purgative for cattle",
+      "Boiled root infusion drunk twice a day"
+    ],
+    "source": {
+      "page": 102,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Astripomoea grantii",
+    "family": "Convolvulaceae",
+    "localNames": [
+      {
+        "name": "Likhulila bulimo",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Fever",
+      "Headache"
+    ],
+    "preparationMethods": [
+      "Pounded leaves soaked in water; infusion drunk or dropped through the nose"
+    ],
+    "source": {
+      "page": 105,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Astripomoea hyoscyamoides",
+    "family": "Convolvulaceae",
+    "localNames": [
+      {
+        "name": "Shikhubitsa-nyungu",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Typhoid"
+    ],
+    "preparationMethods": [
+      "Pounded leaves mixed with water, drunk twice a day for one week"
+    ],
+    "source": {
+      "page": 105,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Astripomoea malvacea",
+    "family": "Convolvulaceae",
+    "localNames": [
+      {
+        "name": "Olkupula",
+        "language": "Acholi"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Constipation (infants)"
+    ],
+    "preparationMethods": [
+      "Root infusion given to infants"
+    ],
+    "source": {
+      "page": 105,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Bonamia mossambicensis",
+    "family": "Convolvulaceae",
+    "localNames": [
+      {
+        "name": "Karonzuru",
+        "language": "Zaramo"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves",
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Wounds"
+    ],
+    "preparationMethods": [
+      "Leaves or roots dried in the sun, powdered, and used on wounds"
+    ],
+    "source": {
+      "page": 105,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Bonamia poranoides",
+    "family": "Convolvulaceae",
+    "localNames": [
+      {
+        "name": "Mwelemele",
+        "language": "Zaramo"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Purgative"
+    ],
+    "preparationMethods": [
+      "Roots boiled or pounded and soaked in water, decoction drunk"
+    ],
+    "source": {
+      "page": 105,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance.",
+    "notes": "Rendered 'Bonamii poranoides' in the source text."
+  },
+  {
+    "scientificName": "Vernonia auriculifera",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Kikokooma",
+        "language": "Luganda"
+      },
+      {
+        "name": "Muchatha",
+        "language": "Kikuyu"
+      },
+      {
+        "name": "Musabakwa",
+        "language": "Gusii"
+      },
+      {
+        "name": "Tubagawa",
+        "language": "Marakwet"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Poultice wrap/medicine container",
+      "Measles",
+      "Indigestion"
+    ],
+    "preparationMethods": [
+      "Leaves used to wrap and roast poultices of other plant drugs",
+      "Leaf infusion used in bathing water for measles",
+      "Leaf infusion drunk for indigestion"
+    ],
+    "source": {
+      "page": 100,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia brachycalyx",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Kwambereryet",
+        "language": "Kipsigis"
+      },
+      {
+        "name": "Mwokia ndigu",
+        "language": "Meru"
+      },
+      {
+        "name": "Lokumati",
+        "language": "Samburu"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Stomach ache",
+      "Purgative",
+      "Malaria",
+      "Eye diseases"
+    ],
+    "preparationMethods": [
+      "Washed roots chewed",
+      "Leaf infusion drunk for malaria",
+      "Leaf juice used for eye diseases"
+    ],
+    "source": {
+      "page": 100,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia cinerea",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Kifuha",
+        "language": "Swahili"
+      },
+      {
+        "name": "Mhadu",
+        "language": "Shambaa"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Snake bite treatment"
+    ],
+    "preparationMethods": [
+      "Leaves chewed and juice swallowed, or pounded and soaked in water and infusion drunk"
+    ],
+    "source": {
+      "page": 100,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia colorata",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Fuka mwitu",
+        "language": "Digo"
+      },
+      {
+        "name": "Hashaanda",
+        "language": "Shambaa"
+      },
+      {
+        "name": "Liuluga",
+        "language": "Mwera"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Earache",
+      "General poisoning antidote",
+      "Coughs"
+    ],
+    "preparationMethods": [
+      "Root decoction put into the ears",
+      "Leaves used for coughs"
+    ],
+    "source": {
+      "page": 100,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia glabra",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Chepmiapiliet",
+        "language": "Kipsigis"
+      },
+      {
+        "name": "Kumuyeka",
+        "language": "Luhya"
+      },
+      {
+        "name": "Akech",
+        "language": "Luo"
+      },
+      {
+        "name": "Toronocha",
+        "language": "Shambaa"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves",
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Hepatic (liver) diseases",
+      "Fever",
+      "Thrush",
+      "Swollen joints",
+      "Pneumonia"
+    ],
+    "preparationMethods": [
+      "Leaf decoction drunk",
+      "Pounded roots soaked in water and drunk",
+      "Pounded leaf paste rubbed on swollen joints, or infusion drunk"
+    ],
+    "source": {
+      "page": 100,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia adoensis",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Nyabusinduri",
+        "language": "Zanaki"
+      },
+      {
+        "name": "Omubiliza",
+        "language": "Haya"
+      },
+      {
+        "name": "Omjumajuma",
+        "language": "Shubi"
+      },
+      {
+        "name": "Lusutsa",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Root",
+      "Leaves",
+      "Bark (of other trees)"
+    ],
+    "traditionalUses": [
+      "Tuberculosis",
+      "Gastrointestinal disorders",
+      "Malaria",
+      "Heart and kidney problems"
+    ],
+    "preparationMethods": [
+      "Root decoction drunk",
+      "Leaves pounded and soaked in water, infusion drunk",
+      "Root decoction mixed with bark of Albizia, Entada and Markhamia and drunk"
+    ],
+    "source": {
+      "page": 99,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia aemulans",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Fuka",
+        "language": "Digo"
+      }
+    ],
+    "plantPartsUsed": [
+      "Ash of plant"
+    ],
+    "traditionalUses": [
+      "Wound care (haemostatic)",
+      "Ritual abdominal scarification"
+    ],
+    "preparationMethods": [
+      "Ash rubbed into small incisions made in abdominal swellings"
+    ],
+    "source": {
+      "page": 99,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia amygdalina",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Labwori",
+        "language": "Acholi"
+      },
+      {
+        "name": "Musuritsa",
+        "language": "Luhya"
+      },
+      {
+        "name": "Lisulushita",
+        "language": "Luhya"
+      },
+      {
+        "name": "Olusia",
+        "language": "Luo"
+      },
+      {
+        "name": "Omuburiri",
+        "language": "Nyankore"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Intestinal parasites in children",
+      "Fever",
+      "Skin eruptions/vomiting",
+      "Fresh wounds",
+      "Snake bite antidote",
+      "Deworming livestock"
+    ],
+    "preparationMethods": [
+      "Root infusion given to children",
+      "Softened leaves placed in the lower caecum",
+      "Pounded leaves juice extracted and drunk for fever",
+      "Leaves pounded and mixed with warm water for bathing",
+      "Leaf ash or pounded paste rubbed onto scarification around snake bite",
+      "Leaf juice used as ear drop or for deworming livestock"
+    ],
+    "source": {
+      "page": 99,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Tagetes erecta",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Tururu",
+        "language": "Swahili"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Pain in the sexual organs"
+    ],
+    "preparationMethods": [
+      "Roots eaten together with oyster nuts (Telfairia pedata)"
+    ],
+    "source": {
+      "page": 98,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Tagetes minuta",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Inabutsaka",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Insecticide against disease vectors (mosquitoes, fleas)"
+    ],
+    "preparationMethods": [
+      "Pounded leaf infusion"
+    ],
+    "source": {
+      "page": 98,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Taraxacum officinale",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [],
+    "plantPartsUsed": [
+      "Not specified"
+    ],
+    "traditionalUses": [
+      "General medicinal value (vaguely reported)"
+    ],
+    "preparationMethods": [
+      "Not specified"
+    ],
+    "source": {
+      "page": 98,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Tarchonanthus camphoratus",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Mkalambati",
+        "language": "Swahili"
+      },
+      {
+        "name": "Mururicua",
+        "language": "Kikuyu"
+      },
+      {
+        "name": "Ol-leleshwa",
+        "language": "Maasai"
+      },
+      {
+        "name": "Lelechuet",
+        "language": "Kipsigis/Turgen"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves",
+      "Twigs"
+    ],
+    "traditionalUses": [
+      "Asthma",
+      "Fever",
+      "Headache",
+      "Rheumatism",
+      "Bronchitis",
+      "Gastrointestinal disorders",
+      "Toothache",
+      "Inflammation"
+    ],
+    "preparationMethods": [
+      "Fumes from boiled leaves inhaled",
+      "Concoction of leaves and twigs drunk, or used as a mouthwash",
+      "Hot poultice of leaves applied on the chest"
+    ],
+    "source": {
+      "page": 98,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Tithonia diversifolia",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Amavinzo",
+        "language": "Luhya"
+      },
+      {
+        "name": "Liuwa lilulu",
+        "language": "Luhya"
+      },
+      {
+        "name": "Maua-madongo",
+        "language": "Luo"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves",
+      "Root"
+    ],
+    "traditionalUses": [
+      "Stomach pains",
+      "Indigestion",
+      "Sore throat",
+      "Liver pains",
+      "Chicken flu",
+      "Cough",
+      "Diarrhoea",
+      "Snake-bite antidote"
+    ],
+    "preparationMethods": [
+      "Leaves ground with water and infusion drunk",
+      "Leaf concoction",
+      "Root decoction or infusion"
+    ],
+    "source": {
+      "page": 98,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Tridax procumbens",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Dagada",
+        "language": "Padhola"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Stomach trouble in children",
+      "Malaria",
+      "Stomach ache"
+    ],
+    "preparationMethods": [
+      "Leaves pounded together with Perotis patens, cold water added, given to child to drink three times a day",
+      "Leaves chewed"
+    ],
+    "source": {
+      "page": 98,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia hildebrandtii",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Chiwasa",
+        "language": "Digo"
+      },
+      {
+        "name": "Chiwatsa",
+        "language": "Digo"
+      },
+      {
+        "name": "Mpata",
+        "language": "Swahili"
+      },
+      {
+        "name": "Vacha",
+        "language": "Swahili"
+      },
+      {
+        "name": "Akikare",
+        "language": "Boni"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves",
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Cough in children",
+      "Strangulated hernia",
+      "Emetic",
+      "Stomach trouble",
+      "Chest pains",
+      "Colds"
+    ],
+    "preparationMethods": [
+      "Leaf infusion given to children as cough remedy",
+      "Root decoction taken",
+      "Leaf decoction and steam used for chest pains and colds"
+    ],
+    "source": {
+      "page": 101,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia hochstetteri",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Ekikamboga",
+        "language": "Lunyankole"
+      }
+    ],
+    "plantPartsUsed": [
+      "Whole plant (except roots)",
+      "Roots",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Liver diseases",
+      "Epilepsy",
+      "Promoting childbirth",
+      "Stomach trouble"
+    ],
+    "preparationMethods": [
+      "Whole plant infusion (excluding roots) drunk for liver diseases",
+      "Decoction of whole plant drunk for epilepsy",
+      "Roots used to promote childbirth"
+    ],
+    "source": {
+      "page": 101,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia holstii",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Mgekwa",
+        "language": "Shambaa"
+      },
+      {
+        "name": "Ntromwisho",
+        "language": "Tongwe"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Abdominal pains"
+    ],
+    "preparationMethods": [
+      "Roots boiled or pounded and soaked in water, infusion drunk twice a day"
+    ],
+    "source": {
+      "page": 101,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia homilantha",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Mulalapili",
+        "language": "Swahili"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Sores"
+    ],
+    "preparationMethods": [
+      "Ground leaves put on sores"
+    ],
+    "source": {
+      "page": 101,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Vernonia hymenolepsis",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Kiptamit",
+        "language": "Marakwet"
+      }
+    ],
+    "plantPartsUsed": [
+      "Root"
+    ],
+    "traditionalUses": [
+      "Purgative",
+      "Abdominal pains"
+    ],
+    "preparationMethods": [
+      "Root decoction"
+    ],
+    "source": {
+      "page": 101,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Solanecia angulatus",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Leza",
+        "language": "Shambaa"
+      },
+      {
+        "name": "Reza",
+        "language": "Giriama"
+      },
+      {
+        "name": "Yamundekelelwa",
+        "language": "Chagga"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Colds",
+      "Fever",
+      "Rheumatism",
+      "General antidote"
+    ],
+    "preparationMethods": [
+      "Leaves crushed and juice drunk"
+    ],
+    "source": {
+      "page": 96,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Solanecia mannii",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Gulanguso",
+        "language": "Shambaa"
+      },
+      {
+        "name": "Maroo",
+        "language": "Luo"
+      },
+      {
+        "name": "Marowo",
+        "language": "Luo"
+      },
+      {
+        "name": "Mdaa",
+        "language": "Pare"
+      },
+      {
+        "name": "Yergekwa",
+        "language": "Marakwet"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Anthelmintic",
+      "Purgative",
+      "Dysentery",
+      "Indigestion",
+      "Snake bite antidote"
+    ],
+    "preparationMethods": [
+      "Roots used as anthelmintic and purgative",
+      "Pounded leaves rubbed on snake bites"
+    ],
+    "source": {
+      "page": 96,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Sonchus luxurians",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Uthunga",
+        "language": "Kamba"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Stomach upsets",
+      "Fever"
+    ],
+    "preparationMethods": [
+      "Leaves pounded, soaked in water, infusion drunk"
+    ],
+    "source": {
+      "page": 96,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Sonchus oleraceus",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Achak",
+        "language": "Luo"
+      },
+      {
+        "name": "Kwake",
+        "language": "Shambaa"
+      },
+      {
+        "name": "Sungasunga",
+        "language": "Hehe"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Purgative",
+      "Earache",
+      "Nervous disorders",
+      "Snake bite (livestock)"
+    ],
+    "preparationMethods": [
+      "Roots used as a purgative",
+      "Leaves pounded and soaked in water, ear washed with the juice",
+      "Leaf concoction used for nervous disorders and snake bite in livestock"
+    ],
+    "source": {
+      "page": 96,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Sonchus schweinfurthii",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Achak",
+        "language": "Luo"
+      },
+      {
+        "name": "Ibunabune",
+        "language": "Luhya"
+      },
+      {
+        "name": "Mchunga",
+        "language": "Swahili"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves",
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Emetic",
+      "Gastrointestinal problems",
+      "Chest trouble",
+      "Sore throat",
+      "Neck pain"
+    ],
+    "preparationMethods": [
+      "Leaves used raw as an emetic or cooked and eaten",
+      "Roots eaten"
+    ],
+    "source": {
+      "page": 96,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Psiadia punctulata",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Atilili",
+        "language": "Luo"
+      },
+      {
+        "name": "Kasha",
+        "language": "Pare"
+      },
+      {
+        "name": "Konocho",
+        "language": "Marakwet"
+      },
+      {
+        "name": "Labai",
+        "language": "Samburu"
+      },
+      {
+        "name": "Pagasha",
+        "language": "Shambaa"
+      },
+      {
+        "name": "Shiro",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Root",
+      "Leaf",
+      "Flower"
+    ],
+    "traditionalUses": [
+      "Aphrodisiac",
+      "Vertigo",
+      "Coughs",
+      "Sore throat",
+      "Abdominal pains",
+      "Malaria",
+      "Sterility",
+      "Afterbirth pains",
+      "Colds",
+      "Burns"
+    ],
+    "preparationMethods": [
+      "Root decoction drunk",
+      "Root and leaf decoction",
+      "Leaf decoction drunk",
+      "Root decoction combined with Crassocephalum manii and Euphorbia tirucali for sterility",
+      "Flower decoction drunk",
+      "Burnt leaf ash applied on burns"
+    ],
+    "source": {
+      "page": 95,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Schkuhria pinnata",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Maua-matindo",
+        "language": "Luo"
+      },
+      {
+        "name": "Onyalo-biro",
+        "language": "Luo"
+      }
+    ],
+    "plantPartsUsed": [
+      "Whole plant"
+    ],
+    "traditionalUses": [
+      "Chest pains",
+      "Liver pains",
+      "Stomach pains"
+    ],
+    "preparationMethods": [
+      "Whole plant pounded, soaked in water, juice drunk"
+    ],
+    "source": {
+      "page": 95,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Senecio deltoides",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Rwinkithia",
+        "language": "Meru"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Wounds",
+      "Emetic"
+    ],
+    "preparationMethods": [
+      "Roots washed, dried, ground into powder and applied to wounds (with Combretum molle leaves as dressing)",
+      "Leaves used as an emetic"
+    ],
+    "source": {
+      "page": 95,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Senecio hadiensis",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Amudiranfu",
+        "language": "Nyankore"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Colds in the head"
+    ],
+    "preparationMethods": [
+      "Roots pounded, soaked in water, infusion drunk"
+    ],
+    "source": {
+      "page": 95,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Senecio syringifolius",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Mueza",
+        "language": "Shambaa"
+      },
+      {
+        "name": "Reza",
+        "language": "Digo"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Emetic",
+      "Coughs",
+      "Colds",
+      "Headache"
+    ],
+    "preparationMethods": [
+      "Roots used as an emetic or chewed for coughs and colds",
+      "Leaf infusion poured over the head"
+    ],
+    "source": {
+      "page": 95,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Mikania cordata",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Lukuyano",
+        "language": "Shambaa"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Headache",
+      "Measles (babies)"
+    ],
+    "preparationMethods": [
+      "Decoction of boiled leaves drunk three times a day",
+      "Leaf infusion given to babies"
+    ],
+    "source": {
+      "page": 94,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Notonia petraea (Kleinia petraea)",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Ini-la-ngombe",
+        "language": "Digo"
+      }
+    ],
+    "plantPartsUsed": [
+      "Whole plant",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Indigestion",
+      "Wounds"
+    ],
+    "preparationMethods": [
+      "Decoction of whole plant drunk",
+      "Leaves pounded and juice applied on the wound"
+    ],
+    "source": {
+      "page": 94,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Osteospermum vaillantii",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Msiwasiwa",
+        "language": "Shambaa"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Diuretic"
+    ],
+    "preparationMethods": [
+      "Roots boiled and liquid drunk twice a day"
+    ],
+    "source": {
+      "page": 94,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Piloselloides hirsuta",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Nyatoma",
+        "language": "Hehe"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Tonic for babies"
+    ],
+    "preparationMethods": [
+      "Burnt leaves mixed with ghee given to babies"
+    ],
+    "source": {
+      "page": 94,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Pluchea dioscoridis",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Minyinywa",
+        "language": "Giriama"
+      },
+      {
+        "name": "Muke",
+        "language": "Rungwa"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Infantile ailments"
+    ],
+    "preparationMethods": [
+      "Leaf decoction"
+    ],
+    "source": {
+      "page": 94,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Launaea cornuta",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Mnyinya",
+        "language": "Taita"
+      },
+      {
+        "name": "Msunga",
+        "language": "Bondei"
+      },
+      {
+        "name": "Sunga",
+        "language": "Swahili"
+      },
+      {
+        "name": "Uthunga",
+        "language": "Kamba"
+      },
+      {
+        "name": "Muyeka",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Whole plant",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Swollen testicles",
+      "Typhoid",
+      "Measles",
+      "Chicken fever/coccidiosis",
+      "Warts"
+    ],
+    "preparationMethods": [
+      "Fresh roots chewed",
+      "Roots pounded and soaked in water, or boiled decoction drunk",
+      "Whole plant boiled, warm water used for washing infected body",
+      "Pounded leaves soaked in water given to chickens",
+      "Dried root powder applied to warts"
+    ],
+    "source": {
+      "page": 93,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Melanthera biflora",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Nyangara",
+        "language": "Shambaa"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Bronchitis",
+      "Respiratory ease"
+    ],
+    "preparationMethods": [
+      "Leaves used (preparation not specified)"
+    ],
+    "source": {
+      "page": 93,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Melanthera scandens",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Kwa mino",
+        "language": "Luhya"
+      },
+      {
+        "name": "Kisangwa",
+        "language": "Marakwet"
+      }
+    ],
+    "plantPartsUsed": [
+      "Whole plant (burnt)",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Indigestion",
+      "Infected teeth"
+    ],
+    "preparationMethods": [
+      "Burnt plant ash licked",
+      "Leaf infusion used as a mouthwash"
+    ],
+    "source": {
+      "page": 93,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Microglossa densiflora",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Muuka",
+        "language": "Shambaa"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Unspecified children's diseases"
+    ],
+    "preparationMethods": [
+      "Leaves used (preparation not specified)"
+    ],
+    "source": {
+      "page": 93,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Microglossa pyrifolia",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Burungo",
+        "language": "Nyakyusa"
+      },
+      {
+        "name": "Ingoi",
+        "language": "Luhya"
+      },
+      {
+        "name": "Muhinga",
+        "language": "Kikuyu"
+      },
+      {
+        "name": "Muteeii",
+        "language": "Kikuyu"
+      },
+      {
+        "name": "Nyabung-odide",
+        "language": "Luo"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Headache",
+      "Colds",
+      "Malaria",
+      "Limb fractures",
+      "Stomach ache",
+      "Mental illness",
+      "Fever",
+      "Pneumonia",
+      "Miscarriage prevention"
+    ],
+    "preparationMethods": [
+      "Roots pounded, soaked in water for headache and colds",
+      "Leaf infusion taken for malaria",
+      "Pounded leaves used for limb fractures",
+      "Root decoction/concoction taken through the nostrils for mental illness",
+      "Root decoction used in steam form for fever and pneumonia"
+    ],
+    "source": {
+      "page": 93,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Sphaeranthus bullatus",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Masonzoia",
+        "language": "Kamba"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Stomach ache",
+      "General tonic for adolescents"
+    ],
+    "preparationMethods": [
+      "Leaves pounded with those of other stomach-treatment plants",
+      "Leaf decoction given as a tonic"
+    ],
+    "source": {
+      "page": 97,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Sphaeranthus kirkii",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Chipepo",
+        "language": "Digo"
+      },
+      {
+        "name": "Mupepo",
+        "language": "Digo"
+      },
+      {
+        "name": "Kivrumbani",
+        "language": "Swahili"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves",
+      "Whole plant"
+    ],
+    "traditionalUses": [
+      "Kidney trouble",
+      "Headache",
+      "Skin diseases in children"
+    ],
+    "preparationMethods": [
+      "Leaf infusion taken for kidney trouble",
+      "Leaf infusion used as a cooling head wash",
+      "Whole plant pounded and soaked in warm water for bathing children"
+    ],
+    "source": {
+      "page": 97,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Sphaeranthus steezii",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Ngamba",
+        "language": "Gogo"
+      },
+      {
+        "name": "Lukhaniafu",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Infant ailments",
+      "Afterbirth expulsion",
+      "Mental disorders"
+    ],
+    "preparationMethods": [
+      "Leaf infusion drunk"
+    ],
+    "source": {
+      "page": 97,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Sphaeranthus suaveolens",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Cheptogomda",
+        "language": "Kipsigis"
+      },
+      {
+        "name": "Omusala-kwa-muyeka",
+        "language": "Luhya"
+      },
+      {
+        "name": "Kumuyeka",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves",
+      "Whole plant"
+    ],
+    "traditionalUses": [
+      "Colds",
+      "Malaria",
+      "Cough",
+      "Stomach ache",
+      "Rheumatism",
+      "Mental disorders"
+    ],
+    "preparationMethods": [
+      "Leaves squeezed and sniffed up the nose for colds",
+      "Leaf decoction rubbed into the body for malaria",
+      "Decoction of the whole plant drunk"
+    ],
+    "source": {
+      "page": 97,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Sphaeranthus ukambensis",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Lomeskin",
+        "language": "Turkana"
+      }
+    ],
+    "plantPartsUsed": [
+      "Whole plant"
+    ],
+    "traditionalUses": [
+      "Jaundice"
+    ],
+    "preparationMethods": [
+      "Whole plant infusion mixed with fresh milk and drunk"
+    ],
+    "source": {
+      "page": 97,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Gynura valeriana",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Charaka",
+        "language": "Luhya"
+      },
+      {
+        "name": "Imbuni",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Flowers",
+      "Roots",
+      "Whole plant (burnt)"
+    ],
+    "traditionalUses": [
+      "Circumcision wounds",
+      "Purgative",
+      "Baby rashes"
+    ],
+    "preparationMethods": [
+      "Concoction made from dried flowers applied to circumcision wounds",
+      "Boiled root decoction used as a purgative",
+      "Ash from burnt plant rubbed on babies' mouths"
+    ],
+    "source": {
+      "page": 91,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Helichrysum foetidum",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Kakuhe",
+        "language": "Shambaa"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Eye troubles",
+      "Influenza"
+    ],
+    "preparationMethods": [
+      "Roots used for eye troubles",
+      "Leaves used for influenza"
+    ],
+    "source": {
+      "page": 91,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Helichrysum formosissimum",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Cattle sores (maggot treatment)"
+    ],
+    "preparationMethods": [
+      "Dried leaves ground and powder sprinkled onto sores on cattle"
+    ],
+    "source": {
+      "page": 91,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Helichrysum forskahlii",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Kasongolo",
+        "language": "Shambaa"
+      }
+    ],
+    "plantPartsUsed": [
+      "Root"
+    ],
+    "traditionalUses": [
+      "Purgative",
+      "Emetic"
+    ],
+    "preparationMethods": [
+      "Roots pounded, soaked in water, infusion drunk"
+    ],
+    "source": {
+      "page": 91,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Helichrysum globosum",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Aboo-nyare onyak",
+        "language": "Acholi"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Dysmenorrhoea",
+      "Retained placenta"
+    ],
+    "preparationMethods": [
+      "Root infusion drunk"
+    ],
+    "source": {
+      "page": 91,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Helichrysum nudifolium",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Lukashe",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Fever in calves",
+      "Baby tonic",
+      "Goat diseases",
+      "Fever prevention in children"
+    ],
+    "preparationMethods": [
+      "Lower leaves crushed for calves",
+      "Ash from burnt leaves mixed with ghee for babies",
+      "Leaf infusion used for goat diseases",
+      "Dried leaves crushed in butter given to children"
+    ],
+    "source": {
+      "page": 91,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Helichrysum odoratissimum",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Inamalaba",
+        "language": "Luhya"
+      },
+      {
+        "name": "Mulavutwa",
+        "language": "Kamba"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Leaves",
+      "Young branches"
+    ],
+    "traditionalUses": [
+      "Purgative",
+      "Cough",
+      "Anthelmintic",
+      "Burn wounds",
+      "Conjunctivitis"
+    ],
+    "preparationMethods": [
+      "Roots crushed and steeped in hot or cold water, extract used as a purgative or drunk for coughs",
+      "Pounded leaves applied over burn wounds",
+      "Pounded young branches and leaves soaked in water, juice used as eye drops"
+    ],
+    "source": {
+      "page": 92,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Helichrysum schimperi",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Isurwa",
+        "language": "Pare"
+      },
+      {
+        "name": "Luyafuno",
+        "language": "Shambaa"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves",
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Cough remedy"
+    ],
+    "preparationMethods": [
+      "Leaves chewed",
+      "Roots pounded, soaked in water, liquid drunk with cow-fat"
+    ],
+    "source": {
+      "page": 92,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Lactuca inermis",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Onyuol chak",
+        "language": "Luo"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Gonorrhoea",
+      "Syphilis"
+    ],
+    "preparationMethods": [
+      "Roots boiled and given to patients"
+    ],
+    "source": {
+      "page": 92,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Laggera alata",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Litumusi",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Measles (bathing babies)"
+    ],
+    "preparationMethods": [
+      "Boiled leaf water used for bathing babies"
+    ],
+    "source": {
+      "page": 92,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Laggera brevipes",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Adupa rabuor",
+        "language": "Luo"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Snake bite antidote"
+    ],
+    "preparationMethods": [
+      "Root decoction or paste applied on snake bites"
+    ],
+    "source": {
+      "page": 92,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Laggera crispata",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Ludenyikumbwe",
+        "language": "Hehe"
+      },
+      {
+        "name": "Muuga",
+        "language": "Shambaa"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Hiccups",
+      "Colds in the head"
+    ],
+    "preparationMethods": [
+      "Roots boiled and juice drunk, or chewed fresh"
+    ],
+    "source": {
+      "page": 92,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Dicoma sessiliflora",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Nekapungu",
+        "language": "Mwera"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Stomach complaints"
+    ],
+    "preparationMethods": [
+      "Roots used in medicine preparation (details not specified)"
+    ],
+    "source": {
+      "page": 88,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Echinops amplexicaulis",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Lukwang",
+        "language": "Acholi"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Constipation",
+      "Sterility"
+    ],
+    "preparationMethods": [
+      "Root infusion drunk, roots pounded and added to cold or warm water"
+    ],
+    "source": {
+      "page": 88,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Emilia coccinea",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Chungakubwa",
+        "language": "Shambaa"
+      },
+      {
+        "name": "Igongwe",
+        "language": "Sukuma"
+      },
+      {
+        "name": "Mudzina",
+        "language": "Giriama"
+      },
+      {
+        "name": "Nyakabatura",
+        "language": "Nyankore"
+      },
+      {
+        "name": "Uumi wa ng'ombe",
+        "language": "Swahili"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Syphilis",
+      "Nose infections",
+      "Sores",
+      "Eye infections",
+      "Venereal diseases"
+    ],
+    "preparationMethods": [
+      "Boiled root decoction drunk three times a day",
+      "Crushed leaves used as poultice for nose infections and sores",
+      "Leaves mixed with Ipomoea eriocarpa, pounded, soaked and used as eye drop"
+    ],
+    "source": {
+      "page": 88,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Emilia discifolius",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Anyuongi",
+        "language": "Luo"
+      },
+      {
+        "name": "Gathararaiita",
+        "language": "Kikuyu"
+      },
+      {
+        "name": "Gwar-gwar",
+        "language": "Acholi"
+      },
+      {
+        "name": "Kafururu",
+        "language": "Padhola"
+      },
+      {
+        "name": "Lioshi",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Whole plant",
+      "Leaves",
+      "Root"
+    ],
+    "traditionalUses": [
+      "Lactation stimulation",
+      "Stomach ache during pregnancy",
+      "Sore eyes",
+      "Ringworm"
+    ],
+    "preparationMethods": [
+      "Whole plant boiled and decoction drunk by women lacking milk",
+      "Leaf and root decoction drunk by pregnant women",
+      "Leaves roasted in a banana leaf, warm juice pressed into sore eye",
+      "Pounded leaf paste rubbed on ringworm on the head"
+    ],
+    "source": {
+      "page": 88,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Crassocephalum picridifolium",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Bunimkubwa",
+        "language": "Luhya"
+      },
+      {
+        "name": "Mumimkubwa",
+        "language": "Kamba"
+      },
+      {
+        "name": "Mbuki",
+        "language": "Kamba"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves",
+      "Root"
+    ],
+    "traditionalUses": [
+      "Wound healing",
+      "Stomach ache"
+    ],
+    "preparationMethods": [
+      "Leaves chewed and sprayed over the wound",
+      "Root drunk for stomach ache"
+    ],
+    "source": {
+      "page": 87,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Crassocephalum rubens",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Kafururu",
+        "language": "Padhola"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Antidote against poisoning"
+    ],
+    "preparationMethods": [
+      "Leaves cooked like a vegetable and eaten twice a day"
+    ],
+    "source": {
+      "page": 87,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Crassocephalum vitellinum",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Omusheda",
+        "language": "Haya"
+      },
+      {
+        "name": "Thima",
+        "language": "Kikuyu"
+      }
+    ],
+    "plantPartsUsed": [
+      "Flower",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Eye ailments/foreign particle removal",
+      "Strength for pregnant women"
+    ],
+    "preparationMethods": [
+      "Flower used to rub inside the eye to remove a particle",
+      "Boiled leaf decoction mixed with porridge given to pregnant mothers"
+    ],
+    "source": {
+      "page": 87,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Crepis carbonaria",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Oleturot",
+        "language": "Maasai"
+      }
+    ],
+    "plantPartsUsed": [
+      "Flowers"
+    ],
+    "traditionalUses": [
+      "Assisting parturition (childbirth)"
+    ],
+    "preparationMethods": [
+      "Decoction of flowers given to women"
+    ],
+    "source": {
+      "page": 87,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Dichrocephala integrifolia",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Buchina",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Seeds",
+      "Leaves",
+      "Flowers"
+    ],
+    "traditionalUses": [
+      "Head sores from headache treatment cuts",
+      "Rashes"
+    ],
+    "preparationMethods": [
+      "Ground seeds mixed with cow's ghee, rubbed on the head",
+      "Leaves and flowers pounded and smeared on a shaved head"
+    ],
+    "source": {
+      "page": 87,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Dicoma anomala",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Weya",
+        "language": "Hehe"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Stomach complaints"
+    ],
+    "preparationMethods": [
+      "Roots used in medicine preparation (details not specified)"
+    ],
+    "source": {
+      "page": 87,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Conyza newii",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Kisegeyo",
+        "language": "Shambaa"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves",
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Chest troubles",
+      "Emetic"
+    ],
+    "preparationMethods": [
+      "Leaves chewed for chest troubles",
+      "Roots boiled and warm decoction drunk as an emetic"
+    ],
+    "source": {
+      "page": 86,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Conyza pyrrhopappa",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Ankwi",
+        "language": "Iraqw"
+      },
+      {
+        "name": "Kwamereryet",
+        "language": "Kipsigis"
+      },
+      {
+        "name": "Lauhala",
+        "language": "Hehe"
+      },
+      {
+        "name": "Mhasu",
+        "language": "Zigua"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Tonsillitis",
+      "Influenza",
+      "Indigestion",
+      "Malaria",
+      "Emetic",
+      "Purgative",
+      "Stomach troubles"
+    ],
+    "preparationMethods": [
+      "Fresh root powder applied in throat for tonsil swellings",
+      "Roots boiled and decoction drunk for influenza and stomach troubles",
+      "Pounded leaves soaked in warm water, infusion drunk for indigestion and malaria"
+    ],
+    "source": {
+      "page": 86,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Conyza stricta",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Liposhe",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Sore throat",
+      "Cough"
+    ],
+    "preparationMethods": [
+      "Leaves chewed or pounded and soaked in water, infusion drunk"
+    ],
+    "source": {
+      "page": 86,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance.",
+    "notes": "Rendered 'Coryza stricta' in the source text (likely a typographical variant of Conyza stricta)."
+  },
+  {
+    "scientificName": "Conyza sumatrensis",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Merenda",
+        "language": "Digo"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves",
+      "Whole plant"
+    ],
+    "traditionalUses": [
+      "Laxative for babies/children",
+      "Skin conditions (pimples, chickenpox, smallpox)",
+      "Snake bite antidote"
+    ],
+    "preparationMethods": [
+      "Leaf infusion given to babies and children",
+      "Whole plant infusion used for cleaning skin eruptions or drunk as an antidote"
+    ],
+    "source": {
+      "page": 86,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Crassocephalum crepidioides",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Ekinami",
+        "language": "Haya"
+      },
+      {
+        "name": "Lifululwa",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Wound healing",
+      "Nose bleeding"
+    ],
+    "preparationMethods": [
+      "Leaves ground, squeezed and liquid put into the wound",
+      "Dried, powdered leaves snuffed as a styptic"
+    ],
+    "source": {
+      "page": 86,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Ethulia scheffleri",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Koofinda",
+        "language": "Shambaa"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Malaria"
+    ],
+    "preparationMethods": [
+      "Boiled leaves rubbed over the body and decoction drunk"
+    ],
+    "source": {
+      "page": 89,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Ethulia vernonioides",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Cheplelmetiet",
+        "language": "Kipsigis"
+      }
+    ],
+    "plantPartsUsed": [
+      "Root"
+    ],
+    "traditionalUses": [
+      "Retained placenta (afterbirth)"
+    ],
+    "preparationMethods": [
+      "Root decoction mixed with milk, taken by women"
+    ],
+    "source": {
+      "page": 89,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Euryops jacksoni",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Embaba",
+        "language": "Maasai"
+      }
+    ],
+    "plantPartsUsed": [
+      "Flowers"
+    ],
+    "traditionalUses": [
+      "Assisting childbirth"
+    ],
+    "preparationMethods": [
+      "Decoction of flowers given to women"
+    ],
+    "source": {
+      "page": 89,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Galinsoga parviflora",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Mnyenye",
+        "language": "Meru"
+      }
+    ],
+    "plantPartsUsed": [
+      "Stems",
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Colds",
+      "Sores"
+    ],
+    "preparationMethods": [
+      "Stems and leaves chewed"
+    ],
+    "source": {
+      "page": 89,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Gerbera viridifolia",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Burtili",
+        "language": "Iraqw"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Cough remedy, especially for children"
+    ],
+    "preparationMethods": [
+      "Fresh roots chewed and juice swallowed"
+    ],
+    "source": {
+      "page": 89,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Guizotia scabra",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Ofungila",
+        "language": "Padhola"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves (ash)"
+    ],
+    "traditionalUses": [
+      "Abortion"
+    ],
+    "preparationMethods": [
+      "Leaves burnt, ash mixed with the root of another plant (\"opel\") and cooked, then eaten"
+    ],
+    "source": {
+      "page": 89,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Bidens magnifolia",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Kwalaki",
+        "language": "Shambaa"
+      },
+      {
+        "name": "Mhakankonde",
+        "language": "Shambaa"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Pneumonia",
+      "Coughs"
+    ],
+    "preparationMethods": [
+      "Roots boiled or chewed and liquid drunk three times a day"
+    ],
+    "source": {
+      "page": 84,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Bidens pilosa",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Munyugunyugu",
+        "language": "Meru"
+      },
+      {
+        "name": "Munzee",
+        "language": "Kamba"
+      },
+      {
+        "name": "Ologoye",
+        "language": "Luhya"
+      },
+      {
+        "name": "Nyanyiek-mon",
+        "language": "Luo"
+      },
+      {
+        "name": "Onyiego",
+        "language": "Luo"
+      },
+      {
+        "name": "Qalmir bo",
+        "language": "Iraqw"
+      },
+      {
+        "name": "Sere",
+        "language": "Padhola"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves",
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Conjunctivitis",
+      "Malaria",
+      "Stomach ache",
+      "Intestinal worms",
+      "Constipation",
+      "Cough",
+      "Wounds",
+      "Snake bite"
+    ],
+    "preparationMethods": [
+      "Squeezed leaf liquid put into eyes for conjunctivitis",
+      "Root liquid (chewed or boiled) taken for malaria",
+      "Crushed leaves mixed with water for stomach ache",
+      "Leaf decoction used to remove intestinal worms",
+      "Pounded leaves mixed with water given to babies for constipation",
+      "Root infusion drunk as a cough syrup",
+      "Crushed leaves rubbed on wounds and snake bites"
+    ],
+    "source": {
+      "page": 84,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Bidens schimperi",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Makadongo",
+        "language": "Chagga"
+      },
+      {
+        "name": "Mangwe",
+        "language": "Luguru"
+      },
+      {
+        "name": "Msuguru",
+        "language": "Shambaa"
+      },
+      {
+        "name": "Mtango",
+        "language": "Shambaa"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Chest pains",
+      "Colds",
+      "Cough"
+    ],
+    "preparationMethods": [
+      "Roots boiled in water, decoction drunk three times a day"
+    ],
+    "source": {
+      "page": 84,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Bidens whytei",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Kakimnu",
+        "language": "Sukuma"
+      },
+      {
+        "name": "Mpange",
+        "language": "Nyamwezi"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Sunstroke"
+    ],
+    "preparationMethods": [
+      "Leaves powdered and used for washing the body"
+    ],
+    "source": {
+      "page": 84,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Aspilia pluriseta",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Muti",
+        "language": "Kamba"
+      },
+      {
+        "name": "Wuti",
+        "language": "Kamba"
+      },
+      {
+        "name": "Ol-oiy abase",
+        "language": "Maasai"
+      },
+      {
+        "name": "Shilambila",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves"
+    ],
+    "traditionalUses": [
+      "Trachoma (eye rash treatment)",
+      "Skin diseases",
+      "Cut wounds"
+    ],
+    "preparationMethods": [
+      "Rough leaf drawn over folded-back eyelids to \"cut\" the eye rash",
+      "Pounded leaves applied on skin diseases or cut wounds"
+    ],
+    "source": {
+      "page": 83,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance.",
+    "notes": "Related species A. mossambiensis is used for the same treatment under the same Kamba name."
+  },
+  {
+    "scientificName": "Berkheya bipinnatifida",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Kipalwi",
+        "language": "Hehe"
+      }
+    ],
+    "plantPartsUsed": [
+      "Leaves (burnt)"
+    ],
+    "traditionalUses": [
+      "Pain relief"
+    ],
+    "preparationMethods": [
+      "Leaves burnt, ash rubbed into cuts made where pain is felt"
+    ],
+    "source": {
+      "page": 83,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Berkheya spekeana",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Katabut",
+        "language": "Marakwet"
+      },
+      {
+        "name": "Shirakala",
+        "language": "Luhya"
+      }
+    ],
+    "plantPartsUsed": [
+      "Whole plant (ash)",
+      "Stems"
+    ],
+    "traditionalUses": [
+      "Indigestion"
+    ],
+    "preparationMethods": [
+      "Ash of the burnt plant soaked in water and drunk, or licked directly"
+    ],
+    "source": {
+      "page": 83,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Blepharispermum zanguebaricum",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Mkonaka",
+        "language": "Sukuma"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Snakebite treatment"
+    ],
+    "preparationMethods": [
+      "Roots chewed, boiled, or pounded and soaked in water"
+    ],
+    "source": {
+      "page": 85,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  },
+  {
+    "scientificName": "Blumea axillaris",
+    "family": "Compositae (Asteraceae)",
+    "localNames": [
+      {
+        "name": "Msambi",
+        "language": "Ngoni"
+      }
+    ],
+    "plantPartsUsed": [
+      "Roots"
+    ],
+    "traditionalUses": [
+      "Gonorrhoea"
+    ],
+    "preparationMethods": [
+      "Root decoction drunk 2-3 times a day"
+    ],
+    "source": {
+      "page": 85,
+      "reference": "Source book"
+    },
+    "safetyNote": "Traditional medicinal use documented in the source. Some uses may be hazardous and should not be attempted without qualified medical guidance."
+  }
+]

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.streamlit/
+.vscode/
+.idea/
+.DS_Store
+*.egg-info/
+.kilo/sessions/
+.kilo/tmp/

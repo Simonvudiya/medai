@@ -1,0 +1,2393 @@
+{
+  "report": "Report 2004, Appendix 1",
+  "researcher": "Prof. Midiwo, University of Nairobi",
+  "description": "Selected East African medicinal plants and their phytochemical compounds",
+  "plantsMentioned": [
+    "Erythrina abysinica",
+    "Ekerbergia Kampesis",
+    "Sphaeranthus bullatus",
+    "Uvaria schimperi",
+    "Bersama abysinnica",
+    "Rhamnus primoides",
+    "Rubus Keniensis",
+    "Hypoestes forskalii",
+    "Specia",
+    "Garkeana",
+    "Euclea divinorum",
+    "Melochia corchorifoha",
+    "Harisonia",
+    "Abyssinicca",
+    "Suregada zanzibarensis",
+    "Turaea nilotica",
+    "Bischofia javanica",
+    "Warbugia stuhlani"
+  ],
+  "compounds": [
+    {
+      "molecularFormula": "C18H19NO5",
+      "molecularWeight": 329.356,
+      "family": "Rutaceae",
+      "species": "Teclea trichocarpa",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C21H20O12",
+      "molecularWeight": 464.386,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C21H20O11",
+      "molecularWeight": 448.387,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C21H20O11",
+      "molecularWeight": 448.387,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C21H28NO3",
+      "molecularWeight": 342.462,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H18O6",
+      "molecularWeight": 354.363,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "R"
+    },
+    {
+      "molecularFormula": "C18H27NO2",
+      "molecularWeight": 289.421,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C18H27NO",
+      "molecularWeight": 273.422,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C43H78O11",
+      "molecularWeight": 771.095,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C18H26O10",
+      "molecularWeight": 402.402,
+      "family": "Papilionaceae",
+      "species": "Tephrosia elata",
+      "novelty": "n"
+    },
+    {
+      "molecularFormula": "C21H30O8",
+      "molecularWeight": 410.468,
+      "family": "Papilionaceae",
+      "species": "Tephrosia elata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C15H20O3",
+      "molecularWeight": 248.325,
+      "family": "Papilionaceae",
+      "species": "Tephrosia elata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C17H12O7",
+      "molecularWeight": 328.281,
+      "family": "Papilionaceae",
+      "species": "Tephrosia elata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C16H22O4",
+      "molecularWeight": 278.351,
+      "family": "Papilionaceae",
+      "species": "Tephrosia elata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C15H20O3",
+      "molecularWeight": 248.325,
+      "family": "Papilionaceae",
+      "species": "Tephrosia elata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C54H88O22",
+      "molecularWeight": 1089.29,
+      "family": "Papilionaceae",
+      "species": "Tephrosia elata",
+      "novelty": "n"
+    },
+    {
+      "molecularFormula": "C48H78O17",
+      "molecularWeight": 927.147,
+      "family": "Papilionaceae",
+      "species": "Tephrosia elata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C16H22O3",
+      "molecularWeight": 262.352,
+      "family": "Papilionaceae",
+      "species": "Tephrosia elata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C21H26O15",
+      "molecularWeight": 518.432,
+      "family": "Thymelaeaceae",
+      "species": "Gnidia latifolia",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C23H34O14",
+      "molecularWeight": 534.519,
+      "family": "Thymelaeaceae",
+      "species": "Gnidia latifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C17H24O9",
+      "molecularWeight": 372.375,
+      "family": "Thymelaeaceae",
+      "species": "Gnidia latifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C15H16O9",
+      "molecularWeight": 340.289,
+      "family": "Thymelaeaceae",
+      "species": "Gnidia latifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C11H16O3",
+      "molecularWeight": 196.248,
+      "family": "Thymelaeaceae",
+      "species": "Gnidia latifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C27H28O14",
+      "molecularWeight": 576.516,
+      "family": "Thymelaeaceae",
+      "species": "Gnidia latifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C27H30O14",
+      "molecularWeight": 578.532,
+      "family": "Thymelaeaceae",
+      "species": "Gnidia latifolia",
+      "novelty": "O"
+    },
+    {
+      "molecularFormula": "C25H35NO8",
+      "molecularWeight": 477.56,
+      "family": "Compositae",
+      "species": "Pluchea ovalis",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C25H24O12",
+      "molecularWeight": 516.463,
+      "family": "Compositae",
+      "species": "Pluchea ovalis",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C21H30O7",
+      "molecularWeight": 394.469,
+      "family": "Compositae",
+      "species": "Pluchea ovalis",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H26O6",
+      "molecularWeight": 362.427,
+      "family": "Compositae",
+      "species": "Pluchea ovalis",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H26O6",
+      "molecularWeight": 362.427,
+      "family": "Compositae",
+      "species": "Pluchea ovalis",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C25H34O9",
+      "molecularWeight": 478.544,
+      "family": "Compositae",
+      "species": "Pluchea ovalis",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C22H30O7",
+      "molecularWeight": 406.48,
+      "family": "Compositae",
+      "species": "Pluchea ovalis",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C17H14O6",
+      "molecularWeight": 314.298,
+      "family": "Compositae",
+      "species": "Pluchea ovalis",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C22H28O6",
+      "molecularWeight": 388.465,
+      "family": "Compositae",
+      "species": "Pluchea ovalis",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C15H12O3S",
+      "molecularWeight": 272.325,
+      "family": "Compositae",
+      "species": "Pluchea ovalis",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H32O3",
+      "molecularWeight": 320.476,
+      "family": "Compositae",
+      "species": "Pluchea ovalis",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C22H34O4",
+      "molecularWeight": 362.514,
+      "family": "Compositae",
+      "species": "Pluchea ovalis",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C27H30O16",
+      "molecularWeight": 610.531,
+      "family": "Papilionaceae",
+      "species": "Tephrosia elata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C27H30O15",
+      "molecularWeight": 594.531,
+      "family": "Papilionaceae",
+      "species": "Tephrosia elata",
+      "novelty": "n"
+    },
+    {
+      "molecularFormula": "C21H38O8",
+      "molecularWeight": 418.532,
+      "family": "Papilionaceae",
+      "species": "Tephrosia elata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H34O10",
+      "molecularWeight": 422.477,
+      "family": "Papilionaceae",
+      "species": "Tephrosia elata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C15H20O3",
+      "molecularWeight": 248.325,
+      "family": "Papilionaceae",
+      "species": "Tephrosia elata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C16H24O10",
+      "molecularWeight": 376.364,
+      "family": "Apocynaceae",
+      "species": "Rauvolfia caffra",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C14H21NO4",
+      "molecularWeight": 267.328,
+      "family": "Rutaceae",
+      "species": "Teclea trichocarpa",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C14H21NO4",
+      "molecularWeight": 267.328,
+      "family": "Rutaceae",
+      "species": "Teclea trichocarpa",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C28H38O13",
+      "molecularWeight": 582.607,
+      "family": "Rutaceae",
+      "species": "Teclea trichocarpa",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C33H46O17",
+      "molecularWeight": 714.724,
+      "family": "Rutaceae",
+      "species": "Teclea trichocarpa",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C28H38O13",
+      "molecularWeight": 582.607,
+      "family": "Rutaceae",
+      "species": "Teclea trichocarpa",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C35H48O18",
+      "molecularWeight": 756.762,
+      "family": "Rutaceae",
+      "species": "Teclea trichocarpa",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C42H54O21",
+      "molecularWeight": 894.886,
+      "family": "Rutaceae",
+      "species": "Teclea trichocarpa",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C44H56O21",
+      "molecularWeight": 920.924,
+      "family": "Rutaceae",
+      "species": "Teclea trichocarpa",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C33H40O19",
+      "molecularWeight": 740.675,
+      "family": "Apocynaceae",
+      "species": "Rauvolfia caffra",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C27H30O16",
+      "molecularWeight": 610.531,
+      "family": "Apocynaceae",
+      "species": "Rauvolfia caffra",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C28H36O13",
+      "molecularWeight": 580.591,
+      "family": "Apocynaceae",
+      "species": "Rauvolfia caffra",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C16H18O8",
+      "molecularWeight": 338.317,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C16H18O9",
+      "molecularWeight": 354.316,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C16H18O8",
+      "molecularWeight": 338.317,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "O"
+    },
+    {
+      "molecularFormula": "C16H18O8",
+      "molecularWeight": 338.317,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "O"
+    },
+    {
+      "molecularFormula": "C16H16O8",
+      "molecularWeight": 336.301,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C18H32O5",
+      "molecularWeight": 328.453,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C16H15NO5",
+      "molecularWeight": 301.302,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H34O4",
+      "molecularWeight": 338.492,
+      "family": "Apocynaceae",
+      "species": "Rauvolfia caffra",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H36O3",
+      "molecularWeight": 324.508,
+      "family": "Apocynaceae",
+      "species": "Rauvolfia caffra",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C17H14O6",
+      "molecularWeight": 314.298,
+      "family": "Apocynaceae",
+      "species": "Rauvolfia caffra",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H36O3",
+      "molecularWeight": 324.508,
+      "family": "Apocynaceae",
+      "species": "Rauvolfia caffra",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C38H52O13",
+      "molecularWeight": 716.83,
+      "family": "Apocynaceae",
+      "species": "Rauvolfia caffra",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C18H30O3",
+      "molecularWeight": 294.438,
+      "family": "Apocynaceae",
+      "species": "Rauvolfia caffra",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H36O2",
+      "molecularWeight": 308.509,
+      "family": "Apocynaceae",
+      "species": "Rauvolfia caffra",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C12H14O5",
+      "molecularWeight": 238.242,
+      "family": "Rutaceae",
+      "species": "Teclea trichocarpa",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C17H17NO4",
+      "molecularWeight": 299.329,
+      "family": "Rutaceae",
+      "species": "Teclea trichocarpa",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C18H17NO6",
+      "molecularWeight": 343.339,
+      "family": "Rutaceae",
+      "species": "Teclea trichocarpa",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C18H19NO5",
+      "molecularWeight": 329.356,
+      "family": "Rutaceae",
+      "species": "Teclea trichocarpa",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C27H30O15",
+      "molecularWeight": 594.531,
+      "family": "Apocynaceae",
+      "species": "Rauvolfia caffra",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C27H30O15",
+      "molecularWeight": 594.531,
+      "family": "Apocynaceae",
+      "species": "Rauvolfia caffra",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H36O3",
+      "molecularWeight": 324.508,
+      "family": "Apocynaceae",
+      "species": "Rauvolfia caffra",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C17H14N2O4",
+      "molecularWeight": 310.312,
+      "family": "",
+      "species": "",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C13H14O6",
+      "molecularWeight": 266.253,
+      "family": "",
+      "species": "",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C17H14N2O3",
+      "molecularWeight": 294.313,
+      "family": "",
+      "species": "",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C15H11NO3",
+      "molecularWeight": 253.26,
+      "family": "",
+      "species": "",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C17H16N2O2",
+      "molecularWeight": 280.329,
+      "family": "",
+      "species": "",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C15H11NO2",
+      "molecularWeight": 237.26,
+      "family": "",
+      "species": "",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C11H14N4O4S",
+      "molecularWeight": 298.323,
+      "family": "",
+      "species": "",
+      "novelty": "O"
+    },
+    {
+      "molecularFormula": "C21H24O8",
+      "molecularWeight": 404.421,
+      "family": "",
+      "species": "",
+      "novelty": "O"
+    },
+    {
+      "molecularFormula": "C18H17ClO6",
+      "molecularWeight": 364.786,
+      "family": "",
+      "species": "",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C10H16N2O2",
+      "molecularWeight": 196.251,
+      "family": "",
+      "species": "",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C10H16N2O2",
+      "molecularWeight": 196.251,
+      "family": "",
+      "species": "",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C9H16N2O2",
+      "molecularWeight": 184.24,
+      "family": "",
+      "species": "",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C11H18N2O2",
+      "molecularWeight": 210.278,
+      "family": "",
+      "species": "",
+      "novelty": "N/N"
+    },
+    {
+      "molecularFormula": "C11H18N2O2",
+      "molecularWeight": 210.278,
+      "family": "",
+      "species": "",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C14H16N2O2",
+      "molecularWeight": 244.296,
+      "family": "",
+      "species": "",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C14H16N2O2",
+      "molecularWeight": 244.296,
+      "family": "",
+      "species": "",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C15H10O4",
+      "molecularWeight": 254.245,
+      "family": "",
+      "species": "",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C12H14N2O2",
+      "molecularWeight": 218.258,
+      "family": "Papilionaceae",
+      "species": "Erythrina abyssinica",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C27H30O15",
+      "molecularWeight": 594.531,
+      "family": "Papilionaceae",
+      "species": "Erythrina abyssinica",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C21H22O11",
+      "molecularWeight": 450.403,
+      "family": "Papilionaceae",
+      "species": "Erythrina abyssinica",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C26H28O14",
+      "molecularWeight": 564.505,
+      "family": "Papilionaceae",
+      "species": "Erythrina abyssinica",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C27H30O14",
+      "molecularWeight": 578.532,
+      "family": "Papilionaceae",
+      "species": "Erythrina abyssinica",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C21H22O11",
+      "molecularWeight": 450.403,
+      "family": "Papilionaceae",
+      "species": "Erythrina abyssinica",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C15H12O5",
+      "molecularWeight": 272.26,
+      "family": "Papilionaceae",
+      "species": "Erythrina abyssinica",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H20O8",
+      "molecularWeight": 388.378,
+      "family": "Papilionaceae",
+      "species": "Erythrina abyssinica",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H20O5",
+      "molecularWeight": 340.379,
+      "family": "Papilionaceae",
+      "species": "Erythrina abyssinica",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H18O5",
+      "molecularWeight": 338.363,
+      "family": "Papilionaceae",
+      "species": "Erythrina abyssinica",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H20O6",
+      "molecularWeight": 356.379,
+      "family": "Papilionaceae",
+      "species": "Erythrina abyssinica",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H18O5",
+      "molecularWeight": 338.363,
+      "family": "Papilionaceae",
+      "species": "Erythrina abyssinica",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H18O6",
+      "molecularWeight": 354.363,
+      "family": "Papilionaceae",
+      "species": "Erythrina abyssinica",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C25H28O6",
+      "molecularWeight": 424.498,
+      "family": "Papilionaceae",
+      "species": "Erythrina abyssinica",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C25H28O4",
+      "molecularWeight": 392.5,
+      "family": "Papilionaceae",
+      "species": "Erythrina abyssinica",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C25H28O5",
+      "molecularWeight": 408.499,
+      "family": "Papilionaceae",
+      "species": "Erythrina abyssinica",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C26H28N2O9",
+      "molecularWeight": 512.521,
+      "family": "Rubiaceae",
+      "species": "Pauridiantha paucinervis",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H26O6",
+      "molecularWeight": 350.415,
+      "family": "Compositae",
+      "species": "Vernonia lasiopus",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C18H32O2",
+      "molecularWeight": 280.455,
+      "family": "Compositae",
+      "species": "Vernonia lasiopus",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H34O2",
+      "molecularWeight": 294.482,
+      "family": "Compositae",
+      "species": "Vernonia lasiopus",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C18H30O2",
+      "molecularWeight": 278.439,
+      "family": "Compositae",
+      "species": "Vernonia lasiopus",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C21H34O8",
+      "molecularWeight": 414.5,
+      "family": "Compositae",
+      "species": "Xanthium pungens",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C15H18O4",
+      "molecularWeight": 262.308,
+      "family": "Compositae",
+      "species": "Xanthium pungens",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H30O13",
+      "molecularWeight": 478.454,
+      "family": "Rutaceae",
+      "species": "Fagaropsis angolensis",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C26H28O9",
+      "molecularWeight": 484.508,
+      "family": "Rutaceae",
+      "species": "Fagaropsis angolensis",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C11H12N2O2",
+      "molecularWeight": 204.23,
+      "family": "Caesalpiniaceae",
+      "species": "Senna didymobotrya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H30O8",
+      "molecularWeight": 386.446,
+      "family": "Caesalpiniaceae",
+      "species": "Senna didymobotrya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C32H38O20",
+      "molecularWeight": 742.648,
+      "family": "Caesalpiniaceae",
+      "species": "Senna didymobotrya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C27H30O16",
+      "molecularWeight": 610.531,
+      "family": "Caesalpiniaceae",
+      "species": "Senna didymobotrya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C21H20O12",
+      "molecularWeight": 464.386,
+      "family": "Caesalpiniaceae",
+      "species": "Senna didymobotrya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C28H32O16",
+      "molecularWeight": 624.558,
+      "family": "Caesalpiniaceae",
+      "species": "Senna didymobotrya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C27H30O15",
+      "molecularWeight": 594.531,
+      "family": "Caesalpiniaceae",
+      "species": "Senna didymobotrya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C22H22O12",
+      "molecularWeight": 478.413,
+      "family": "Caesalpiniaceae",
+      "species": "Senna didymobotrya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C18H30O3",
+      "molecularWeight": 294.438,
+      "family": "Caesalpiniaceae",
+      "species": "Senna didymobotrya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H24O6",
+      "molecularWeight": 348.4,
+      "family": "Compositae",
+      "species": "Tithonia diversifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C33H56O14",
+      "molecularWeight": 676.806,
+      "family": "Compositae",
+      "species": "Tithonia diversifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C27H46O9",
+      "molecularWeight": 514.662,
+      "family": "Compositae",
+      "species": "Tithonia diversifolia",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H28O2",
+      "molecularWeight": 300.445,
+      "family": "Compositae",
+      "species": "Aspilia mossambicensis",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C29H36O15",
+      "molecularWeight": 624.601,
+      "family": "Loganiaceae",
+      "species": "Buddleia polystachya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C31H40O16",
+      "molecularWeight": 668.655,
+      "family": "Loganiaceae",
+      "species": "Buddleia polystachya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C30H38O15",
+      "molecularWeight": 638.628,
+      "family": "Loganiaceae",
+      "species": "Buddleia polystachya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C33H42O18",
+      "molecularWeight": 726.692,
+      "family": "Loganiaceae",
+      "species": "Buddleia polystachya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C31H40O15",
+      "molecularWeight": 652.655,
+      "family": "Loganiaceae",
+      "species": "Buddleia polystachya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C18H26O10",
+      "molecularWeight": 402.402,
+      "family": "Loganiaceae",
+      "species": "Buddleia polystachya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C34H44O19",
+      "molecularWeight": 756.718,
+      "family": "Loganiaceae",
+      "species": "Buddleia polystachya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C18H28O2",
+      "molecularWeight": 276.423,
+      "family": "Rutaceae",
+      "species": "Calodendrum capense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C18H32O2",
+      "molecularWeight": 280.455,
+      "family": "Rutaceae",
+      "species": "Calodendrum capense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H36O3",
+      "molecularWeight": 324.508,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H36O2",
+      "molecularWeight": 308.509,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C18H30O2",
+      "molecularWeight": 278.439,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C22H38O2",
+      "molecularWeight": 334.547,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C16H18O9",
+      "molecularWeight": 354.316,
+      "family": "Annonaceae",
+      "species": "Uvaria scheffleri",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C18H26O10",
+      "molecularWeight": 402.402,
+      "family": "Annonaceae",
+      "species": "Uvaria scheffleri",
+      "novelty": "O"
+    },
+    {
+      "molecularFormula": "C30H26O12",
+      "molecularWeight": 578.535,
+      "family": "Annonaceae",
+      "species": "Uvaria scheffleri",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C15H14O6",
+      "molecularWeight": 290.275,
+      "family": "Annonaceae",
+      "species": "Uvaria scheffleri",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C45H38O18",
+      "molecularWeight": 866.794,
+      "family": "Annonaceae",
+      "species": "Uvaria scheffleri",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C17H20O9",
+      "molecularWeight": 368.344,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C17H20O9",
+      "molecularWeight": 368.344,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "n"
+    },
+    {
+      "molecularFormula": "C28H34O15",
+      "molecularWeight": 610.574,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C14H25NO2",
+      "molecularWeight": 239.361,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C14H8N2O",
+      "molecularWeight": 220.233,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H18O6",
+      "molecularWeight": 354.363,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C14H25NO",
+      "molecularWeight": 223.361,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C25H24O12",
+      "molecularWeight": 516.463,
+      "family": "Compositae",
+      "species": "Aspilia mossambicensis",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C25H24O12",
+      "molecularWeight": 516.463,
+      "family": "Compositae",
+      "species": "Aspilia mossambicensis",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C25H24O12",
+      "molecularWeight": 516.463,
+      "family": "Compositae",
+      "species": "Aspilia mossambicensis",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C26H40O9",
+      "molecularWeight": 496.603,
+      "family": "Compositae",
+      "species": "Aspilia mossambicensis",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H28O4",
+      "molecularWeight": 332.444,
+      "family": "Compositae",
+      "species": "Aspilia mossambicensis",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C48H78O17",
+      "molecularWeight": 927.147,
+      "family": "Compositae",
+      "species": "Aspilia mossambicensis",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H28O3",
+      "molecularWeight": 316.444,
+      "family": "Compositae",
+      "species": "Aspilia mossambicensis",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C25H36O5",
+      "molecularWeight": 416.563,
+      "family": "Compositae",
+      "species": "Aspilia mossambicensis",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C25H36O6",
+      "molecularWeight": 432.562,
+      "family": "Compositae",
+      "species": "Aspilia mossambicensis",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H28O3",
+      "molecularWeight": 316.444,
+      "family": "Compositae",
+      "species": "Aspilia mossambicensis",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C25H38O5",
+      "molecularWeight": 418.579,
+      "family": "Compositae",
+      "species": "Aspilia mossambicensis",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H30O3",
+      "molecularWeight": 318.46,
+      "family": "Compositae",
+      "species": "Psiadia punctulata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H32O4",
+      "molecularWeight": 336.476,
+      "family": "Compositae",
+      "species": "Psiadia punctulata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C25H35NO9",
+      "molecularWeight": 493.559,
+      "family": "Compositae",
+      "species": "Schkuhria pinnata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C19H30O8",
+      "molecularWeight": 386.446,
+      "family": "Compositae",
+      "species": "Schkuhria pinnata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C15H22O4",
+      "molecularWeight": 266.34,
+      "family": "Compositae",
+      "species": "Schkuhria pinnata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H26O7",
+      "molecularWeight": 378.426,
+      "family": "Compositae",
+      "species": "Schkuhria pinnata",
+      "novelty": "O"
+    },
+    {
+      "molecularFormula": "C22H30O9",
+      "molecularWeight": 438.479,
+      "family": "Compositae",
+      "species": "Schkuhria pinnata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C25H36O10",
+      "molecularWeight": 496.56,
+      "family": "Compositae",
+      "species": "Schkuhria pinnata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C22H28O8",
+      "molecularWeight": 420.464,
+      "family": "Compositae",
+      "species": "Schkuhria pinnata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C22H28O8",
+      "molecularWeight": 420.464,
+      "family": "Compositae",
+      "species": "Schkuhria pinnata",
+      "novelty": null
+    },
+    {
+      "molecularFormula": "C25H34O9",
+      "molecularWeight": 478.544,
+      "family": "Compositae",
+      "species": "Schkuhria pinnata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C25H32O9",
+      "molecularWeight": 476.528,
+      "family": "Compositae",
+      "species": "Schkuhria pinnata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C22H28O7",
+      "molecularWeight": 404.464,
+      "family": "Compositae",
+      "species": "Schkuhria pinnata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H28O11",
+      "molecularWeight": 432.428,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H30O13",
+      "molecularWeight": 478.454,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C16H18O9",
+      "molecularWeight": 354.316,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C16H18O8",
+      "molecularWeight": 338.317,
+      "family": "Rutaceae",
+      "species": "Zanthoxylum usambarense",
+      "novelty": "O"
+    },
+    {
+      "molecularFormula": "C20H27NO5",
+      "molecularWeight": 361.442,
+      "family": "Compositae",
+      "species": "Xanthium pungens",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C25H24O12",
+      "molecularWeight": 516.463,
+      "family": "Compositae",
+      "species": "Xanthium pungens",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C16H16O6",
+      "molecularWeight": 304.302,
+      "family": "Rutaceae",
+      "species": "Clausena anisata",
+      "novelty": "O"
+    },
+    {
+      "molecularFormula": "C16H16O6",
+      "molecularWeight": 304.302,
+      "family": "Rutaceae",
+      "species": "Clausena anisata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C16H14O5",
+      "molecularWeight": 286.287,
+      "family": "Rutaceae",
+      "species": "Clausena anisata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H20O6",
+      "molecularWeight": 356.379,
+      "family": "Rutaceae",
+      "species": "Clausena anisata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H18O5",
+      "molecularWeight": 326.352,
+      "family": "Rutaceae",
+      "species": "Clausena anisata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H22O4",
+      "molecularWeight": 314.385,
+      "family": "Rutaceae",
+      "species": "Clausena anisata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H34O8",
+      "molecularWeight": 390.478,
+      "family": "Rutaceae",
+      "species": "Clausena anisata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H30O8",
+      "molecularWeight": 386.446,
+      "family": "Rutaceae",
+      "species": "Clausena anisata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C15H20O9",
+      "molecularWeight": 344.321,
+      "family": "Rutaceae",
+      "species": "Clausena anisata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H28O10",
+      "molecularWeight": 428.44,
+      "family": "Rutaceae",
+      "species": "Clausena anisata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C27H30O16",
+      "molecularWeight": 610.531,
+      "family": "Rutaceae",
+      "species": "Clausena anisata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C27H30O15",
+      "molecularWeight": 594.531,
+      "family": "Rutaceae",
+      "species": "Clausena anisata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C16H14O4",
+      "molecularWeight": 270.288,
+      "family": "Rutaceae",
+      "species": "Clausena anisata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H22O3",
+      "molecularWeight": 298.385,
+      "family": "Rutaceae",
+      "species": "Clausena anisata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C18H30O2",
+      "molecularWeight": 278.439,
+      "family": "Rutaceae",
+      "species": "Clausena anisata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C13H18O8",
+      "molecularWeight": 302.284,
+      "family": "Rutaceae",
+      "species": "Calodendrum capense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C18H26O10",
+      "molecularWeight": 402.402,
+      "family": "Compositae",
+      "species": "Tithonia diversifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H34O8",
+      "molecularWeight": 390.478,
+      "family": "Compositae",
+      "species": "Tithonia diversifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H34O8",
+      "molecularWeight": 390.478,
+      "family": "Compositae",
+      "species": "Tithonia diversifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C16H18O8",
+      "molecularWeight": 338.317,
+      "family": "Compositae",
+      "species": "Tithonia diversifolia",
+      "novelty": "O"
+    },
+    {
+      "molecularFormula": "C19H32O8",
+      "molecularWeight": 388.462,
+      "family": "Compositae",
+      "species": "Tithonia diversifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C14H16O8",
+      "molecularWeight": 312.279,
+      "family": "Compositae",
+      "species": "Tithonia diversifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H34O7",
+      "molecularWeight": 374.479,
+      "family": "Compositae",
+      "species": "Tithonia diversifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C18H22O8",
+      "molecularWeight": 366.371,
+      "family": "Compositae",
+      "species": "Tithonia diversifolia",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C25H24O12",
+      "molecularWeight": 516.463,
+      "family": "Compositae",
+      "species": "Tithonia diversifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C25H24O12",
+      "molecularWeight": 516.463,
+      "family": "Compositae",
+      "species": "Tithonia diversifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C25H24O12",
+      "molecularWeight": 516.463,
+      "family": "Compositae",
+      "species": "Tithonia diversifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H28O7",
+      "molecularWeight": 368.431,
+      "family": "Compositae",
+      "species": "Tithonia diversifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H24O7",
+      "molecularWeight": 364.399,
+      "family": "Compositae",
+      "species": "Tithonia diversifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H28O6",
+      "molecularWeight": 352.431,
+      "family": "Compositae",
+      "species": "Tithonia diversifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H34O3",
+      "molecularWeight": 322.492,
+      "family": "Compositae",
+      "species": "Tithonia diversifolia",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H25NO7",
+      "molecularWeight": 379.414,
+      "family": "Compositae",
+      "species": "Xanthium pungens",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C18H25NO5",
+      "molecularWeight": 335.404,
+      "family": "Compositae",
+      "species": "Xanthium pungens",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H28O4",
+      "molecularWeight": 332.444,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C22H26O7",
+      "molecularWeight": 402.448,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H28O3",
+      "molecularWeight": 316.444,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C15H14O7",
+      "molecularWeight": 306.275,
+      "family": "Celastraceae",
+      "species": "Maytenus undata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C15H22O9",
+      "molecularWeight": 346.337,
+      "family": "Celastraceae",
+      "species": "Maytenus undata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C15H14O6",
+      "molecularWeight": 290.275,
+      "family": "Celastraceae",
+      "species": "Maytenus undata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C27H36O12",
+      "molecularWeight": 552.581,
+      "family": "Celastraceae",
+      "species": "Maytenus undata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C23H26O13",
+      "molecularWeight": 510.456,
+      "family": "Celastraceae",
+      "species": "Maytenus undata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C25H30O8",
+      "molecularWeight": 458.513,
+      "family": "Celastraceae",
+      "species": "Maytenus undata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C27H28O7",
+      "molecularWeight": 464.52,
+      "family": "Celastraceae",
+      "species": "Maytenus undata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C31H36O11",
+      "molecularWeight": 584.626,
+      "family": "Celastraceae",
+      "species": "Maytenus undata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C27H30O7",
+      "molecularWeight": 466.536,
+      "family": "Celastraceae",
+      "species": "Maytenus undata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C29H34O7",
+      "molecularWeight": 494.59,
+      "family": "Celastraceae",
+      "species": "Maytenus undata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C27H32O6",
+      "molecularWeight": 452.552,
+      "family": "Celastraceae",
+      "species": "Maytenus undata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C29H34O6",
+      "molecularWeight": 478.591,
+      "family": "Celastraceae",
+      "species": "Maytenus undata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C29H34O6",
+      "molecularWeight": 478.591,
+      "family": "Celastraceae",
+      "species": "Maytenus undata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C17H24O9",
+      "molecularWeight": 372.375,
+      "family": "Thymelaeaceae",
+      "species": "Peddiea fischeri",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H26O3",
+      "molecularWeight": 314.428,
+      "family": "Compositae",
+      "species": "Aspilia mossambicensis",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C24H36O5",
+      "molecularWeight": 404.552,
+      "family": "Compositae",
+      "species": "Aspilia mossambicensis",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C25H36O5",
+      "molecularWeight": 416.563,
+      "family": "Compositae",
+      "species": "Aspilia mossambicensis",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C26H38O6",
+      "molecularWeight": 446.589,
+      "family": "Compositae",
+      "species": "Aspilia mossambicensis",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H30O12",
+      "molecularWeight": 462.455,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H30O13",
+      "molecularWeight": 478.454,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C19H28O12",
+      "molecularWeight": 448.428,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H30O12",
+      "molecularWeight": 462.455,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H30O13",
+      "molecularWeight": 478.454,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H30O13",
+      "molecularWeight": 478.454,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H25NO5",
+      "molecularWeight": 359.426,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C27H34O14",
+      "molecularWeight": 582.564,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C24H28O10",
+      "molecularWeight": 476.485,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "O"
+    },
+    {
+      "molecularFormula": "C24H30O10",
+      "molecularWeight": 478.501,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C22H24O7",
+      "molecularWeight": 400.432,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C22H26O7",
+      "molecularWeight": 402.448,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C22H30O5",
+      "molecularWeight": 374.481,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H32O",
+      "molecularWeight": 288.477,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H32O",
+      "molecularWeight": 288.477,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H28O3",
+      "molecularWeight": 316.444,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H28O3",
+      "molecularWeight": 316.444,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C15H14O6",
+      "molecularWeight": 290.275,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C16H18O8",
+      "molecularWeight": 338.317,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "O"
+    },
+    {
+      "molecularFormula": "C25H40O12",
+      "molecularWeight": 532.59,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C30H24O12",
+      "molecularWeight": 576.519,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C22H32O11",
+      "molecularWeight": 472.494,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C28H32O16",
+      "molecularWeight": 624.558,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C28H32O15",
+      "molecularWeight": 608.558,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C24H34O9",
+      "molecularWeight": 466.533,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H36O3",
+      "molecularWeight": 324.508,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H36O3",
+      "molecularWeight": 324.508,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C16H12O6",
+      "molecularWeight": 300.27,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C17H14O6",
+      "molecularWeight": 314.298,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C17H14O6",
+      "molecularWeight": 314.298,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C17H24O10",
+      "molecularWeight": 388.375,
+      "family": "Thymelaeaceae",
+      "species": "Peddiea fischeri",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C25H38O13",
+      "molecularWeight": 546.574,
+      "family": "Thymelaeaceae",
+      "species": "Peddiea fischeri",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C13H20O3",
+      "molecularWeight": 224.303,
+      "family": "Thymelaeaceae",
+      "species": "Peddiea fischeri",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C29H36O15",
+      "molecularWeight": 624.601,
+      "family": "Thymelaeaceae",
+      "species": "Peddiea fischeri",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H30O7",
+      "molecularWeight": 370.447,
+      "family": "Thymelaeaceae",
+      "species": "Peddiea fischeri",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C33H42O14",
+      "molecularWeight": 662.694,
+      "family": "Thymelaeaceae",
+      "species": "Peddiea fischeri",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C16H18O9",
+      "molecularWeight": 354.316,
+      "family": "Compositae",
+      "species": "Vernonia brachycalyx",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C29H39NO12",
+      "molecularWeight": 593.634,
+      "family": "Compositae",
+      "species": "Vernonia brachycalyx",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C29H39NO12",
+      "molecularWeight": 593.634,
+      "family": "Compositae",
+      "species": "Vernonia brachycalyx",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C29H39NO12",
+      "molecularWeight": 593.634,
+      "family": "Compositae",
+      "species": "Vernonia brachycalyx",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C29H39NO12",
+      "molecularWeight": 593.634,
+      "family": "Compositae",
+      "species": "Vernonia brachycalyx",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C25H24O12",
+      "molecularWeight": 516.463,
+      "family": "Compositae",
+      "species": "Vernonia brachycalyx",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H26O8",
+      "molecularWeight": 394.425,
+      "family": "Compositae",
+      "species": "Vernonia brachycalyx",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C24H30O10",
+      "molecularWeight": 478.501,
+      "family": "Compositae",
+      "species": "Vernonia brachycalyx",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C21H22O9",
+      "molecularWeight": 418.404,
+      "family": "Compositae",
+      "species": "Vernonia brachycalyx",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C15H10O6",
+      "molecularWeight": 286.243,
+      "family": "Compositae",
+      "species": "Vernonia brachycalyx",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C24H30O10",
+      "molecularWeight": 478.501,
+      "family": "Compositae",
+      "species": "Vernonia brachycalyx",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C19H30O8",
+      "molecularWeight": 386.446,
+      "family": "Rutaceae",
+      "species": "Calodendrum capense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C12H8O4",
+      "molecularWeight": 216.195,
+      "family": "Rutaceae",
+      "species": "Calodendrum capense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C11H6O4",
+      "molecularWeight": 202.168,
+      "family": "Rutaceae",
+      "species": "Calodendrum capense",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C9H11NO2",
+      "molecularWeight": 165.194,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C16H24O10",
+      "molecularWeight": 376.364,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C14H20O8",
+      "molecularWeight": 316.311,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C15H22O9",
+      "molecularWeight": 346.337,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "O"
+    },
+    {
+      "molecularFormula": "C15H14O6",
+      "molecularWeight": 290.275,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C17H20O9",
+      "molecularWeight": 368.344,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "O"
+    },
+    {
+      "molecularFormula": "C17H20O9",
+      "molecularWeight": 368.344,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "O"
+    },
+    {
+      "molecularFormula": "C19H26O10",
+      "molecularWeight": 414.413,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "O"
+    },
+    {
+      "molecularFormula": "C18H26O10",
+      "molecularWeight": 402.402,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "O"
+    },
+    {
+      "molecularFormula": "C21H20O11",
+      "molecularWeight": 448.387,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C21H20O10",
+      "molecularWeight": 432.388,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H28O5",
+      "molecularWeight": 348.443,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C11H14O3",
+      "molecularWeight": 194.232,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C24H28O10",
+      "molecularWeight": 476.485,
+      "family": "Euphorbiaceae",
+      "species": "Croton megalocarpus",
+      "novelty": "O"
+    },
+    {
+      "molecularFormula": "C25H26O8",
+      "molecularWeight": 454.481,
+      "family": "Celastraceae",
+      "species": "Maytenus undata",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C29H34O12",
+      "molecularWeight": 574.587,
+      "family": "Celastraceae",
+      "species": "Maytenus undata",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C19H34O10",
+      "molecularWeight": 422.477,
+      "family": "Loganiaceae",
+      "species": "Buddleia polystachya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C32H40O16",
+      "molecularWeight": 680.666,
+      "family": "Loganiaceae",
+      "species": "Buddleia polystachya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C35H44O19",
+      "molecularWeight": 768.73,
+      "family": "Loganiaceae",
+      "species": "Buddleia polystachya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C32H40O16",
+      "molecularWeight": 680.666,
+      "family": "Loganiaceae",
+      "species": "Buddleia polystachya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C33H42O17",
+      "molecularWeight": 710.692,
+      "family": "Loganiaceae",
+      "species": "Buddleia polystachya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C34H42O17",
+      "molecularWeight": 722.704,
+      "family": "Loganiaceae",
+      "species": "Buddleia polystachya",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C17H24O7",
+      "molecularWeight": 340.377,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C26H44O9",
+      "molecularWeight": 500.635,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H36O4",
+      "molecularWeight": 340.508,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H36O4",
+      "molecularWeight": 340.508,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C20H36O3",
+      "molecularWeight": 324.508,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C16H12O6",
+      "molecularWeight": 300.27,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C20H34O4",
+      "molecularWeight": 338.492,
+      "family": "Sapindaceae",
+      "species": "Dodonaea viscosa",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C17H16O5",
+      "molecularWeight": 300.314,
+      "family": "Annonaceae",
+      "species": "Uvaria scheffleri",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C17H16O5",
+      "molecularWeight": 300.314,
+      "family": "Annonaceae",
+      "species": "Uvaria scheffleri",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C25H32O10",
+      "molecularWeight": 492.528,
+      "family": "Compositae",
+      "species": "Vernonia brachycalyx",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C35H54O17",
+      "molecularWeight": 746.81,
+      "family": "Apocynaceae",
+      "species": "Acokanthera schimperi",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C29H44O12",
+      "molecularWeight": 584.667,
+      "family": "Apocynaceae",
+      "species": "Acokanthera schimperi",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C29H44O12",
+      "molecularWeight": 584.667,
+      "family": "Apocynaceae",
+      "species": "Acokanthera schimperi",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C28H38O13",
+      "molecularWeight": 582.607,
+      "family": "Apocynaceae",
+      "species": "Acokanthera schimperi",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C26H34O11",
+      "molecularWeight": 522.554,
+      "family": "Apocynaceae",
+      "species": "Acokanthera schimperi",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C25H24O12",
+      "molecularWeight": 516.463,
+      "family": "Apocynaceae",
+      "species": "Acokanthera schimperi",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C25H24O12",
+      "molecularWeight": 516.463,
+      "family": "Apocynaceae",
+      "species": "Acokanthera schimperi",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C25H24O12",
+      "molecularWeight": 516.463,
+      "family": "Apocynaceae",
+      "species": "Acokanthera schimperi",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C36H56O14",
+      "molecularWeight": 712.839,
+      "family": "Apocynaceae",
+      "species": "Acokanthera schimperi",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C38H58O15",
+      "molecularWeight": 754.877,
+      "family": "Apocynaceae",
+      "species": "Acokanthera schimperi",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C30H46O9",
+      "molecularWeight": 550.696,
+      "family": "Apocynaceae",
+      "species": "Acokanthera schimperi",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C38H56O16",
+      "molecularWeight": 768.86,
+      "family": "Apocynaceae",
+      "species": "Acokanthera schimperi",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C30H44O9",
+      "molecularWeight": 548.68,
+      "family": "Apocynaceae",
+      "species": "Acokanthera schimperi",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C32H46O11",
+      "molecularWeight": 606.717,
+      "family": "Apocynaceae",
+      "species": "Acokanthera schimperi",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C18H32O4",
+      "molecularWeight": 312.453,
+      "family": "Apocynaceae",
+      "species": "Acokanthera schimperi",
+      "novelty": "Y"
+    },
+    {
+      "molecularFormula": "C18H30O3",
+      "molecularWeight": 294.438,
+      "family": "Apocynaceae",
+      "species": "Acokanthera schimperi",
+      "novelty": "N"
+    },
+    {
+      "molecularFormula": "C18H32O3",
+      "molecularWeight": 296.454,
+      "family": "Apocynaceae",
+      "species": "Acokanthera schimperi",
+      "novelty": "N"
+    }
+  ]
+}

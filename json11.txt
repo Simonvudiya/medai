@@ -1,0 +1,3454 @@
+{
+  "title": "Medicinal Plants of East Africa - Species Index",
+  "description": "Searchable index of plant species, their local/vernacular names by ethnic group, and traditional medicinal uses, extracted from the source text.",
+  "note": "The source document's pages are not in sequential order (image/page numbers jump around), so 'family' and 'source_page' reflect the nearest preceding heading/marker in the extracted text and may not be fully reliable for every entry. Scientific names, local names, and use descriptions were extracted directly from the source and are reliable.",
+  "total_entries": 169,
+  "entries": [
+    {
+      "id": "plant_001",
+      "scientific_name": "Pergularia daemia",
+      "figure_reference": "148",
+      "family": null,
+      "local_names": [
+        {
+          "name": "NGALE",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        }
+      ],
+      "uses": "An infusion of the roots is taken as treatment for stomach pains, for coughs, and as an abortifacient. The roots may simply be chewed for coughs, pounded and soaked in water, or boiled.",
+      "source_page": 54
+    },
+    {
+      "id": "plant_002",
+      "scientific_name": "Periploca linearifolia",
+      "figure_reference": null,
+      "family": null,
+      "local_names": [
+        {
+          "name": "SININDET",
+          "ethnic_groups": [
+            "Marakwet"
+          ]
+        }
+      ],
+      "uses": "Stem latex applied on skin sores and ulcers as a cure.",
+      "source_page": 54
+    },
+    {
+      "id": "plant_003",
+      "scientific_name": "Pleurostelma cernuum",
+      "figure_reference": null,
+      "family": null,
+      "local_names": [
+        {
+          "name": "MUHAMBINI",
+          "ethnic_groups": [
+            "Giriama"
+          ]
+        }
+      ],
+      "uses": "Leaves used for ear troubles. The leaves are pounded, soaked in water, and the juice used as an ear-drop.",
+      "source_page": 54
+    },
+    {
+      "id": "plant_004",
+      "scientific_name": "Sarcostemma viminale",
+      "figure_reference": null,
+      "family": null,
+      "local_names": [
+        {
+          "name": "BAKONI",
+          "ethnic_groups": [
+            "Lusoga"
+          ]
+        },
+        {
+          "name": "CHEPOREWO",
+          "ethnic_groups": [
+            "Pokot"
+          ]
+        },
+        {
+          "name": "KITUPA",
+          "ethnic_groups": [
+            "Swahili"
+          ]
+        },
+        {
+          "name": "LILIA",
+          "ethnic_groups": [
+            "Sandawi"
+          ]
+        },
+        {
+          "name": "MKOMI",
+          "ethnic_groups": [
+            "Luganda"
+          ]
+        }
+      ],
+      "uses": "Roots powdered and used as an emetic and as a medicine for gonorrhoea or syphilis. Roots are used as a medicine for scabies. Roasted stem juice used as ear-drop for infections, or crushed and the infusion given to livestock for bloat. The plant has however, been reported as being toxic, hence care should be taken when using it as a drug.",
+      "source_page": 54
+    },
+    {
+      "id": "plant_005",
+      "scientific_name": "Secamone parvifolia",
+      "figure_reference": null,
+      "family": null,
+      "local_names": [
+        {
+          "name": "LIMUAGA",
+          "ethnic_groups": [
+            "Sukuma"
+          ]
+        },
+        {
+          "name": "MERAMERA",
+          "ethnic_groups": [
+            "Nyamwezi"
+          ]
+        }
+      ],
+      "uses": "Root decoction used for the treatment of abdominal pains, stomach disorders, and snake bite.",
+      "source_page": 54
+    },
+    {
+      "id": "plant_006",
+      "scientific_name": "Secamone stuhlmannii",
+      "figure_reference": null,
+      "family": null,
+      "local_names": [
+        {
+          "name": "WAKAMOMOGONGO",
+          "ethnic_groups": [
+            "Sandawi"
+          ]
+        }
+      ],
+      "uses": "Roots boiled and the decoction drunk for stomach trouble. gonorrhoea, causing profuse urination. Roots are also used as an aphrodisiac, chewed as an appetizer, fertility enhancer, for flavouring and for treatment of kidney ailment, heartburn, indigestion and asthma.",
+      "source_page": 54
+    },
+    {
+      "id": "plant_007",
+      "scientific_name": "Pachycarpus concolor",
+      "figure_reference": null,
+      "family": null,
+      "local_names": [
+        {
+          "name": "OL-LEGOLE",
+          "ethnic_groups": [
+            "Maasai"
+          ]
+        }
+      ],
+      "uses": "The roots are pounded to a paste which is applied to cattle sores caused by skin maggots.",
+      "source_page": 53
+    },
+    {
+      "id": "plant_008",
+      "scientific_name": "Pachycarpus lineolacus",
+      "figure_reference": null,
+      "family": null,
+      "local_names": [
+        {
+          "name": "HUTEPETH",
+          "ethnic_groups": [
+            "Karamajong"
+          ]
+        },
+        {
+          "name": "MLALAKA",
+          "ethnic_groups": [
+            "Sukuma"
+          ]
+        }
+      ],
+      "uses": "The swollen root is eaten to cure sore throat. The roots are normally chewed and the juice swallowed. Roots are also used as an aphrodisiac, and are known to be abortifacient.",
+      "source_page": 53
+    },
+    {
+      "id": "plant_009",
+      "scientific_name": "Parquetina nigrescens",
+      "figure_reference": null,
+      "family": null,
+      "local_names": [
+        {
+          "name": "UBOMBO",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        }
+      ],
+      "uses": "Root decoction drunk once in the evenings as an aphrodisiac.",
+      "source_page": 53
+    },
+    {
+      "id": "plant_010",
+      "scientific_name": "Pentarrhinum abyssinicum",
+      "figure_reference": null,
+      "family": null,
+      "local_names": [
+        {
+          "name": "MKONANKO",
+          "ethnic_groups": [
+            "Zigua"
+          ]
+        }
+      ],
+      "uses": "Roots are used for stomach ache. They can be chewed and the juice swallowed or boiled and the decoction drunk.",
+      "source_page": 53
+    },
+    {
+      "id": "plant_011",
+      "scientific_name": "Pentarrhinum insipidum",
+      "figure_reference": null,
+      "family": null,
+      "local_names": [
+        {
+          "name": "LUNYASI LWA MABELE",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        }
+      ],
+      "uses": "The shoot pounded, mixed with water and salt and given to a calving cow to increase lactation.",
+      "source_page": 53
+    },
+    {
+      "id": "plant_012",
+      "scientific_name": "Balanites pedicellaris",
+      "figure_reference": null,
+      "family": null,
+      "local_names": [
+        {
+          "name": "LOMION",
+          "ethnic_groups": [
+            "Pokot",
+            "Marakwet"
+          ]
+        }
+      ],
+      "uses": "Pounded roots soaked in water and the infusion drunk for diarrhoea and fever.",
+      "source_page": 56
+    },
+    {
+      "id": "plant_013",
+      "scientific_name": "Balanites rotundifolia",
+      "figure_reference": null,
+      "family": null,
+      "local_names": [
+        {
+          "name": "LOMION",
+          "ethnic_groups": [
+            "Pokot"
+          ]
+        },
+        {
+          "name": "EBEI",
+          "ethnic_groups": [
+            "Turkana"
+          ]
+        }
+      ],
+      "uses": "Boiled root decoction drunk as an emetic for treatment of abdominal upset and for fever. Leaves are pounded and the paste or infusion applied to wounds.",
+      "source_page": 56
+    },
+    {
+      "id": "plant_014",
+      "scientific_name": "Sarcophyte sanguinea",
+      "figure_reference": "163",
+      "family": "BALANOPHORACEAE",
+      "local_names": [
+        {
+          "name": "MANGURUI",
+          "ethnic_groups": [
+            "Sangu"
+          ]
+        }
+      ],
+      "uses": "The entire parasitic shoots browsed by pigs and livestock and believed to increase lactation.",
+      "source_page": 56
+    },
+    {
+      "id": "plant_015",
+      "scientific_name": "Impatiens digitata",
+      "figure_reference": null,
+      "family": "BALSAMINACEAE",
+      "local_names": [
+        {
+          "name": "AWOWI",
+          "ethnic_groups": [
+            "Iraqw"
+          ]
+        }
+      ],
+      "uses": "Used as a remedy for gastric disturbances in babies. Dried roots are powdered and a teaspoonful of the powder is taken either in milk or porridge. Three such doses can be taken in one day.",
+      "source_page": 56
+    },
+    {
+      "id": "plant_016",
+      "scientific_name": "Impatiens pseudoviola",
+      "figure_reference": null,
+      "family": "BALSAMINACEAE",
+      "local_names": [
+        {
+          "name": "GAMTO",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        }
+      ],
+      "uses": "Roots used for the treatment of goat's diseases.",
+      "source_page": 56
+    },
+    {
+      "id": "plant_017",
+      "scientific_name": "Impatiens sodenii",
+      "figure_reference": null,
+      "family": "BALSAMINACEAE",
+      "local_names": [
+        {
+          "name": "GOROROT",
+          "ethnic_groups": [
+            "Marakwet"
+          ]
+        }
+      ],
+      "uses": "Root decoction used as a purgative.",
+      "source_page": 56
+    },
+    {
+      "id": "plant_018",
+      "scientific_name": "Acanthospermum glabratum",
+      "figure_reference": null,
+      "family": "BALSAMINACEAE",
+      "local_names": [
+        {
+          "name": "KWILISUNGURA",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        }
+      ],
+      "uses": "For the treatment of a boil, leaves are pounded and the paste applied to the infection and covered with a cobweb. After a few days the boil will burst.",
+      "source_page": 81
+    },
+    {
+      "id": "plant_019",
+      "scientific_name": "Acmella caulirhiza",
+      "figure_reference": "12",
+      "family": "BALSAMINACEAE",
+      "local_names": [
+        {
+          "name": "AJUOK-OLAW",
+          "ethnic_groups": [
+            "Luo"
+          ]
+        },
+        {
+          "name": "SALAMATWE",
+          "ethnic_groups": [
+            "Luo"
+          ]
+        },
+        {
+          "name": "EKUM",
+          "ethnic_groups": [
+            "Maasai"
+          ]
+        },
+        {
+          "name": "MTANGO",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        },
+        {
+          "name": "MUTATA",
+          "ethnic_groups": [
+            "Kamba"
+          ]
+        },
+        {
+          "name": "NYAKANYAKA",
+          "ethnic_groups": [
+            "Acholi"
+          ]
+        },
+        {
+          "name": "SHIRANDA",
+          "ethnic_groups": [
+            "Kipkarren"
+          ]
+        }
+      ],
+      "uses": "The roots are chewed when there are sores in the mouth, on the gums and in the throat. This leads to the numbing of pain for some time and the patient can then take food and drink without suffering. Sap from pounded leaves is applied to the tongues of children suffering from a certain disease called \"mutata\" (Kamba) or thrush which makes the tongue sore. Crushed plants are applied to broken limbs, or mixed with water and the juice drunk for stomach ache and diarrhoea. The flower heads are commonly chewed for toothache and other mouth diseases, infusion used as ear-drop.",
+      "source_page": 81
+    },
+    {
+      "id": "plant_020",
+      "scientific_name": "Adenostemma viscosum",
+      "figure_reference": null,
+      "family": "BALSAMINACEAE",
+      "local_names": [
+        {
+          "name": "LITOTO",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        },
+        {
+          "name": "SINDA KAYA",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        }
+      ],
+      "uses": "The leaves are boiled in water and the extract drunk for stomach pains. The roots are also boiled in water and the steam inhaled for diseases of the chest. The head of the patient is bent near the pot and covered with a goat's skin to ensure that no steam escapes to the outside.",
+      "source_page": 81
+    },
+    {
+      "id": "plant_021",
+      "scientific_name": "Ageratum conyzoides",
+      "figure_reference": "18",
+      "family": "BALSAMINACEAE",
+      "local_names": [
+        {
+          "name": "ILUSA",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        },
+        {
+          "name": "KUNDAMBARA",
+          "ethnic_groups": [
+            "Swahili"
+          ]
+        },
+        {
+          "name": "MATAWANA",
+          "ethnic_groups": [
+            "Chagga"
+          ]
+        },
+        {
+          "name": "OLUORO-CHIENG'",
+          "ethnic_groups": [
+            "Luo"
+          ]
+        },
+        {
+          "name": "OTIKIDIEL",
+          "ethnic_groups": [
+            "Padhola"
+          ]
+        }
+      ],
+      "uses": "Juice from the leaves is highly haemostatic and is used to stop epitaxis or any other type of bleeding from injury. It also treats sore eyes, and bowel complaints. Extract from fresh or boiled leaves or roots in an excellent cure for stomach ache or coughs. A root decoction is drunk three times a day for chest complaints. It is also used as a relaxing medicine for \"captive qualm\" (Juogi or sepe, Luo).",
+      "source_page": 81
+    },
+    {
+      "id": "plant_022",
+      "scientific_name": "Caralluma dummeri",
+      "figure_reference": null,
+      "family": "BALSAMINACEAE",
+      "local_names": [
+        {
+          "name": "ABONDO MATINDO",
+          "ethnic_groups": [
+            "Luo"
+          ]
+        }
+      ],
+      "uses": "Stems chewed or boiled and the decoction mixed with fresh milk and drunk for the treatment of chest pains. For wounds, the sap is applied. The whole dried plant is pounded, mixed with ghee and used for massaging to treat \"kuom\" (hump).",
+      "source_page": 50
+    },
+    {
+      "id": "plant_023",
+      "scientific_name": "Caralluma flava",
+      "figure_reference": null,
+      "family": "BALSAMINACEAE",
+      "local_names": [
+        {
+          "name": "LOCHEN",
+          "ethnic_groups": [
+            "Turkana"
+          ]
+        },
+        {
+          "name": "LOKOSURIO",
+          "ethnic_groups": [
+            "Turkana"
+          ]
+        }
+      ],
+      "uses": "Whole plant sap is applied on small wounds for treatment.",
+      "source_page": 50
+    },
+    {
+      "id": "plant_024",
+      "scientific_name": "Caralluma speciosa",
+      "figure_reference": null,
+      "family": "BALSAMINACEAE",
+      "local_names": [],
+      "uses": "Juice squeezed from the stems is diluted with water and then drunk as an emetic.",
+      "source_page": 50
+    },
+    {
+      "id": "plant_025",
+      "scientific_name": "Ceropegia brevirostris",
+      "figure_reference": null,
+      "family": "BALSAMINACEAE",
+      "local_names": [
+        {
+          "name": "GONYERA",
+          "ethnic_groups": [
+            "Sukuma"
+          ]
+        }
+      ],
+      "uses": "Roots are used for snake bite treatment. For quick action, fresh roots are chewed and part of the juice swallowed while the rest of the chewed stuff is squeezed onto the wound.",
+      "source_page": 50
+    },
+    {
+      "id": "plant_026",
+      "scientific_name": "Ceropegia stenantha",
+      "figure_reference": null,
+      "family": "BALSAMINACEAE",
+      "local_names": [
+        {
+          "name": "NONGOLO",
+          "ethnic_groups": [
+            "Sandawi"
+          ]
+        }
+      ],
+      "uses": "Roots are used for stomach diseases in young children, but no specific details given.",
+      "source_page": 50
+    },
+    {
+      "id": "plant_027",
+      "scientific_name": "Cryptolepis sanguinolenta",
+      "figure_reference": null,
+      "family": "BALSAMINACEAE",
+      "local_names": [
+        {
+          "name": "NAKALONDO",
+          "ethnic_groups": [
+            "Mambwe"
+          ]
+        },
+        {
+          "name": "LOLIP",
+          "ethnic_groups": [
+            "Karamojong"
+          ]
+        }
+      ],
+      "uses": "The roots are chewed as an aphrodisiac or boiled and the decoction drunk for malaria.",
+      "source_page": 50
+    },
+    {
+      "id": "plant_028",
+      "scientific_name": "Gomphocarpus physocarpus",
+      "figure_reference": null,
+      "family": "BALSAMINACEAE",
+      "local_names": [
+        {
+          "name": "KAFUMBA",
+          "ethnic_groups": [
+            "Luganda"
+          ]
+        }
+      ],
+      "uses": "The bark is chewed by the Baganda to cure or stop vomiting. An infusion of the pounded leaves is given by the Maasai to their cows when calving as it is believed to cause the uterus to contract.",
+      "source_page": 52
+    },
+    {
+      "id": "plant_029",
+      "scientific_name": "Gomphocarpus semilunatus",
+      "figure_reference": null,
+      "family": "BALSAMINACEAE",
+      "local_names": [
+        {
+          "name": "LUBOTOBONDERI",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        }
+      ],
+      "uses": "A decoction made from the roots is used as a cure for intestinal worms. The decoction is drunk warm in the evening and the following morning.",
+      "source_page": 52
+    },
+    {
+      "id": "plant_030",
+      "scientific_name": "Gomphocarpus stenophyllus",
+      "figure_reference": null,
+      "family": "BALSAMINACEAE",
+      "local_names": [
+        {
+          "name": "NUNGUNUNGU",
+          "ethnic_groups": [
+            "Kiamboi"
+          ]
+        }
+      ],
+      "uses": "Roots used for infantile diarrhoea, by boiling them and drinking the decoction.",
+      "source_page": 52
+    },
+    {
+      "id": "plant_031",
+      "scientific_name": "Huernia aspera",
+      "figure_reference": null,
+      "family": "BALSAMINACEAE",
+      "local_names": [
+        {
+          "name": "KAWALA",
+          "ethnic_groups": [
+            "Kamba"
+          ]
+        }
+      ],
+      "uses": "When the plant is broken off at the joints a clear sap exudes out of the stem. This sap is applied to wounds. The wound dries up and therefore heals. Stapelia semota in the same family is used in this same treatment.",
+      "source_page": 52
+    },
+    {
+      "id": "plant_032",
+      "scientific_name": "Leptadenia hastata",
+      "figure_reference": null,
+      "family": "BALSAMINACEAE",
+      "local_names": [
+        {
+          "name": "EKAMONG'O",
+          "ethnic_groups": [
+            "Turkana"
+          ]
+        }
+      ],
+      "uses": "Stems pounded and sap and/or paste applied on wounds.",
+      "source_page": 52
+    },
+    {
+      "id": "plant_033",
+      "scientific_name": "Mondia whitei",
+      "figure_reference": null,
+      "family": "BALSAMINACEAE",
+      "local_names": [
+        {
+          "name": "MBOMBONGAZI",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        },
+        {
+          "name": "MUKOMBELO",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        },
+        {
+          "name": "MUOMBO",
+          "ethnic_groups": [
+            "Luo"
+          ]
+        },
+        {
+          "name": "OGOMBO",
+          "ethnic_groups": [
+            "Luo"
+          ]
+        }
+      ],
+      "uses": "Roots are used as a cure for gonorrhoea, by soaking them in a bottle of water; before drinking, the bottle should be shaken till the liquid turns into scum. Roots are seeped in cold water and the liquid drunk as a cure for",
+      "source_page": 52
+    },
+    {
+      "id": "plant_034",
+      "scientific_name": "Cussonia arborea",
+      "figure_reference": "69",
+      "family": "ARALIACEAE",
+      "local_names": [
+        {
+          "name": "KITANDAWABAISA",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        },
+        {
+          "name": "MAFUBULU",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        },
+        {
+          "name": "MNTINDI MTINDI",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        }
+      ],
+      "uses": "Pounded roots soaked or boiled in water and the infusion drunk 2-3 times a day for treatment of gonorrhoea. Leaves are used as a general antidote to any poisoning effects. Leaf infusion is also drunk for constipation. Bark decoction drunk for anaemia and kidney problems.",
+      "source_page": 48
+    },
+    {
+      "id": "plant_035",
+      "scientific_name": "Cussonia holstii",
+      "figure_reference": "70",
+      "family": "ARALIACEAE",
+      "local_names": [
+        {
+          "name": "LULUKWET",
+          "ethnic_groups": [
+            "Kipsigis"
+          ]
+        },
+        {
+          "name": "MAENDE",
+          "ethnic_groups": [
+            "Kamba"
+          ]
+        }
+      ],
+      "uses": "The bark is boiled in water and the infusion taken by women after parturition in order to clean the uterus.",
+      "source_page": 48
+    },
+    {
+      "id": "plant_036",
+      "scientific_name": "Cussonia kirkii",
+      "figure_reference": null,
+      "family": "ARALIACEAE",
+      "local_names": [
+        {
+          "name": "MKALIA",
+          "ethnic_groups": [
+            "Nyamwezi"
+          ]
+        }
+      ],
+      "uses": "It is used as a remedy for gonorrhoea. The bark with the outer dry part removed, boiled and the decoction drunk three times daily.",
+      "source_page": 48
+    },
+    {
+      "id": "plant_037",
+      "scientific_name": "Cussonia spicata",
+      "figure_reference": null,
+      "family": "ARALIACEAE",
+      "local_names": [
+        {
+          "name": "MTENDELE",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        },
+        {
+          "name": "MNTINDI",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        }
+      ],
+      "uses": "Leaf decoction drunk for treating malaria, constipation or used as antidote for snake bite.",
+      "source_page": 48
+    },
+    {
+      "id": "plant_038",
+      "scientific_name": "Cussonia zimmermannii",
+      "figure_reference": null,
+      "family": "ARALIACEAE",
+      "local_names": [
+        {
+          "name": "MUNYALA",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        }
+      ],
+      "uses": "An infusion of the leaves is used as a wash for people suffering from fever or ague. A decoction of the roots is taken as a remedy for gonorrhoea.",
+      "source_page": 48
+    },
+    {
+      "id": "plant_039",
+      "scientific_name": "Schefflera barteri",
+      "figure_reference": null,
+      "family": "ARALIACEAE",
+      "local_names": [
+        {
+          "name": "ZUTWE",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        }
+      ],
+      "uses": "Roots boiled and the liquid drunk just before childbirth for safe delivery.",
+      "source_page": 49
+    },
+    {
+      "id": "plant_040",
+      "scientific_name": "Schefflera volkensii",
+      "figure_reference": null,
+      "family": "ARALIACEAE",
+      "local_names": [
+        {
+          "name": "JINET",
+          "ethnic_groups": [
+            "Nandi"
+          ]
+        },
+        {
+          "name": "TINET",
+          "ethnic_groups": [
+            "Kipsigis"
+          ]
+        }
+      ],
+      "uses": "Gum obtained from this plant is a cure for colds, coughs, and lung troubles, especially bronchitis.",
+      "source_page": 49
+    },
+    {
+      "id": "plant_041",
+      "scientific_name": "Aristolochia bracteolata",
+      "figure_reference": null,
+      "family": "ARISTOLOCHIACEAE",
+      "local_names": [
+        {
+          "name": "LOSURULAICH",
+          "ethnic_groups": [
+            "Turkana"
+          ]
+        }
+      ],
+      "uses": "Dried leaf decoction mixed with oil or blood is used for chest pains and as an emetic.",
+      "source_page": 49
+    },
+    {
+      "id": "plant_042",
+      "scientific_name": "Aristolochia hockii",
+      "figure_reference": null,
+      "family": "ARISTOLOCHIACEAE",
+      "local_names": [
+        {
+          "name": "LUNKULWE",
+          "ethnic_groups": [
+            "Shambaa",
+            "Sukuma",
+            "Zigua"
+          ]
+        },
+        {
+          "name": "UNKULWE",
+          "ethnic_groups": [
+            "Shambaa",
+            "Sukuma",
+            "Zigua"
+          ]
+        },
+        {
+          "name": "TAMBA YA NYOKA",
+          "ethnic_groups": [
+            "Swahili"
+          ]
+        }
+      ],
+      "uses": "Pounded roots mixed with salt is a remedy for coughs and sore throat. It has been reported to be used as an antidote for snake bite and arrow poison. But the plant is also known to be poisonous, especially to livestock.",
+      "source_page": 49
+    },
+    {
+      "id": "plant_043",
+      "scientific_name": "Calotropis procera",
+      "figure_reference": "36",
+      "family": "ASCLEPIADACEAE",
+      "local_names": [
+        {
+          "name": "ETITHURU",
+          "ethnic_groups": [
+            "Turkana"
+          ]
+        },
+        {
+          "name": "MPAMBA MWITU",
+          "ethnic_groups": [
+            "Swahili"
+          ]
+        },
+        {
+          "name": "MUVUTHU",
+          "ethnic_groups": [
+            "Kamba"
+          ]
+        },
+        {
+          "name": "OKWOT-PU",
+          "ethnic_groups": [
+            "Luo"
+          ]
+        }
+      ],
+      "uses": "Roots used for snake bite treatment, while their decoction is a medicine for hookworm. Used as an emetic, and also as a medicine for camel diseases. Stem bark and roots are boiled and the decoction drunk and also used for bathing as treatment for leprosy.",
+      "source_page": 49
+    },
+    {
+      "id": "plant_044",
+      "scientific_name": "Rauvolfia caffra",
+      "figure_reference": null,
+      "family": "ASCLEPIADACEAE",
+      "local_names": [
+        {
+          "name": "MUTONDWET",
+          "ethnic_groups": [
+            "Sebei"
+          ]
+        },
+        {
+          "name": "MUTUU",
+          "ethnic_groups": [
+            "Meru"
+          ]
+        },
+        {
+          "name": "MWERERE",
+          "ethnic_groups": [
+            "Kikuyu"
+          ]
+        }
+      ],
+      "uses": "A bark decoction is drunk as a medicine for general body swellings, rheumatism and pneumonia. Leaves used by circumcised boys to sleep on when wounds are still fresh. Root and stem bark used as an ascaricide while the powdered young flowers are for the treatment of sores. Root juice mixed with honey is applied on fractures. The bark is used as an astringent and as a remedy for colic. Root decoction or infusion is drunk for treating roundworm and tapeworm, and it also acts as a purgative. Bark decoction is for coughs, stitch and toothache.",
+      "source_page": 46
+    },
+    {
+      "id": "plant_045",
+      "scientific_name": "Rauvolfia mombasiana",
+      "figure_reference": null,
+      "family": "ASCLEPIADACEAE",
+      "local_names": [
+        {
+          "name": "KIBOMBO",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        }
+      ],
+      "uses": "Roots boiled with another plant and the liquid drunk 3 times daily as a cure for gonorrhoea. This bitter root decoction is also drunk as a remedy for malaria.",
+      "source_page": 46
+    },
+    {
+      "id": "plant_046",
+      "scientific_name": "Rauvolfia vomitoria",
+      "figure_reference": null,
+      "family": "ASCLEPIADACEAE",
+      "local_names": [
+        {
+          "name": "KAWULE",
+          "ethnic_groups": [
+            "Lusoga"
+          ]
+        },
+        {
+          "name": "MWANJE",
+          "ethnic_groups": [
+            "Luganda"
+          ]
+        }
+      ],
+      "uses": "Bark boiled and the decoction drunk as a treatment for lowering blood pressure (hypertension).",
+      "source_page": 46
+    },
+    {
+      "id": "plant_047",
+      "scientific_name": "Saba comorensis",
+      "figure_reference": null,
+      "family": "ASCLEPIADACEAE",
+      "local_names": [
+        {
+          "name": "IVUNGU",
+          "ethnic_groups": [
+            "Taveta"
+          ]
+        },
+        {
+          "name": "MTEGETI",
+          "ethnic_groups": [
+            "Kuria",
+            "Mara"
+          ]
+        }
+      ],
+      "uses": "Boiled root decoction drunk for the treatment of rheumatism and sterility. Sweet acidic fruits are eaten but they are also used to treat infected tongues. Leaf infusion drunk for hypertension.",
+      "source_page": 46
+    },
+    {
+      "id": "plant_048",
+      "scientific_name": "Schizozygia coffaeoides",
+      "figure_reference": null,
+      "family": "ASCLEPIADACEAE",
+      "local_names": [
+        {
+          "name": "MBAIKA",
+          "ethnic_groups": [
+            "Bondei"
+          ]
+        },
+        {
+          "name": "MPELEPELE",
+          "ethnic_groups": [
+            "Swahili"
+          ]
+        }
+      ],
+      "uses": "Extract of root mixed with coconut oil and used for \"pele\" (Swahili), sores on hands. The roots may simply be pounded, mixed with coconut oil and smeared on the sores. Fruits are reported to be toxic.",
+      "source_page": 46
+    },
+    {
+      "id": "plant_049",
+      "scientific_name": "Strophanthus eminii",
+      "figure_reference": null,
+      "family": "ASCLEPIADACEAE",
+      "local_names": [
+        {
+          "name": "MSENGULULU",
+          "ethnic_groups": [
+            "Nyamwezi"
+          ]
+        },
+        {
+          "name": "MSUNGURURU",
+          "ethnic_groups": [
+            "Sukuma"
+          ]
+        }
+      ],
+      "uses": "Roots soaked in water and children bathed in the liquid to cure fever. Boiled root decoction drunk twice a day as a medicine for worms. Young branches chewed for snake bite treatment. Roots are further used as an emetic, but the seeds are reported to be toxic. As a febrifuge, pounded roots are soaked in warm water and the escaping vapour inhaled while bathing the patient. Seeds are used to prepare an arrow poison, and any drug prepared from the plant must be used with care.",
+      "source_page": 47
+    },
+    {
+      "id": "plant_050",
+      "scientific_name": "Tabernaemontana pachysiphon",
+      "figure_reference": "180",
+      "family": "ASCLEPIADACEAE",
+      "local_names": [
+        {
+          "name": "MKOMBA",
+          "ethnic_groups": [
+            "Chagga"
+          ]
+        },
+        {
+          "name": "MWORONGONDO",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        },
+        {
+          "name": "NONGOLI",
+          "ethnic_groups": [
+            "Mwera"
+          ]
+        }
+      ],
+      "uses": "The latex is used to treat minor cuts or abrasions on the body merely by permitting the milky sap to drop from cut ends of the fruit upon the injured surface. Because of the presence of a rubber-like substance in this milky sap, a film or a sort of a \"new skin\" is formed over the injured part. A decoction of the roots is taken as a remedy for stomach ache and constipation, and also acts as a purgative. It is also taken to relieve headache and is said to cause people to sleep, i.e. it is a hypnotic. An infusion of the leaves is used as a head wash as a remedy for headache. A decoction of the roots is taken to relieve flatulence. Latex is further applied directly to sore eyes. Leaf or stem latex is used for wounds.",
+      "source_page": 47
+    },
+    {
+      "id": "plant_051",
+      "scientific_name": "Tabernaemontana ventricosa",
+      "figure_reference": null,
+      "family": "ASCLEPIADACEAE",
+      "local_names": [
+        {
+          "name": "KIBONDO",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        },
+        {
+          "name": "KITONDO",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        }
+      ],
+      "uses": "The latex obtained from the stem is allowed to drip from the cut ends of the stem upon an old wound to eliminate secondary infection and the wound soon heals.",
+      "source_page": 47
+    },
+    {
+      "id": "plant_052",
+      "scientific_name": "Ilex mitis",
+      "figure_reference": null,
+      "family": "AQUIFOLIACEAE",
+      "local_names": [
+        {
+          "name": "SEGER",
+          "ethnic_groups": [
+            "Marakwet"
+          ]
+        },
+        {
+          "name": "TONGOTUET",
+          "ethnic_groups": [
+            "Ogiek"
+          ]
+        }
+      ],
+      "uses": "Bark decoction is drunk for the treatment of sterility in women. The bark also chewed for general abdominal pains.",
+      "source_page": 47
+    },
+    {
+      "id": "plant_053",
+      "scientific_name": "Acokanthera schimperi",
+      "figure_reference": null,
+      "family": "AQUIFOLIACEAE",
+      "local_names": [
+        {
+          "name": "KELYOT",
+          "ethnic_groups": [
+            "Kipsigis"
+          ]
+        },
+        {
+          "name": "NAMIKOUKO",
+          "ethnic_groups": [
+            "Fipa"
+          ]
+        },
+        {
+          "name": "OL-MORIGYE",
+          "ethnic_groups": [
+            "Maasai"
+          ]
+        },
+        {
+          "name": "MUCHUNGU",
+          "ethnic_groups": [
+            "Swahili"
+          ]
+        }
+      ],
+      "uses": "An infusion of the roots is given to those suffering from syphilis, but the dose must be in small quantities. An infusion of the bark and roots is used as an arrow poison.",
+      "source_page": 44
+    },
+    {
+      "id": "plant_054",
+      "scientific_name": "Adenium obesum",
+      "figure_reference": "14",
+      "family": "AQUIFOLIACEAE",
+      "local_names": [
+        {
+          "name": "KALUNI",
+          "ethnic_groups": [
+            "Pokot"
+          ]
+        },
+        {
+          "name": "MWADIGA",
+          "ethnic_groups": [
+            "Swahili"
+          ]
+        }
+      ],
+      "uses": "The roots, which are poisonous to human, are used to kill lice. The juice from the plant is also widely used as a fish ingredient in poison and as an arrow poison. Bark infusion used in washing livestock against ticks and lice.",
+      "source_page": 44
+    },
+    {
+      "id": "plant_055",
+      "scientific_name": "Alstonia boonei",
+      "figure_reference": null,
+      "family": "AQUIFOLIACEAE",
+      "local_names": [
+        {
+          "name": "MUJWA",
+          "ethnic_groups": [
+            "Lunyoro"
+          ]
+        },
+        {
+          "name": "MUKOGE",
+          "ethnic_groups": [
+            "Luganda"
+          ]
+        },
+        {
+          "name": "NSIWA",
+          "ethnic_groups": [
+            "Lusoga"
+          ]
+        }
+      ],
+      "uses": "An infusion of stem bark in cold water is drunk and used for bathing for treatment of dizziness. Leaf extract is used for washing infected breasts. Root and stem infusion is drunk as an anthelmintic or for treating snake bite. An infusion of roots, stem and leaves is drunk for treating asthma.",
+      "source_page": 44
+    },
+    {
+      "id": "plant_056",
+      "scientific_name": "Ancylobothrys petersiana",
+      "figure_reference": null,
+      "family": "AQUIFOLIACEAE",
+      "local_names": [
+        {
+          "name": "KABANEZA",
+          "ethnic_groups": [
+            "Sandawi"
+          ]
+        }
+      ],
+      "uses": "Root decoction drunk for the treatment of influenza, snake bite, and as a diaphoretic.",
+      "source_page": 44
+    },
+    {
+      "id": "plant_057",
+      "scientific_name": "Carissa spinarum",
+      "figure_reference": "39",
+      "family": "AQUIFOLIACEAE",
+      "local_names": [
+        {
+          "name": "KAMASAI",
+          "ethnic_groups": [
+            "Nyamuha"
+          ]
+        },
+        {
+          "name": "KIKAWAM MUKAWA",
+          "ethnic_groups": [
+            "Kamba"
+          ]
+        },
+        {
+          "name": "MUFUMBWE",
+          "ethnic_groups": [
+            "Hehe"
+          ]
+        },
+        {
+          "name": "OCHUOGA",
+          "ethnic_groups": [
+            "Luo"
+          ]
+        },
+        {
+          "name": "LAMURIEI",
+          "ethnic_groups": [
+            "Samburu"
+          ]
+        },
+        {
+          "name": "MTANDA-MBOO",
+          "ethnic_groups": [
+            "Swahili"
+          ]
+        },
+        {
+          "name": "MUYONZA",
+          "ethnic_groups": [
+            "Luganda"
+          ]
+        }
+      ],
+      "uses": "Used for indigestion and also for lower abdominal pains in pregnancy. The roots are dug out, washed and boiled in a pot with water. The solution is taken warm in small quantities at any time. An infusion of roots together with other medicinal plants is used for treating chest pains. Root decoction is also used for malaria, in treating polio symptoms, chest pain, arthritis, rheumatism, gonorrhoea, constipation, yellow fever, epilepsy, kidney problems or as a cathartic. Leaf decoction used for breast cancer.",
+      "source_page": 44
+    },
+    {
+      "id": "plant_058",
+      "scientific_name": "Catharanthus roseus",
+      "figure_reference": "40",
+      "family": "AQUIFOLIACEAE",
+      "local_names": [
+        {
+          "name": "MAUA",
+          "ethnic_groups": [
+            "Luo"
+          ]
+        }
+      ],
+      "uses": "Whole plant decoction mixed with the bark of Harrisonia abyssinica is drunk for treating abdominal pains.",
+      "source_page": 45
+    },
+    {
+      "id": "plant_059",
+      "scientific_name": "Diplorhynchus condylocarpon",
+      "figure_reference": null,
+      "family": "AQUIFOLIACEAE",
+      "local_names": [
+        {
+          "name": "ITELEMBE",
+          "ethnic_groups": [
+            "Nyika"
+          ]
+        },
+        {
+          "name": "MTOGA",
+          "ethnic_groups": [
+            "Rufiji"
+          ]
+        },
+        {
+          "name": "MSONGA",
+          "ethnic_groups": [
+            "Nyamwezi"
+          ]
+        }
+      ],
+      "uses": "A decoction of the root is part of the medicine drunk for gonorrhoea, testicle inflammation, and dysentery. It is also a remedy for sore eyes. Powdered root and bark are used to facilitate birth. It is also a snake bite remedy.",
+      "source_page": 45
+    },
+    {
+      "id": "plant_060",
+      "scientific_name": "Holarrhena pubescens",
+      "figure_reference": null,
+      "family": "AQUIFOLIACEAE",
+      "local_names": [
+        {
+          "name": "MBELEBELE",
+          "ethnic_groups": [
+            "Sukuma"
+          ]
+        },
+        {
+          "name": "MTIMEUPE",
+          "ethnic_groups": [
+            "Swahili"
+          ]
+        },
+        {
+          "name": "NALUPANDE",
+          "ethnic_groups": [
+            "Mwera"
+          ]
+        }
+      ],
+      "uses": "The leaves are pounded and mixed with water which is drunk as a cure for stomach pains. Roots are used in washing children with fever, for stimulating lactation in women, and for influenza.",
+      "source_page": 45
+    },
+    {
+      "id": "plant_061",
+      "scientific_name": "Hunteria zeylanica",
+      "figure_reference": null,
+      "family": "AQUIFOLIACEAE",
+      "local_names": [
+        {
+          "name": "MZIAZIA MZIWA-ZIWA",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        }
+      ],
+      "uses": "The leaves are pounded, mixed with water and the liquid given to cows to increase lactation.",
+      "source_page": 45
+    },
+    {
+      "id": "plant_062",
+      "scientific_name": "Landolphia buchananii",
+      "figure_reference": null,
+      "family": "AQUIFOLIACEAE",
+      "local_names": [
+        {
+          "name": "KIONGAO",
+          "ethnic_groups": [
+            "Kamba"
+          ]
+        },
+        {
+          "name": "MUGU",
+          "ethnic_groups": [
+            "Kikuyu"
+          ]
+        }
+      ],
+      "uses": "Both ripe and unripe fruits are eaten to clear infected tongue. Root decoction drunk for treatment of gonorrhoea and bilharzia.",
+      "source_page": 45
+    },
+    {
+      "id": "plant_063",
+      "scientific_name": "Enantia kummeriae",
+      "figure_reference": null,
+      "family": "AQUIFOLIACEAE",
+      "local_names": [
+        {
+          "name": "MUAKA",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        },
+        {
+          "name": "ZONOZONO",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        }
+      ],
+      "uses": "Used as a medicine for cuts or fresh wounds.",
+      "source_page": 42
+    },
+    {
+      "id": "plant_064",
+      "scientific_name": "Friesodielsia obovata",
+      "figure_reference": null,
+      "family": "AQUIFOLIACEAE",
+      "local_names": [
+        {
+          "name": "MSALASI",
+          "ethnic_groups": [
+            "Nyamwezi"
+          ]
+        }
+      ],
+      "uses": "Root decoction drunk for stomach ache, infertility in women and as an antidote for snake bite.",
+      "source_page": 42
+    },
+    {
+      "id": "plant_065",
+      "scientific_name": "Monanthotaxis fornicata",
+      "figure_reference": null,
+      "family": "AQUIFOLIACEAE",
+      "local_names": [
+        {
+          "name": "LONGI",
+          "ethnic_groups": [
+            "Boni"
+          ]
+        }
+      ],
+      "uses": "A decoction of the leaves which are aromatic is taken as a remedy for headaches and constipation.",
+      "source_page": 42
+    },
+    {
+      "id": "plant_066",
+      "scientific_name": "Monanthotaxis poggei",
+      "figure_reference": null,
+      "family": "AQUIFOLIACEAE",
+      "local_names": [
+        {
+          "name": "LUJONGOLOLO",
+          "ethnic_groups": [
+            "Tongwe"
+          ]
+        }
+      ],
+      "uses": "Fresh roots pounded, soaked in water and drunk for stomach ache and as an antidote for snake bite.",
+      "source_page": 42
+    },
+    {
+      "id": "plant_067",
+      "scientific_name": "Monanthotaxis trichocarpa",
+      "figure_reference": null,
+      "family": "AQUIFOLIACEAE",
+      "local_names": [
+        {
+          "name": "MUDZALA",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        },
+        {
+          "name": "MFUNDA",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        }
+      ],
+      "uses": "A decoction of the leaves, which are aromatic, is taken as a remedy for headache by the Digo.",
+      "source_page": 42
+    },
+    {
+      "id": "plant_068",
+      "scientific_name": "Uvaria acuminata",
+      "figure_reference": null,
+      "family": "AQUIFOLIACEAE",
+      "local_names": [
+        {
+          "name": "IHULUNGULA",
+          "ethnic_groups": [
+            "Sukuma"
+          ]
+        },
+        {
+          "name": "MHUANI",
+          "ethnic_groups": [
+            "Ngoni"
+          ]
+        },
+        {
+          "name": "MLEKO",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        },
+        {
+          "name": "MUDZALA",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        },
+        {
+          "name": "MUMBWENI",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        }
+      ],
+      "uses": "A decoction of the boiled roots is drunk by women three times a day for painful menstruation. The same decoction is also taken as a remedy for dysentery, snake bite, and pectoral (breast) diseases. internal body harm referred to as \"Kati\" (Kamba). The bark is also used as a medicine for toothache, constipation, stomach trouble, enlarged spleen and liver, dysentery, diarrhoea, malaria, fever and ulcers. Fresh fruits are eaten for colds, leaves for heartburn.",
+      "source_page": 42
+    },
+    {
+      "id": "plant_069",
+      "scientific_name": "Sorindeia madagascariensis",
+      "figure_reference": null,
+      "family": "AQUIFOLIACEAE",
+      "local_names": [
+        {
+          "name": "MKWINGWINA",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        },
+        {
+          "name": "MPILIPILI",
+          "ethnic_groups": [
+            "Swahili",
+            "Hehe",
+            "Zaramo"
+          ]
+        }
+      ],
+      "uses": "Root decoction drunk for tuberculosis, schistosomiasis and menstrual problems.",
+      "source_page": 41
+    },
+    {
+      "id": "plant_070",
+      "scientific_name": "Annona senegalensis",
+      "figure_reference": "23",
+      "family": "ANNONACEAE",
+      "local_names": [
+        {
+          "name": "MBOKWE",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        },
+        {
+          "name": "MFILA",
+          "ethnic_groups": [
+            "Nyamwezi"
+          ]
+        },
+        {
+          "name": "MUBENGEYA",
+          "ethnic_groups": [
+            "Lunyoro"
+          ]
+        },
+        {
+          "name": "OBOLO",
+          "ethnic_groups": [
+            "Acholi",
+            "Luo"
+          ]
+        }
+      ],
+      "uses": "A decoction of the roots is taken as a remedy for chest colds, stomach ache, diarrhoea, vomiting, impotence or barreness, sterility and flatulence. The gum is applied to cuts and wounds to seal them. Fruits cure diarrhoea, dysentery, and vomiting. Crushed leaves rubbed on snake bites, while some leaves chewed and juice swallowed for the same treatment.",
+      "source_page": 41
+    },
+    {
+      "id": "plant_071",
+      "scientific_name": "Artabotrys modestus",
+      "figure_reference": null,
+      "family": "ANNONACEAE",
+      "local_names": [
+        {
+          "name": "MUMBU",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        },
+        {
+          "name": "MDAZALA",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        }
+      ],
+      "uses": "An infusion of the leaves is taken as a remedy for nausea and vomiting. A decoction of the roots is taken as a remedy for stomach ache and diarrhoea.",
+      "source_page": 41
+    },
+    {
+      "id": "plant_072",
+      "scientific_name": "Asteranthe asterias",
+      "figure_reference": null,
+      "family": "ANNONACEAE",
+      "local_names": [
+        {
+          "name": "MGAGINI",
+          "ethnic_groups": [
+            "Boni"
+          ]
+        }
+      ],
+      "uses": "A paste of pounded roots is applied on to painful swellings under the jaws.",
+      "source_page": 41
+    },
+    {
+      "id": "plant_073",
+      "scientific_name": "Uvaria leptocladon",
+      "figure_reference": null,
+      "family": "ANNONACEAE",
+      "local_names": [
+        {
+          "name": "MBASERI",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        },
+        {
+          "name": "MZONDO-HERA-NGURUWE",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        },
+        {
+          "name": "MSOFU",
+          "ethnic_groups": [
+            "Zigua"
+          ]
+        }
+      ],
+      "uses": "A decoction of the roots is taken as a diuretic particularly for gonorrhoea. It is also used as a remedy for dysentery.",
+      "source_page": 43
+    },
+    {
+      "id": "plant_074",
+      "scientific_name": "Uvaria scheffleri",
+      "figure_reference": null,
+      "family": "ANNONACEAE",
+      "local_names": [
+        {
+          "name": "MUGUGUMU",
+          "ethnic_groups": [
+            "Kamba"
+          ]
+        },
+        {
+          "name": "MURGUIYO",
+          "ethnic_groups": [
+            "Marakwet"
+          ]
+        }
+      ],
+      "uses": "The bark of the roots is used by the Kamba as a cure for fever. The roots may be boiled and the decoction drunk. Roots decoction is used for debility.",
+      "source_page": 43
+    },
+    {
+      "id": "plant_075",
+      "scientific_name": "Xylopia aethiopica",
+      "figure_reference": null,
+      "family": "ANNONACEAE",
+      "local_names": [
+        {
+          "name": "MWENGELE",
+          "ethnic_groups": [
+            "Swahili"
+          ]
+        }
+      ],
+      "uses": "A decoction of the fruit is mixed with several other plants and drunk for the treatment of headache. With seeds removed the dried fruit is ground into powder form and used for coughs, bronchitis and dysentery. A poultice of leaves and fruits is used for the treatment of headache and neuralgia. APIACEAE See Umbelliferae",
+      "source_page": 43
+    },
+    {
+      "id": "plant_076",
+      "scientific_name": "Acokanthera oppositifolia",
+      "figure_reference": null,
+      "family": "APOCYNACEAE",
+      "local_names": [
+        {
+          "name": "OL-MORIJOI",
+          "ethnic_groups": [
+            "Maasai"
+          ]
+        }
+      ],
+      "uses": "A decoction of the roots has been given to people with syphilis, but such treatment must be administered with caution since the plant is known to be toxic. Dried powdered leaves and roots used for treatment of headache and snake bite.",
+      "source_page": 43
+    },
+    {
+      "id": "plant_077",
+      "scientific_name": "Lannea triphylla",
+      "figure_reference": null,
+      "family": "APOCYNACEAE",
+      "local_names": [
+        {
+          "name": "MOINO",
+          "ethnic_groups": [
+            "Pokot"
+          ]
+        }
+      ],
+      "uses": "Bark decoction given to children as a tonic for coughs and constipation. Fresh bark chewed by adults for colds.",
+      "source_page": 39
+    },
+    {
+      "id": "plant_078",
+      "scientific_name": "Lannea welwitschii",
+      "figure_reference": null,
+      "family": "APOCYNACEAE",
+      "local_names": [
+        {
+          "name": "MUKOWA",
+          "ethnic_groups": [
+            "Luganda"
+          ]
+        },
+        {
+          "name": "MUMBU",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        }
+      ],
+      "uses": "Bark used together with another unspecified tree as a remedy for snake bite.",
+      "source_page": 39
+    },
+    {
+      "id": "plant_079",
+      "scientific_name": "Ozoroa insignis",
+      "figure_reference": null,
+      "family": "APOCYNACEAE",
+      "local_names": [
+        {
+          "name": "LEMENWET",
+          "ethnic_groups": [
+            "Kipsigis"
+          ]
+        },
+        {
+          "name": "MADHARI",
+          "ethnic_groups": [
+            "Luo"
+          ]
+        }
+      ],
+      "uses": "An infusion of the bark and twigs is drunk to treat diarrhoea and stomach pains. Root decoction is also drunk for diarrhoea and gastro-intestinal problems.",
+      "source_page": 39
+    },
+    {
+      "id": "plant_080",
+      "scientific_name": "Ozoroa obovata",
+      "figure_reference": null,
+      "family": "APOCYNACEAE",
+      "local_names": [
+        {
+          "name": "LIVANGI",
+          "ethnic_groups": [
+            "Matengo"
+          ]
+        },
+        {
+          "name": "MJAIKA",
+          "ethnic_groups": [
+            "Mwera"
+          ]
+        },
+        {
+          "name": "MLAGO",
+          "ethnic_groups": [
+            "Nyamwezi",
+            "Sukuma"
+          ]
+        },
+        {
+          "name": "MSALANGA",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        },
+        {
+          "name": "MSIMBWI",
+          "ethnic_groups": [
+            "Swahili"
+          ]
+        },
+        {
+          "name": "MUVUNZA-KONDO",
+          "ethnic_groups": [
+            "Giriama"
+          ]
+        },
+        {
+          "name": "KEDUALA",
+          "ethnic_groups": [
+            "Boni"
+          ]
+        }
+      ],
+      "uses": "A decoction of the roots is used as a remedy for diarrhoea. It is also used to cure gonorrhoea when an obstruction occurs in the urethra, and for kidney trouble. A decoction from the roots is also a remedy for intestinal parasites, dysentery, stomach trouble, bilharzia, and also used for abortion. Juice from leaves is used as an antidote for snake bite. Bark is boiled in water and liquid drunk in cases of dysentery. Root decoction used as cough syrup. Root and bark boiled in water and the decoction drunk three times a day for dysentery.",
+      "source_page": 39
+    },
+    {
+      "id": "plant_081",
+      "scientific_name": "Rhus longipes",
+      "figure_reference": null,
+      "family": "APOCYNACEAE",
+      "local_names": [
+        {
+          "name": "MKOLOLA",
+          "ethnic_groups": [
+            "Mwera"
+          ]
+        },
+        {
+          "name": "SERIA",
+          "ethnic_groups": [
+            "Marakwet"
+          ]
+        }
+      ],
+      "uses": "A decoction of boiled roots used in treatment of abdominal pain and for indigestion. Escaping vapour from boiled roots inhaled as a treatment of influenza.",
+      "source_page": 39
+    },
+    {
+      "id": "plant_082",
+      "scientific_name": "Lannea fulva",
+      "figure_reference": null,
+      "family": "APOCYNACEAE",
+      "local_names": [
+        {
+          "name": "SERIA",
+          "ethnic_groups": [
+            "Haya"
+          ]
+        },
+        {
+          "name": "LOLOTWO",
+          "ethnic_groups": [
+            "Pokot"
+          ]
+        }
+      ],
+      "uses": "Boiled roots used as an astringent or for chest troubles. Bark infusion drunk for stomach ache.",
+      "source_page": 38
+    },
+    {
+      "id": "plant_083",
+      "scientific_name": "Lannea humilis",
+      "figure_reference": null,
+      "family": "APOCYNACEAE",
+      "local_names": [
+        {
+          "name": "MTINJE",
+          "ethnic_groups": [
+            "Nyamwezi"
+          ]
+        }
+      ],
+      "uses": "Roots are pounded, soaked in warm water and the decoction drunk for nausea, stomach ache, body pains and as a cough syrup.",
+      "source_page": 38
+    },
+    {
+      "id": "plant_084",
+      "scientific_name": "Lannea rivae",
+      "figure_reference": "128",
+      "family": "APOCYNACEAE",
+      "local_names": [
+        {
+          "name": "LATAT",
+          "ethnic_groups": [
+            "Marakwet"
+          ]
+        },
+        {
+          "name": "MTINJE",
+          "ethnic_groups": [
+            "Nyamwezi"
+          ]
+        }
+      ],
+      "uses": "Inner bark chewed for colds, fever, coughs and stomach ache.",
+      "source_page": 38
+    },
+    {
+      "id": "plant_085",
+      "scientific_name": "Lannea schimperi",
+      "figure_reference": null,
+      "family": "APOCYNACEAE",
+      "local_names": [
+        {
+          "name": "CHEPRUKWA",
+          "ethnic_groups": [
+            "Pokot"
+          ]
+        },
+        {
+          "name": "MVUMVU MKUBWA",
+          "ethnic_groups": [
+            "Zaramo"
+          ]
+        },
+        {
+          "name": "NEKOTE",
+          "ethnic_groups": [
+            "Karamajong'"
+          ]
+        },
+        {
+          "name": "UNAHAVUMBA",
+          "ethnic_groups": [
+            "Nyika"
+          ]
+        }
+      ],
+      "uses": "For toothache, the root decoction is used for cleaning the mouth. Boiled roots or bark used for chest troubles and for colds. Juice from pounded and soaked leaves is drunk to stop severe diarrhoea normally accompanied with blood.",
+      "source_page": 38
+    },
+    {
+      "id": "plant_086",
+      "scientific_name": "Lannea schweinfurthii",
+      "figure_reference": "129",
+      "family": "APOCYNACEAE",
+      "local_names": [
+        {
+          "name": "KUOGO",
+          "ethnic_groups": [
+            "Luo"
+          ]
+        },
+        {
+          "name": "MNYUMBA",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        },
+        {
+          "name": "MSIGHE",
+          "ethnic_groups": [
+            "Pare"
+          ]
+        },
+        {
+          "name": "MUWUMBU",
+          "ethnic_groups": [
+            "Gogo"
+          ]
+        }
+      ],
+      "uses": "A decoction of the bark is taken as a remedy for headache and for stomach-ache. An infusion of the leaves used as a wash for paralysis or polio. In addition, it is given to pregnant women to relieve abdominal pains and a poultice of the leaves is applied to the abdomen to hasten child birth. Bark, root or leaf decoction drunk and used in bathing for dermatological problems, gynaecological problems, venereal diseases, dysentery or anaemia. Leaves chewed for coughs.",
+      "source_page": 38
+    },
+    {
+      "id": "plant_087",
+      "scientific_name": "Pupalia lappacea",
+      "figure_reference": null,
+      "family": "APOCYNACEAE",
+      "local_names": [
+        {
+          "name": "KALAMATA",
+          "ethnic_groups": [
+            "Lango"
+          ]
+        },
+        {
+          "name": "MAMATA",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        },
+        {
+          "name": "MNAMATA",
+          "ethnic_groups": [
+            "Zaramo"
+          ]
+        },
+        {
+          "name": "MUMUHAI",
+          "ethnic_groups": [
+            "Mbulu"
+          ]
+        }
+      ],
+      "uses": "The dried leaves and fruits are powdered and dusted on sores as a medicine. Roots boiled in water and the infusion is drunk three times a day for syphilis, snake bite, and as a purgative.",
+      "source_page": 37
+    },
+    {
+      "id": "plant_088",
+      "scientific_name": "Sericocomopsis hildebrandtii",
+      "figure_reference": "166",
+      "family": "APOCYNACEAE",
+      "local_names": [
+        {
+          "name": "KINKERS",
+          "ethnic_groups": [
+            "Tugen"
+          ]
+        }
+      ],
+      "uses": "A decoction of the plant is drunk by women having period pains or dysmenorrhoea.",
+      "source_page": 37
+    },
+    {
+      "id": "plant_089",
+      "scientific_name": "Sericocomopsis pallida",
+      "figure_reference": null,
+      "family": "APOCYNACEAE",
+      "local_names": [
+        {
+          "name": "LTURKAN",
+          "ethnic_groups": [
+            "Samburu"
+          ]
+        }
+      ],
+      "uses": "Root decoction drunk as a cure for malaria.",
+      "source_page": 37
+    },
+    {
+      "id": "plant_090",
+      "scientific_name": "Lannea alata",
+      "figure_reference": "127",
+      "family": "ANACARDIACEAE",
+      "local_names": [
+        {
+          "name": "IKINOI",
+          "ethnic_groups": [
+            "Samburu"
+          ]
+        }
+      ],
+      "uses": "Bark decoction drunk for fever and malaria, infusion taken for snake bite while the paste is applied on fractures and wounds.",
+      "source_page": 37
+    },
+    {
+      "id": "plant_091",
+      "scientific_name": "Lannea edulis",
+      "figure_reference": null,
+      "family": "ANACARDIACEAE",
+      "local_names": [
+        {
+          "name": "MUGULUMO",
+          "ethnic_groups": [
+            "Hehe"
+          ]
+        }
+      ],
+      "uses": "Nearly all Hehe women use this plant when they are in labour. The roots are boiled and the decoction drunk. from a cupful to 2 pints a day and this normally leads to vomiting. Pounded roots mixed with those of Imperata cylindrica soaked in water and drunk for malaria.",
+      "source_page": 37
+    },
+    {
+      "id": "plant_092",
+      "scientific_name": "Cyathula uncinulata",
+      "figure_reference": "72",
+      "family": "ANACARDIACEAE",
+      "local_names": [
+        {
+          "name": "IRIMATA",
+          "ethnic_groups": [
+            "Pare"
+          ]
+        },
+        {
+          "name": "MTULULA",
+          "ethnic_groups": [
+            "Sukuma"
+          ]
+        },
+        {
+          "name": "LUSAI",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        }
+      ],
+      "uses": "The roots are used by barren women to induce pregnancy. It is also used as an emetic. In both cases the roots are boiled and the decoction is drunk 2-3 times a day. Fruits are also used for the treatment of abdominal pains. Decoction of leaves used in hot bath for skin rashes.",
+      "source_page": 36
+    },
+    {
+      "id": "plant_093",
+      "scientific_name": "Dasysphaera tomentosa",
+      "figure_reference": null,
+      "family": "ANACARDIACEAE",
+      "local_names": [
+        {
+          "name": "NATILIO",
+          "ethnic_groups": [
+            "Turkana"
+          ]
+        }
+      ],
+      "uses": "Stem infusion is drunk for treatment of stomach ache and it also acts as an emetic.",
+      "source_page": 36
+    },
+    {
+      "id": "plant_094",
+      "scientific_name": "Gomphrena globosa",
+      "figure_reference": null,
+      "family": "ANACARDIACEAE",
+      "local_names": [
+        {
+          "name": "MSECHE",
+          "ethnic_groups": [
+            "Giriama"
+          ]
+        }
+      ],
+      "uses": "Roots used for chest diseases. Boiled decoction drunk and steam bath is also applied.",
+      "source_page": 36
+    },
+    {
+      "id": "plant_095",
+      "scientific_name": "Psilotrichum elliottii",
+      "figure_reference": null,
+      "family": "ANACARDIACEAE",
+      "local_names": [
+        {
+          "name": "NYANGARAKILO",
+          "ethnic_groups": [
+            "Ngoni"
+          ]
+        }
+      ],
+      "uses": "Roots chewed for snake bite treatment and also as an aphrodisiac. Pounded leaf juice used as a haemostatic against nose bleeding.",
+      "source_page": 36
+    },
+    {
+      "id": "plant_096",
+      "scientific_name": "Psilotrichum scleranthum",
+      "figure_reference": null,
+      "family": "ANACARDIACEAE",
+      "local_names": [
+        {
+          "name": "CHIBIRITI",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        },
+        {
+          "name": "KABARU KITSAKA",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        },
+        {
+          "name": "MKIBIRITI",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        }
+      ],
+      "uses": "Ash from the burnt leaves is applied to hernia. It is said to cause urtication and thus to cure any obstruction caused by the hernia. The ash is also rubbed into cuts to reduce swelling or pain. It is said to cause a sharp pain like a burn. Poultices with hot water are made from the leaves and used to reduce swellings.",
+      "source_page": 36
+    },
+    {
+      "id": "plant_097",
+      "scientific_name": "Pseuderanthemum tunicatum",
+      "figure_reference": null,
+      "family": "ANACARDIACEAE",
+      "local_names": [
+        {
+          "name": "MBOGABOGA",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        }
+      ],
+      "uses": "The leaves are soaked in water and the infusion is used as a wash for headache. Roots are used for chest complaints and for abdominal pains.",
+      "source_page": 31
+    },
+    {
+      "id": "plant_098",
+      "scientific_name": "Ruellia patula",
+      "figure_reference": "159",
+      "family": "ANACARDIACEAE",
+      "local_names": [
+        {
+          "name": "LINDAMIRA",
+          "ethnic_groups": [
+            "Ngoni"
+          ]
+        },
+        {
+          "name": "RUBI",
+          "ethnic_groups": [
+            "Swahili"
+          ]
+        }
+      ],
+      "uses": "Roots used for swollen glands, while their infusion acts as a cooling medicine.",
+      "source_page": 31
+    },
+    {
+      "id": "plant_099",
+      "scientific_name": "Thunbergia alata",
+      "figure_reference": "184",
+      "family": "ANACARDIACEAE",
+      "local_names": [
+        {
+          "name": "INDELERESIA",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        },
+        {
+          "name": "KIMIRA",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        },
+        {
+          "name": "TSINDELESIA",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        },
+        {
+          "name": "NYAWEND-AGWATA",
+          "ethnic_groups": [
+            "Luo"
+          ]
+        }
+      ],
+      "uses": "Leaves of this herb are crushed and added to water. The liquid is given as a drink to children who have pains in the mouth and tongue. Leaves and buds are pounded and mixed with ghee, then used as an embrocation for the treatment of backache, hydrocele, and pain in joints. Whole plant decoction drunk by expectant mothers for treatment of the placenta and hardening the foetus head.",
+      "source_page": 31
+    },
+    {
+      "id": "plant_100",
+      "scientific_name": "Thunbergia fischeri",
+      "figure_reference": null,
+      "family": "ANACARDIACEAE",
+      "local_names": [
+        {
+          "name": "EBENEBUSI",
+          "ethnic_groups": [
+            "Maasai"
+          ]
+        }
+      ],
+      "uses": "The plant is crushed in fat and given to children as a purgative.",
+      "source_page": 31
+    },
+    {
+      "id": "plant_101",
+      "scientific_name": "Whitfieldia elongata",
+      "figure_reference": null,
+      "family": "ANACARDIACEAE",
+      "local_names": [
+        {
+          "name": "NGEULA",
+          "ethnic_groups": [
+            "Nguru"
+          ]
+        }
+      ],
+      "uses": "Roots used for snake bite by chewing them.",
+      "source_page": 31
+    },
+    {
+      "id": "plant_102",
+      "scientific_name": "Gisekia phanaceoides",
+      "figure_reference": null,
+      "family": "AIZOACEAE",
+      "local_names": [],
+      "uses": null,
+      "source_page": 31
+    },
+    {
+      "id": "plant_103",
+      "scientific_name": "Justicia salvioides",
+      "figure_reference": null,
+      "family": "AIZOACEAE",
+      "local_names": [
+        {
+          "name": "SLUGUTI",
+          "ethnic_groups": [
+            "Nyamwezi"
+          ]
+        }
+      ],
+      "uses": "Roots boiled with gruel and given to babies with intestinal disorders.",
+      "source_page": 30
+    },
+    {
+      "id": "plant_104",
+      "scientific_name": "Justicia schimperiana",
+      "figure_reference": null,
+      "family": "AIZOACEAE",
+      "local_names": [],
+      "uses": "Roots used for headache treatment. The plant is also used as a laxative.",
+      "source_page": 30
+    },
+    {
+      "id": "plant_105",
+      "scientific_name": "Justicia striata",
+      "figure_reference": null,
+      "family": "AIZOACEAE",
+      "local_names": [
+        {
+          "name": "KIKALOMION",
+          "ethnic_groups": [
+            "Marakwet"
+          ]
+        }
+      ],
+      "uses": "The whole plant crushed and juice applied to wounds, or the herb is dried burnt and ash applied to wounds.",
+      "source_page": 30
+    },
+    {
+      "id": "plant_106",
+      "scientific_name": "Mimulopsis solmsii",
+      "figure_reference": null,
+      "family": "AIZOACEAE",
+      "local_names": [
+        {
+          "name": "SETYOT",
+          "ethnic_groups": [
+            "Kipsigis"
+          ]
+        }
+      ],
+      "uses": "The plant has magical properties associated with circumcision and other rites which should not take place when it is flowering.",
+      "source_page": 30
+    },
+    {
+      "id": "plant_107",
+      "scientific_name": "Monechma subsessilis",
+      "figure_reference": null,
+      "family": "AIZOACEAE",
+      "local_names": [
+        {
+          "name": "MUKHWESO",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        }
+      ],
+      "uses": "Roots chewed and juice swallowed by a mother in labour pain to hasten delivery.",
+      "source_page": 30
+    },
+    {
+      "id": "plant_108",
+      "scientific_name": "Phaulopsis longifolia",
+      "figure_reference": null,
+      "family": "AIZOACEAE",
+      "local_names": [
+        {
+          "name": "KWILU",
+          "ethnic_groups": [
+            "Bende"
+          ]
+        }
+      ],
+      "uses": "Root used for magic, but no specific details was given.",
+      "source_page": 30
+    },
+    {
+      "id": "plant_109",
+      "scientific_name": "Pseuderanthemum hildebrandtii",
+      "figure_reference": null,
+      "family": "AIZOACEAE",
+      "local_names": [
+        {
+          "name": "MGURUMA",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        }
+      ],
+      "uses": "Roots used for snakebite treatment, or rubbed on externally for bronchitis. Roots and leaves used for intestinal pains. Roots are also boiled and the infusion drunk three times a day for dysentery.",
+      "source_page": 30
+    },
+    {
+      "id": "plant_110",
+      "scientific_name": "Justicia engleriana",
+      "figure_reference": null,
+      "family": "AIZOACEAE",
+      "local_names": [
+        {
+          "name": "FUGUTU",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        }
+      ],
+      "uses": "Roots boiled with beef and the liquid used as a purgative.",
+      "source_page": 29
+    },
+    {
+      "id": "plant_111",
+      "scientific_name": "Justicia exigua",
+      "figure_reference": null,
+      "family": "AIZOACEAE",
+      "local_names": [],
+      "uses": "This plant and Senecio discifolius are used for intestinal worms. The leaves are pounded together and warm water added. The liquid is then drunk twice a day.",
+      "source_page": 29
+    },
+    {
+      "id": "plant_112",
+      "scientific_name": "Justicia flava",
+      "figure_reference": "126",
+      "family": "AIZOACEAE",
+      "local_names": [
+        {
+          "name": "UHULULU",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        },
+        {
+          "name": "MUKOBO",
+          "ethnic_groups": [
+            "Bondei"
+          ]
+        },
+        {
+          "name": "TURKWOT",
+          "ethnic_groups": [
+            "Kipsigis"
+          ]
+        }
+      ],
+      "uses": "Roots are cooked in water and the extract used as a medicine for stomachache and diarrhoea, chewed for coughs, or used in magic ceremonies. Large quantities of this plant are gathered, burnt and the ashes mixed with water which is strained through cheese cloth. The filtrate is then evaporated over a fire to obtain salt. Leaves are used as an emetic, the decoction used as an eye lotion, or drunk for treating oedema.",
+      "source_page": 29
+    },
+    {
+      "id": "plant_113",
+      "scientific_name": "Justicia luteocinerea",
+      "figure_reference": null,
+      "family": "AIZOACEAE",
+      "local_names": [
+        {
+          "name": "KEPKALAMION",
+          "ethnic_groups": [
+            "Marakwet"
+          ]
+        }
+      ],
+      "uses": "The whole plant may be burnt and the ash applied to sores, or it may be pounded, soaked in water and applied to sores.",
+      "source_page": 29
+    },
+    {
+      "id": "plant_114",
+      "scientific_name": "Justicia odora",
+      "figure_reference": null,
+      "family": "AIZOACEAE",
+      "local_names": [
+        {
+          "name": "OLOROPIL LO-MUNYI",
+          "ethnic_groups": [
+            "Maasai"
+          ]
+        }
+      ],
+      "uses": "An infusion of the leaves is drunk by women for general abdominal pains and for curing infertility.",
+      "source_page": 29
+    },
+    {
+      "id": "plant_115",
+      "scientific_name": "Justicia pinguior",
+      "figure_reference": null,
+      "family": "AIZOACEAE",
+      "local_names": [
+        {
+          "name": "SHIKUKUNI",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        },
+        {
+          "name": "TURKWOT",
+          "ethnic_groups": [
+            "Kipsigis"
+          ]
+        }
+      ],
+      "uses": "The green leaves are crushed, boiled in water and the extract drunk as a cure for intestinal worms. Young Kipsigis men roll the leaves in fat and tie them around their necks as a charm. MWANA-NGIRA (Giriama) Roots used as chest medicine, while the dried powdered plant is soaked in water and the infusion drunk to stop diarrhoea.",
+      "source_page": 29
+    },
+    {
+      "id": "plant_116",
+      "scientific_name": "Glinus oppositifolius",
+      "figure_reference": null,
+      "family": "AIZOACEAE",
+      "local_names": [
+        {
+          "name": "KAMBIMBI",
+          "ethnic_groups": [
+            "Giriama"
+          ]
+        }
+      ],
+      "uses": "Leaves used for headache and stomach problems.",
+      "source_page": 32
+    },
+    {
+      "id": "plant_117",
+      "scientific_name": "Mollugo cerviana",
+      "figure_reference": null,
+      "family": "AIZOACEAE",
+      "local_names": [
+        {
+          "name": "ILOLOMPYA",
+          "ethnic_groups": [
+            "Hehe"
+          ]
+        }
+      ],
+      "uses": "Leaves pounded, soaked in water and infusion drunk for constipation and stomachache.",
+      "source_page": 32
+    },
+    {
+      "id": "plant_118",
+      "scientific_name": "Alangium chinense",
+      "figure_reference": null,
+      "family": "ALANGIACEAE",
+      "local_names": [
+        {
+          "name": "MUTOBOLO",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        }
+      ],
+      "uses": "The stems and the branches are used by native doctors in magic ceremonies.",
+      "source_page": 32
+    },
+    {
+      "id": "plant_119",
+      "scientific_name": "Achyranthes aspera",
+      "figure_reference": "11",
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "AUCH-AUCH",
+          "ethnic_groups": [
+            "Luo"
+          ]
+        },
+        {
+          "name": "INYALO",
+          "ethnic_groups": [
+            "Turu"
+          ]
+        },
+        {
+          "name": "LUGENI.",
+          "ethnic_groups": [
+            "Hehe"
+          ]
+        },
+        {
+          "name": "LUSAYI",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        },
+        {
+          "name": "PULULE",
+          "ethnic_groups": [
+            "Swahili"
+          ]
+        },
+        {
+          "name": "UTHEKETHE",
+          "ethnic_groups": [
+            "Kamba"
+          ]
+        }
+      ],
+      "uses": "The leaves are taken and dried by the fire and ground. The powder is then applied on cuts made with a razor blade in cases of ankle sprains. It is used together with commercial salt. It is also a medicine for headache. Roots chewed and applied on cuts will stop bleeding. A decoction made from the roots is used as medicine for constipation in children and to cure stitch. The pounded root is steeped in hot water, and the extract drunk cold as a cure for venereal diseases. The ash of the burned leaves is applied on boils. The plant is also used as a charm against evil spirits. Pounded leaves paste applied on",
+      "source_page": 32
+    },
+    {
+      "id": "plant_120",
+      "scientific_name": "Duosperma crenatum",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "NJELULA",
+          "ethnic_groups": [
+            "Gogo"
+          ]
+        },
+        {
+          "name": "NYANGELULE",
+          "ethnic_groups": [
+            "Hehe"
+          ]
+        }
+      ],
+      "uses": "Leaves pounded, soaked in water and infusion drunk by pregnant women for safe delivery.",
+      "source_page": 27
+    },
+    {
+      "id": "plant_121",
+      "scientific_name": "Dyschoriste hildebrandtii",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "KWILANGASWE",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        }
+      ],
+      "uses": "Root used for snakebite treatment. The root decoction is drunk and also used for washing the wound.",
+      "source_page": 27
+    },
+    {
+      "id": "plant_122",
+      "scientific_name": "Dyschoriste radicans",
+      "figure_reference": "82",
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "RATEK-MIN-ANG'ASA",
+          "ethnic_groups": [
+            "Luo"
+          ]
+        },
+        {
+          "name": "SHIKUKUNA",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        }
+      ],
+      "uses": "Leaf infusion drunk and used for bathing in the management of AIDS. Whole plant used for treatment of snake bite.",
+      "source_page": 27
+    },
+    {
+      "id": "plant_123",
+      "scientific_name": "Ecbolium boranensis",
+      "figure_reference": "83",
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "LEKUCHENI",
+          "ethnic_groups": [
+            "Turkana"
+          ]
+        }
+      ],
+      "uses": "Used as medicine by the Turkana for stopping stomachache in babies.",
+      "source_page": 27
+    },
+    {
+      "id": "plant_124",
+      "scientific_name": "Ecbolium viride",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "MBUGUNO",
+          "ethnic_groups": [
+            "Sukuma"
+          ]
+        }
+      ],
+      "uses": "Root used for snake bite treatment. For a quick action the roots are chewed but for further treatment they are pounded and soaked in water and the infusion used both orally and externally for washing the wound.",
+      "source_page": 27
+    },
+    {
+      "id": "plant_125",
+      "scientific_name": "Hygrophila auriculata",
+      "figure_reference": "117",
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "ANDUONG'O",
+          "ethnic_groups": [
+            "Luo"
+          ]
+        },
+        {
+          "name": "CHIMVUNO",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        },
+        {
+          "name": "KOMBA",
+          "ethnic_groups": [
+            "Giriama"
+          ]
+        },
+        {
+          "name": "KOXOMEA",
+          "ethnic_groups": [
+            "Nyaturu"
+          ]
+        }
+      ],
+      "uses": "Used in the form of fumigation of the eye for the treatment of corneal ulcer. The whole plant may be soaked in water and the infusion which is said to have a cooling property used as a body wash for headache. Crushed leaves are placed in the nostrils and the fumes inhaled as a treatment for headache.",
+      "source_page": 27
+    },
+    {
+      "id": "plant_126",
+      "scientific_name": "Blepharis pratensis",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "CHINGALE",
+          "ethnic_groups": [
+            "Yao"
+          ]
+        }
+      ],
+      "uses": "Leaves crushed and used as a medicine for earache.",
+      "source_page": 26
+    },
+    {
+      "id": "plant_127",
+      "scientific_name": "Brachystephanus holstii",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "MSANGULA",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        }
+      ],
+      "uses": "Root decoction drunk for intestinal disorders. Pounded roots also used for the treatment of gland irritation.",
+      "source_page": 26
+    },
+    {
+      "id": "plant_128",
+      "scientific_name": "Crabbia velutina",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "SAGALAQAYMO",
+          "ethnic_groups": [
+            "Iraqw"
+          ]
+        }
+      ],
+      "uses": "The whole plant is used for treatment of severe skin rash over a large area of skin. The herb is dried and made into powder which is applied onto the infected part. After several days of application the rash stops and the infected skin dries and peels off. Leaves are a remedy for headaches. Fresh leaves are crushed and inhaled. This relieves the headache. Roots are also used for eye treatment. Fresh roots are boiled. The patient looks with eyes wide open into the container from where ensues steam from the boiling infusion. The steam is believed to clean the eyes and kill any disease-causing agents.",
+      "source_page": 26
+    },
+    {
+      "id": "plant_129",
+      "scientific_name": "Crossandra nilotica",
+      "figure_reference": "62",
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "CHEBERENET",
+          "ethnic_groups": [
+            "Kipsigis"
+          ]
+        }
+      ],
+      "uses": "The plant is mainly used for the treatment of cobra bite. Leaves are simply chewed and then spat on the place where the venom has been injected or sprayed. The Maasai use this treatment for both themselves and their cattle, while the Kipsigis have mainly applied it to cattle, probably because cattle are more frequently attacked by snakes than human beings.",
+      "source_page": 26
+    },
+    {
+      "id": "plant_130",
+      "scientific_name": "Dicliptera laxata",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "TURKWOT",
+          "ethnic_groups": [
+            "Kipsigis"
+          ]
+        },
+        {
+          "name": "LUNYASI-LWIBITUTI",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        }
+      ],
+      "uses": "Roots are chewed as a cough remedy and for stomach ache. Leaf infusion drunk for fever.",
+      "source_page": 26
+    },
+    {
+      "id": "plant_131",
+      "scientific_name": "Barleria amanensis",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "KATIKIM",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        }
+      ],
+      "uses": "Boiled or pounded and soaked root decoction drunk 2-3 times a day for the treatment of gonorrhoea.",
+      "source_page": 25
+    },
+    {
+      "id": "plant_132",
+      "scientific_name": "Barleria grandicalyx",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "CHEBERENET",
+          "ethnic_groups": [
+            "Kipsigis"
+          ]
+        },
+        {
+          "name": "OL-MEIDEIMEI",
+          "ethnic_groups": [
+            "Maasai"
+          ]
+        }
+      ],
+      "uses": "The leaves are chewed or pulped and rubbed well into a snake bite wound as a treatment.",
+      "source_page": 25
+    },
+    {
+      "id": "plant_133",
+      "scientific_name": "Barleria prionitis",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "SAMAMBISI",
+          "ethnic_groups": [
+            "Zaramo"
+          ]
+        }
+      ],
+      "uses": "Leaves crushed and the liquid drunk for swollen testicles. Leaves crushed and drops put in sore eyes.",
+      "source_page": 25
+    },
+    {
+      "id": "plant_134",
+      "scientific_name": "Barleria quadrispina",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "SATSHAYA",
+          "ethnic_groups": [
+            "Samburu"
+          ]
+        }
+      ],
+      "uses": "Root decoction drunk as a remedy for stomach ache.",
+      "source_page": 25
+    },
+    {
+      "id": "plant_135",
+      "scientific_name": "Barleria spinisepala",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "SUCHA",
+          "ethnic_groups": [
+            "Samburu"
+          ]
+        }
+      ],
+      "uses": "Herb used by the Samburu in ritual ceremonies.",
+      "source_page": 25
+    },
+    {
+      "id": "plant_136",
+      "scientific_name": "Blepharis integrifolia",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "EKULEU-LOCHI",
+          "ethnic_groups": [
+            "Turkana"
+          ]
+        }
+      ],
+      "uses": "Whole plant boiled and decoction drunk as a remedy for fever.",
+      "source_page": 25
+    },
+    {
+      "id": "plant_137",
+      "scientific_name": "Blepharis maderaspatensis",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "MUHAVAHA",
+          "ethnic_groups": [
+            "Sukuma"
+          ]
+        }
+      ],
+      "uses": "Root and leaves used for eye-ache treatment. The roots or leaves are pounded, soaked in water and used as an eye-drop for any kind of infection.",
+      "source_page": 25
+    },
+    {
+      "id": "plant_138",
+      "scientific_name": "Acanthus eminens",
+      "figure_reference": "10",
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "LIRAGALU",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        }
+      ],
+      "uses": "Burnt ash of the plant, especially the leaves, is licked for the treatment of spleen diseases.",
+      "source_page": 24
+    },
+    {
+      "id": "plant_139",
+      "scientific_name": "Acanthus pubescens",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "LIRAKALU",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        }
+      ],
+      "uses": "Leaf decoction used for treating liver and spleen problems.",
+      "source_page": 24
+    },
+    {
+      "id": "plant_140",
+      "scientific_name": "Anisotes dumosus",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "ISAGARA",
+          "ethnic_groups": [
+            "Nyamwezi"
+          ]
+        }
+      ],
+      "uses": "Root decoction used as an enema and for infertility.",
+      "source_page": 24
+    },
+    {
+      "id": "plant_141",
+      "scientific_name": "Asystasia gangetica",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "MFORFOR",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        }
+      ],
+      "uses": "Leaves are crushed, boiled in water and the decoction drunk as a cure for intestinal worms.",
+      "source_page": 24
+    },
+    {
+      "id": "plant_142",
+      "scientific_name": "Asystasia mysorensis",
+      "figure_reference": "27",
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "ATIPA",
+          "ethnic_groups": [
+            "Luo"
+          ]
+        },
+        {
+          "name": "KISUVU",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        }
+      ],
+      "uses": "In conditions where a child has a cold or headache including malaria the leaves are crushed in a mortar, water added, shaken and the infusion is drunk by the child.",
+      "source_page": 24
+    },
+    {
+      "id": "plant_143",
+      "scientific_name": "Barleria acanthoides",
+      "figure_reference": "31",
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "LEKWELITO",
+          "ethnic_groups": [
+            "Turkana"
+          ]
+        }
+      ],
+      "uses": "Used as medicine for goats, but no specific details given.",
+      "source_page": 24
+    },
+    {
+      "id": "plant_144",
+      "scientific_name": "Hygrophila spiciformis",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [],
+      "uses": "A decoction of the leaves is drunk for treatment of hepatic diseases.",
+      "source_page": 28
+    },
+    {
+      "id": "plant_145",
+      "scientific_name": "Hypoestes aristata",
+      "figure_reference": "119",
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "KUMBUKWA",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        },
+        {
+          "name": "TURKWOT",
+          "ethnic_groups": [
+            "Kipsigis"
+          ]
+        },
+        {
+          "name": "TURWOT",
+          "ethnic_groups": [
+            "Kipsigis"
+          ]
+        }
+      ],
+      "uses": "Boiled in water and used for diseases of the breast. Roots chewed as a remedy for coughs, influenza, colds and sore throats.",
+      "source_page": 28
+    },
+    {
+      "id": "plant_146",
+      "scientific_name": "Isoglossa lactea",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "KINGO",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        }
+      ],
+      "uses": "Root used for syphilis, or chewed as a remedy for cough. For the treatment of syphilis, the roots are boiled and the decoction drunk three times a day.",
+      "source_page": 28
+    },
+    {
+      "id": "plant_147",
+      "scientific_name": "Justicia betonica",
+      "figure_reference": "125",
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "CHEBERENET - NEO",
+          "ethnic_groups": [
+            "Kipsigis"
+          ]
+        },
+        {
+          "name": "TURKWOT",
+          "ethnic_groups": [
+            "Kipsigis"
+          ]
+        },
+        {
+          "name": "LUMASANI",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        },
+        {
+          "name": "OBWIMIRI",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        }
+      ],
+      "uses": "In cases of snake bite (particularly cobra) an infusion is made from the green leaves and drunk by the person bitten. Roots are roasted and chewed while hot as a cough remedy. Shoots infusion drunk for orchitis and venereal diseases.",
+      "source_page": 28
+    },
+    {
+      "id": "plant_148",
+      "scientific_name": "Justica calyculata",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "APIWO",
+          "ethnic_groups": [
+            "Luo"
+          ]
+        }
+      ],
+      "uses": "Crushed leaves rubbed on snakebite wounds as a remedy.",
+      "source_page": 28
+    },
+    {
+      "id": "plant_149",
+      "scientific_name": "Justicia campylostemon",
+      "figure_reference": null,
+      "family": "AMARANTHACEAE",
+      "local_names": [
+        {
+          "name": "NYALA YA WAGOTA",
+          "ethnic_groups": [
+            "Sukuma"
+          ]
+        }
+      ],
+      "uses": "Leaves used for intestinal treatment.",
+      "source_page": 28
+    },
+    {
+      "id": "plant_150",
+      "scientific_name": "Juniperus procera",
+      "figure_reference": null,
+      "family": "CUPRESSACEAE",
+      "local_names": [
+        {
+          "name": "MUTARAKWA",
+          "ethnic_groups": [
+            "Kikuyu"
+          ]
+        },
+        {
+          "name": "MATARAKWA",
+          "ethnic_groups": [
+            "Chagga"
+          ]
+        }
+      ],
+      "uses": "Young twigs and buds are ground, soaked in water, and the infusion drunk for the treatment of intestinal worms.",
+      "source_page": 23
+    },
+    {
+      "id": "plant_151",
+      "scientific_name": "Podocarpus falcatus & Podocarpus latifolius",
+      "figure_reference": "156",
+      "family": "PODOCARPACEAE",
+      "local_names": [
+        {
+          "name": "PODO",
+          "ethnic_groups": [
+            "Trade name"
+          ]
+        },
+        {
+          "name": "MUTHENGERA",
+          "ethnic_groups": [
+            "Kikuyu"
+          ]
+        },
+        {
+          "name": "MVAVAVI",
+          "ethnic_groups": [
+            "Chagga"
+          ]
+        }
+      ],
+      "uses": "An infusion of the bark is drunk for the treatment of stomach ache.",
+      "source_page": 23
+    },
+    {
+      "id": "plant_152",
+      "scientific_name": "Encephalartos kisambo",
+      "figure_reference": null,
+      "family": "ZAMIACEAE",
+      "local_names": [
+        {
+          "name": "MNYANGARA",
+          "ethnic_groups": [
+            "Mpanda"
+          ]
+        }
+      ],
+      "uses": "The roots are known to be widely used by witch doctors for some medicinal purposes which they are reluctant to reveal. ANGIOSPERMS (DICOTYLEDONS)",
+      "source_page": 23
+    },
+    {
+      "id": "plant_153",
+      "scientific_name": "Cynanchum altiscandens",
+      "figure_reference": null,
+      "family": "ACANTHACEAE",
+      "local_names": [
+        {
+          "name": "MUHALIA",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        }
+      ],
+      "uses": "Pounded leaf paste is applied to a freshly circumcised wound to enhance healing. Pounded leaf infusion is given to calving cow to increase lactation.",
+      "source_page": 51
+    },
+    {
+      "id": "plant_154",
+      "scientific_name": "Cynanchum defoliascens",
+      "figure_reference": null,
+      "family": "ACANTHACEAE",
+      "local_names": [
+        {
+          "name": "ELAGAMA",
+          "ethnic_groups": [
+            "Turkana"
+          ]
+        }
+      ],
+      "uses": "Plant infusion drunk for painful menstruation.",
+      "source_page": 51
+    },
+    {
+      "id": "plant_155",
+      "scientific_name": "Dregea abyssinica",
+      "figure_reference": null,
+      "family": "ACANTHACEAE",
+      "local_names": [
+        {
+          "name": "LAMEE",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        },
+        {
+          "name": "UBOMBO",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        }
+      ],
+      "uses": "The bark is soaked in water for 2-3 days and the infusion given to children in the morning and evening as a remedy for diarrhoea. Fresh roots chewed for snake bite treatment and as an aphrodisiac. Boiled root infusion drunk for indigestion, while fresh or dried roots are chewed as an aphrodisiac.",
+      "source_page": 51
+    },
+    {
+      "id": "plant_156",
+      "scientific_name": "Dregea rubicunda",
+      "figure_reference": null,
+      "family": "ACANTHACEAE",
+      "local_names": [
+        {
+          "name": "UBOMBO",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        }
+      ],
+      "uses": "Boiled root decoction drunk for indigestion, while fresh or dried roots are chewed as an aphrodisiac.",
+      "source_page": 51
+    },
+    {
+      "id": "plant_157",
+      "scientific_name": "Dregea schimperi",
+      "figure_reference": null,
+      "family": "ACANTHACEAE",
+      "local_names": [
+        {
+          "name": "LAMEE",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        },
+        {
+          "name": "UBOMBO",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        }
+      ],
+      "uses": "The bark is soaked in water for 2-3 days and the infusion given to children in the morning and evening as a remedy for diarrhoea. Fresh roots chewed for snake bite treatment, and as an aphrodisiac. Boiled root infusion drunk for indigestion, while fresh or dried roots are chewed as an aphrodisiac.",
+      "source_page": 51
+    },
+    {
+      "id": "plant_158",
+      "scientific_name": "Gomphocarpus fruticosus",
+      "figure_reference": "102",
+      "family": "ACANTHACEAE",
+      "local_names": [
+        {
+          "name": "MUVUNGU",
+          "ethnic_groups": [
+            "Kamba"
+          ]
+        }
+      ],
+      "uses": "Boiled root decoction reported to be drunk 2-3 times a day for liver troubles and for abdominal pains. FUNGUS, LICHENS AND FERNS",
+      "source_page": 51
+    },
+    {
+      "id": "plant_159",
+      "scientific_name": "Engleromyces goetzei",
+      "figure_reference": "87",
+      "family": "XYLARIACEAE",
+      "local_names": [
+        {
+          "name": "KIEHA-KIA-MURANGI",
+          "ethnic_groups": [
+            "Kikuyu"
+          ]
+        },
+        {
+          "name": "MANDEWAP TEGAT",
+          "ethnic_groups": [
+            "Marakwet"
+          ]
+        }
+      ],
+      "uses": "The 'baby's bottom' is a solid fungus somewhat resembling a human skull and is common in montane bamboo forests. Fresh or dried bread-like stuff is eaten by many tribes but more so by the Kikuyu for the treatment of pneumonia, colds, fever (including malaria), psychosomatic problems and liver diseases. A compound, Engleromycin isolated from this fungus in 1983 proved effective against some viruses and bacteria.",
+      "source_page": 40
+    },
+    {
+      "id": "plant_160",
+      "scientific_name": "Usnea africana",
+      "figure_reference": null,
+      "family": "USNEACEAE",
+      "local_names": [
+        {
+          "name": "HEWAS",
+          "ethnic_groups": [
+            "Iraqw"
+          ]
+        }
+      ],
+      "uses": "The plant is used for the treatment of stomach ache. The \"stems\" are chewed fresh and the juice swallowed. Though very bitter, it is believed to relieve the pain after a while, and about a handful of the plant is used at a time. Usnea are lichen which contain usnic acid, a substance with bacteriostatic properties. Usnic acid occurs as yellow crystals which are entirely insoluble in water. Although its insolubility in water makes it difficult to use in medicine, usnic acid has proved effective against gram-positive organisms, including Koch's bacillus.",
+      "source_page": 40
+    },
+    {
+      "id": "plant_161",
+      "scientific_name": "Usnea flavescens",
+      "figure_reference": null,
+      "family": "USNEACEAE",
+      "local_names": [
+        {
+          "name": "HEWAS",
+          "ethnic_groups": [
+            "Iraqw"
+          ]
+        }
+      ],
+      "uses": "This species has the same medicinal properties as the preceding species, and the local people and medicine-men use them without realizing the difference.",
+      "source_page": 21
+    },
+    {
+      "id": "plant_162",
+      "scientific_name": "Pellaea calomelanos",
+      "figure_reference": null,
+      "family": "ADIANTACEAE",
+      "local_names": [
+        {
+          "name": "MURIMIARIMIA",
+          "ethnic_groups": [
+            "Kirangi"
+          ]
+        }
+      ],
+      "uses": "The whole plant is dried, burnt and ash licked to lower the blood pressure.",
+      "source_page": 21
+    },
+    {
+      "id": "plant_163",
+      "scientific_name": "Pellaea viridis",
+      "figure_reference": null,
+      "family": "ADIANTACEAE",
+      "local_names": [],
+      "uses": "Although no Luo name was given for the fern, the leaves are pounded and the paste rubbed onto snake bites as an antidote.",
+      "source_page": 21
+    },
+    {
+      "id": "plant_164",
+      "scientific_name": "Dryopteris inaequilis",
+      "figure_reference": null,
+      "family": "ASPIDIACEAE",
+      "local_names": [
+        {
+          "name": "LAW-TU",
+          "ethnic_groups": [
+            "Iraqw"
+          ]
+        }
+      ],
+      "uses": "Roots used for the treatment of intestinal worms, especially the tapeworm. The drug is prepared as follows: dried roots and/or bark are made into powder, a tablespoonful is mixed in a glass of water and drunk early in the morning before any meal is taken. The drug not only kills the worms, but also induces diarrhoea through which the dead worms are discharged from the stomach. This treatment takes a day. Roots are also pounded, soaked in water and drunk for malaria, or the juice used as an ear drop for any ear infections.",
+      "source_page": 21
+    },
+    {
+      "id": "plant_165",
+      "scientific_name": "Dryopteris manniana",
+      "figure_reference": null,
+      "family": "ASPIDIACEAE",
+      "local_names": [
+        {
+          "name": "SHIKAKHA",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        }
+      ],
+      "uses": "Burnt leaf ash mixed with body oil and applied to dog or cat bite wound to cure babies.",
+      "source_page": 21
+    },
+    {
+      "id": "plant_166",
+      "scientific_name": "Pteridium aquilinum",
+      "figure_reference": null,
+      "family": "ASPIDIACEAE",
+      "local_names": [
+        {
+          "name": "MUSUNG",
+          "ethnic_groups": [
+            "Luhya"
+          ]
+        }
+      ],
+      "uses": "Whole plant burnt and ash licked to cure stiff and painful neck, especially that with infected veins.",
+      "source_page": 22
+    },
+    {
+      "id": "plant_167",
+      "scientific_name": "Asplenium loxoscaphoides",
+      "figure_reference": null,
+      "family": "ASPLENIACEAE",
+      "local_names": [
+        {
+          "name": "EKISHIRU",
+          "ethnic_groups": [
+            "Nyankore"
+          ]
+        }
+      ],
+      "uses": "Crushed leaves soaked in water, and the infusion used as a gargle for the treatment of sore throat.",
+      "source_page": 22
+    },
+    {
+      "id": "plant_168",
+      "scientific_name": "Cyathea stuhlmannii",
+      "figure_reference": null,
+      "family": "CYATHEACEAE",
+      "local_names": [
+        {
+          "name": "HONGE",
+          "ethnic_groups": [
+            "Shambaa"
+          ]
+        }
+      ],
+      "uses": "The stems are broken, cut up and steeped in cold water until a sticky liquid has been formed, and the infusion drunk as an anthelmintic.",
+      "source_page": 22
+    },
+    {
+      "id": "plant_169",
+      "scientific_name": "Vittaria guineensis",
+      "figure_reference": null,
+      "family": "VITTARIACEAE",
+      "local_names": [
+        {
+          "name": "CHAHIRA",
+          "ethnic_groups": [
+            "Digo"
+          ]
+        }
+      ],
+      "uses": "An infusion of the leaves is used for washing the head as a treatment for headache. Fresh leaves are crushed, soaked in warm water and used warm for washing the head.",
+      "source_page": 22
+    }
+  ]
+}
